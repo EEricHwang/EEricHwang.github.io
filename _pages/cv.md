@@ -13,7 +13,7 @@ Education
 ======
 * B.Tech. in Aerospace Engineering, Indian Institute of Technology Kharagpur, 2015
 * M.S. in Aeronautics and Astronautics, Purdue University, 2017
-* Ph.D in Aeronautics and Astronautics, Purdue University, 2020 (expected)
+* Ph.D in Aeronautics and Astronautics, Purdue University, 2020
 
   
 Skills
