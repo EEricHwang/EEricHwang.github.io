@@ -6,5 +6,5 @@ excerpt: 'An anomaly is a rare event with a potential for a meaningful operation
 date: 2019-01-07
 venue: 'AIAA SciTech 2019 Forum, San Diego, CA'
 paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2019-0682'
-citation: 'Deshmukh, Raj, and Inseok Hwang. &quotAnomaly Detection Using Temporal Logic Based Learning for Terminal Airspace Operations.&quot <i>AIAA Scitech 2019 Forum</>. 2019.'
+citation: 'Deshmukh, Raj, and Inseok Hwang. "Anomaly Detection Using Temporal Logic Based Learning for Terminal Airspace Operations." <i>AIAA Scitech 2019 Forum</>. 2019.'
 ---
