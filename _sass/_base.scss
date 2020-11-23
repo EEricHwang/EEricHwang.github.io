@@ -178,9 +178,15 @@ li ol {
 
 /* Figures and images */
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
 figure {
   display: -webkit-box;
-  display: flex;
+  display: inline-block;
+  text-align: center;
   -webkit-box-pack: justify;
           justify-content: space-between;
   -webkit-box-align: start;
@@ -196,9 +202,12 @@ figure {
 
   img {
     width: 100%;
+    height: auto;
+    vertical-align: middle;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    vertical-align: top;
   }
 
   > a {
@@ -236,6 +245,7 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
+  text-align: center;
   color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
   font-size: $type-size-6;
