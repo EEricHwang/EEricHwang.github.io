@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {{ title }}<a href="{{ post.link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+      {{ title }}<a href="{{ post.paperurl }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
     </h2>
     
     {% if post.read_time %}
@@ -47,10 +47,5 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
-    {% if post.citation%}
-      <p>Recommended citation: {{ post.citation }}</p>   
-    {% endif %}
-
   </article>
 </div>
