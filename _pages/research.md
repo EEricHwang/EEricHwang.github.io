@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research has two major foci. The first focus lies in the domain of distributed state estimation and control — a subset of networked systems. As sensors become cheaper, miniaturized, and computationally more powerful, the quality of estimation relies on how well the communicating sensors merge and assimilate their measurements. The second focus is toward deepening an understanding of the air traffic management system complexity through data-driven methods. With the advent of powerful machine learning tools in tandem with high-fidelity data recording tools in the airspace system, the study of large aviation datasets can allow us to model evolutionary behaviors in the complex air traffic management system. Upon scaling algorithms dedicated to this purpose, they can potentially be used as support tools to automate the decision-making process for air traffic control, which will help safely increase the throughput of the system. Apart from these two, I have taken an avid interest in autonomous navigation capabilities associated with ground vehicles.
+My research has two major foci. The first focus lies in the domain of <strong>distributed state estimation and control</strong> — a subset of networked systems. As sensors become cheaper, miniaturized, and computationally more powerful, the quality of estimation relies on how well the communicating sensors merge and assimilate their measurements. The second focus is toward deepening an <strong>understanding of the air traffic management system complexity through data-driven methods</strong>. With the advent of powerful machine learning tools in tandem with high-fidelity data recording tools in the airspace system, the study of large aviation datasets can allow us to model evolutionary behaviors in the complex air traffic management system. Upon scaling algorithms dedicated to this purpose, they can potentially be used as support tools to automate the decision-making process for air traffic control, which will help safely increase the throughput of the system. Apart from these two, I have taken an avid interest in autonomous navigation capabilities associated with ground vehicles.
 
 <hr>
 How to Make Networked Sensors Smarter?
@@ -45,12 +45,12 @@ During my Ph.D., I researched anomaly detection in aviation datasets, where the 
 
 <figure>
   <img src="/images/tempad1.png" alt="Architecture of Anomaly Detection Algorithm" style="width:70%">
-  <figcaption>Architecture of Anomaly Detection Algorithm.</figcaption>
+  <figcaption>Architecture of anomaly detection algorithm.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/NewerSturn.png" alt="Anomaly and Precursor Detection" style="width:50%">
-  <figcaption>Anomaly and Precursor Detection for Approach to LGA RWY31.</figcaption>
+  <figcaption>Anomaly and precursor detection for approach to LGA RWY31.</figcaption>
 </figure>
 
 This research for anomaly and precursor detection was a collaborative project with NASA, Mosaic ATM, and Honeywell, and required me to test and then package and deploy the developed algorithms. The algorithms were tested in a realistic scenario on datasets recorded in the New York metroplex airspace region.
