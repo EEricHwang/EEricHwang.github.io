@@ -21,7 +21,7 @@ How to Make Networked Sensors Smarter?
 <div class="flex-container">
   <div><figure>
   <img src="/images/iet2.jpg" alt="Tracked aircraft trajectory" style="width:80%">
-  <figcaption>Tracking an aircraft that switches between left-turn, right-turn and constant-velocity modes.</figcaption>
+  <figcaption>Tracking an aircraft that switches between left-turn, right-turn and constant-velocity modes, using a network of air-traffic surveillance seniors.</figcaption>
 </figure></div>
   <div><figure>
   <img src="/images/iet3.jpg" alt="Aircraft mode porbability" style="width:80%">
