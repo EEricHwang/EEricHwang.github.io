@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a developer in the Object Tracker team at APTIV in Troy, Michigan. My work typically focuses on design and implementation for sensing and perception modules for software-based automotive autonomy solutions, which is a part of Aptiv's [Active Safety & User Experience](https://www.aptiv.com/solutions/advanced-safety) deliverables. I earned my Ph.D. and masters in the [Flight Dynamics & Control/ Hybrid Systems Lab](https://sites.google.com/view/fdchsl/home) at Purdue University, and my bachelors degree at [IIT Kharagpur](http://www.ae.iitkgp.ac.in/) in India. During all my degrees, I have majored in aerospace/aeronautical engineering, with a focus on control, estimation, and aircraft dynamics.
+Hello! I am a developer in the Object Tracker team at APTIV in Troy, Michigan. My work typically focuses on design and implementation for sensing and perception modules for software-based automotive autonomy solutions, which is a part of Aptiv's [Advanced Safety & User Experience](https://www.aptiv.com/solutions/advanced-safety) deliverables. I earned my Ph.D. and masters in the [Flight Dynamics & Control/ Hybrid Systems Lab](https://sites.google.com/view/fdchsl/home) at Purdue University, and my bachelors degree at [IIT Kharagpur](http://www.ae.iitkgp.ac.in/) in India. During all my degrees, I have majored in aerospace/aeronautical engineering, with a focus on control, estimation, and aircraft dynamics.
 
 <hr>
 
