@@ -11,7 +11,7 @@ Hello! I am a developer in the Object Fusion team at APTIV in Troy, Michigan. My
 
 <hr>
 
-The [research page](/research) provides an extensive overview of the investigations I have conducted throughout my graduate studies, with a specific emphasis on distributed state estimation and the applied machine learning. All publications stemming from these research endeavors can be found on the [publications page](/publications). An account of my experiences at Aptiv is presented on the [work experience page](/work). This entire narrative is succinctly encapsulated in my CV, accessible through the [CV page](/cv).
+The [research page](/research) provides an extensive overview of the investigations I have conducted throughout my graduate studies, with a specific emphasis on distributed state estimation and applied machine learning. All publications stemming from these research endeavors can be found on the [publications page](/publications). An account of my experiences at Aptiv is presented on the [work experience page](/work). This entire narrative is succinctly encapsulated in my CV, accessible through the [CV page](/cv).
 
 <hr>
 
