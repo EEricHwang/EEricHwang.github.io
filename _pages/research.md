@@ -24,6 +24,7 @@ In contrast to single-agent systems, multi-agent systems (MASs) exhibit a distin
   <img src="/images/Multi-Agent-System.png" alt="MAS" style="width:80%">
   <figcaption> Figure 1: An illustration of the operation of MAS in an urban environment. </figcaption>
 </div>
+<hr>  
 
 </div>
 
