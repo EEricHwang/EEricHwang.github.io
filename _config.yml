@@ -11,7 +11,7 @@ title                    : "Sounghwan (Eric) Hwang"
 title_separator          : "-"
 name                     : &name "Sounghwan (Eric) Hwang"
 description              : &description "personal description"
-url                      : https://EEricHwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://EEricHwang.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EEricHwang/EEricHwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sounghwan (Eric) Hwang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
