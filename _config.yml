@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sounghwan (Eric) Hwang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student at Purdue University"
   location         : "West Lafayette, IN, U.S.A."
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=kCD9GhAAAAAJ&hl=en"
+  email            :  "hwang214@purdue.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "EEricHwang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/sounghwan-eric-hwang-5133b1179"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
