@@ -16,12 +16,44 @@ A Proactive Risk Assessment Methodology based on Reachability and its Applicatio
 ------
 <div id="dots" style="display:inline"> The general idea of estimation is to derive the 'best estimate' for the true value of the state of some system from an incomplete, potentially noisy set of observations on that system. Distributed estimation extends this idea to obtain a state estimate using a network of communication-capable sensors, where the sensors can now correct each others' estimates and achieve overall improvement. My research in this area focuses on deriving 'optimal' target state estimates, applicable to both linear and hybrid state evolutions.</div>
  <div id="more" style="display:none">The general idea of estimation is to derive the 'best estimate' for the true value of the state of some system from an incomplete, potentially noisy set of observations on that system. Distributed estimation extends this idea to obtain a state estimate using a network of communication-capable sensors, where the sensors can now correct each others' estimates and achieve overall improvement. In a founding consensus-based distributed estimation <a href="https://ieeexplore.ieee.org/abstract/document/5399678">article</a>, Olfati introduced a novel consensus-based update architecture for distributed estimation, albeit developing a sub-optimal version owing to the mathematical and implementational complexity involved in developing an optimal version. I devoted my time to research an <a href="https://ieeexplore.ieee.org/abstract/document/7963859" title="Optimal discrete-time Kalman consensus filter @ ACC2017">optimal form</a> of this Kalman consensus filter (OKCF), where the optimal gains resulted in the best possible MMSE estimate of the target. To improve the applicability of the optimal distributed estimator, I subsequently worked to enhance the algorithm to estimate the <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2017.1208" title="Distributed State Estimation for a Stochastic Linear Hybrid System over a Sensor Network @ IET">hybrid states</a> of target evolving in a hybrid fashion using the Interacting Multiple Model concept.
-
- <? This section is for figures and simulation results >
  
 During recent months, I have been involved in an investigation to modify the algorithm to allow the sensors to be '<a href="https://ieeexplore.ieee.org/abstract/document/9030070" title="Optimal Kalman Consensus Filter for Weighted Directed Graphs @ CDC2019">naïve</a>', in the sense that some sensors may not be able to obtain measurements from the target, but are relying just on communicated information.</div>
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn">Read more +</btn> 
+
+<script>
+function myFunction1() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more +"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less -"; 
+    moreText.style.display = "inline";
+  }
+}
+
+function myFunction2() {
+  var dots2 = document.getElementById("dot2");
+  var moreText2 = document.getElementById("mor2");
+  var btnText2 = document.getElementById("myBt2");
+
+  if (dots2.style.display === "none") {
+    dots2.style.display = "inline";
+    btnText2.innerHTML = "Read more +"; 
+    moreText2.style.display = "none";
+  } else {
+    dots2.style.display = "none";
+    btnText2.innerHTML = "Read less -"; 
+    moreText2.style.display = "inline";
+  }
+}
+</script>
 
 
 
