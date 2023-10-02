@@ -20,10 +20,10 @@ A Proactive Risk Assessment Methodology based on Reachability and its Applicatio
 <div id="more" style="display:none">
 In contrast to single-agent systems (SASs), multi-agent systems (MASs) exhibit a distinctive feature wherein the functionality and mission execution of MASs are profoundly reliant on inter-agent communication. For example, 
 
- <figure>
-  <img src="/images/Multi-Agent-System.png" alt="MAS" style="width:40%">
+<center>
+  <img src="/images/Multi-Agent-System.png" alt="MAS" style="width:60%">
   <figcaption>An illustration of the operation of MAS in an urban environment.</figcaption>
-</figure>
+</center>
 
 </div>
 
