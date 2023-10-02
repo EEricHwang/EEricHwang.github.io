@@ -11,8 +11,14 @@ The design and implementation of aerial engineering control systems necessitate 
 
 As a devoted control engineer, my overarching objective throughout my Ph.D. studies is to ensure the safety and optimal performance of these aerial systems, in the presence of malicious threats. I'm committed to addressing the challenges posed by intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
 
+<hr>
+A Proactive Risk Assessment Methodology based on Reachability and its Application to Multi-Agent Systems
+------
+<div id="dots" style="display:inline"> The general idea of estimation is to derive the 'best estimate' for the true value of the state of some system from an incomplete, potentially noisy set of observations on that system. Distributed estimation extends this idea to obtain a state estimate using a network of communication-capable sensors, where the sensors can now correct each others' estimates and achieve overall improvement. My research in this area focuses on deriving 'optimal' target state estimates, applicable to both linear and hybrid state evolutions.</div> <div id="more" style="display:none">The general idea of estimation is to derive the 'best estimate' for the true value of the state of some system from an incomplete, potentially noisy set of observations on that system. Distributed estimation extends this idea to obtain a state estimate using a network of communication-capable sensors, where the sensors can now correct each others' estimates and achieve overall improvement.
+<div id="more" style="display:none"> TBD </div>
 
-
+<hr style="height:1pt; visibility:hidden;" />
+<btn onclick="myFunction1()" id="myBtn">Read more +</btn> 
 
 
 
