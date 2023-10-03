@@ -35,11 +35,15 @@ However, strong reliance of communication between AVs could give rise to the sys
 </div>
 <hr>  
 
-
 </div>
 
 <hr style="height:2pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn">Read more +</btn> 
+
+<hr>
+Resilient Control for Urban Air Mobility Applications against Cyberattacks
+------
+
 
 <script>
 function myFunction1() {
