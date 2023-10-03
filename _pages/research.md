@@ -48,7 +48,7 @@ Building upon the above discussion, this research focuses on the development of 
 </div>
 <hr>  
 
-Finally, our proactive risk assessment method can be applied to practical systems, like UAM.
+In conclusion, our proactive risk assessment method can be applied to practical MASs, like UAM. To summarize the main contributions of our research, it enables the evaulation of potential risks associated with missions, including both individual agents and entire MAS levels. In detail, if there are overlaps between the over-approximated reachable sets, certain agents (as illustrated in Figure 4, AV 1 and AV 2) may encounter collision risks. Furthermore, when taking into account the composite union of all over-approximated reachable sets, this MAS configuration could potentially be susceptible to collisions with urban structures.
 
 <hr>  
 <div style="text-align:center;">
