@@ -41,6 +41,13 @@ preemtively, before the identification of attack occurrence, is necessary.
 <hr>  
 Building upon the above discussion, this research focuses on the development of reachability-based proactive risk assessment strategy under cyberattacks. Based on the assumptions regarding the attack sceanrios (e.g., types of attack vectors, norm-bounded condition, etc.) and reachability concept, we can mathematically measure how much cyberattacks can potentially impact the performance of MASs within a certain time window. The measurement from our methodology can be represented by an over-approximated ellipsoid, where this technique is well-aligned with control theory and application of optimizations. 
 
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/Reach.png" alt="MAS" style="width:60%">
+  <figcaption> Figure 3: A proactive risk assessment with an over-approximated ellipsoidal-based reachable set. </figcaption>
+</div>
+<hr>  
+
 </div>
 
 <hr style="height:2pt; visibility:hidden;" />
