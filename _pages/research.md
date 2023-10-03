@@ -39,7 +39,7 @@ One of the drawback of the previous studies, from a defender's perspective, lies
 preemtively, before the identification of attack occurrence, is necessary.  
 
 <hr>  
-Building upon the above discussion,
+Building upon the above discussion, this research focuses on the development of reachability-based proactive risk assessment strategy under cyberattacks. Based on the problem settings, such as 
 
 </div>
 
