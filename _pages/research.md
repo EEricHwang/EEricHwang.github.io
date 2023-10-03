@@ -52,12 +52,12 @@ In conclusion, our proactive risk assessment method can be applied to practical 
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Overview.png" alt="MAS" style="width:60%">
+  <img src="/images/Overview_new.png" alt="MAS_New" style="width:60%">
   <figcaption> Figure 4: An application of the proposed method to UAM scenario. </figcaption>
 </div>
 <hr>  
 
-Finally, this reachability-based risk assessment method would allow us to enhance to safety and security of MAS in a proactive manner. The next question of this topic would be: 1) How can we integrate this security metric into the design of safety controller?, 2) What strategies can be employed to implement this metric in real-world systems with hardware components?, and 3) How can we effectively reduce the size of the over-approximated reachable sets? For more technical details of this research, please refer to our <a href="https://ieeexplore.ieee.org/abstract/document/10153779"> work </a>.
+Finally, this reachability-based risk assessment method would allow us to enhance to safety and security of MAS in a proactive manner. The next question of this topic would be: 1) How can we integrate this security metric into the design of safety controller?, 2) What strategies can be employed to implement this metric in real-world systems with hardware components?, and 3) How can we effectively reduce the size of the over-approximated reachable sets? For more technical details of this research, please refer to our <a href="https://ieeexplore.ieee.org/abstract/document/10153779">work</a>.
 
 
 </div>
