@@ -20,15 +20,13 @@ A Proactive Risk Assessment Methodology based on Reachability and its Applicatio
 In contrast to single-agent systems, MASs exhibit a distinctive feature wherein the functionality and mission execution of MASs are profoundly reliant on inter-agent communication. For instance, in the context of UAM, the major tasks of aerial vehicles (AVs) in an urbain environment would be cargo delivery, passenger transporation, and medical service. To increase the operational efficiency, AVs will maintain formation control by sharing their vehicle's information (e.g., position and velocity) to achieve it (please refer to Figure 1).
 
 <hr>  
-<div style="text-align : center;">
+<div style="text-align:center;">
   <img src="/images/Multi-Agent-System.png" alt="MAS" style="width:50%">
   <figcaption> Figure 1: An illustration of the operation of MAS in an urban environment. </figcaption>
 </div>
 <hr>  
 
-
-
-
+However, communication between AVs could be vulnerable to cyberattacks (e.g., denial-of-sertive (DoS), false-data-injection (FDI), stealthy attacks, etcs.). These malicious incursions may disrupt the integrity of information exchange among AVs, potentially jeopardizing their abilities to achieve their designed tasks. 
 
 </div>
 
