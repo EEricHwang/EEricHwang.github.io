@@ -58,7 +58,8 @@ In conclusion, our proactive risk assessment method can be applied to practical 
 <hr>  
 
 <hr>  
-Finally, this reachability-based risk assessment method would allow us to enhance to safety and security of MAS in a proactive manner. The next question of this topic would be: 1) How can we integrate this security metric into the design of safety controller?, 2) What strategies can be employed to implement this metric in real-world systems with hardware components?, and 3) How can we effectively reduce the size of the over-approximated reachable sets? For more technical details of this research, please refer to our work
+Finally, this reachability-based risk assessment method would allow us to enhance to safety and security of MAS in a proactive manner. The next question of this topic would be: 1) How can we integrate this security metric into the design of safety controller?, 2) What strategies can be employed to implement this metric in real-world systems with hardware components?, and 3) How can we effectively reduce the size of the over-approximated reachable sets? For more technical details of this research, please refer to our work: [An LMI-Based Risk Assessment of Leader–Follower Multi-Agent System Under Stealthy Cyberattacks](https://ieeexplore.ieee.org/abstract/document/10153779).
+
 
 </div>
 
