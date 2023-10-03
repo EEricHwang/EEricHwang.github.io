@@ -21,12 +21,12 @@ In contrast to single-agent systems, MASs exhibit a distinctive feature wherein 
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Multi-Agent-System.png" alt="MAS" style="width:50%">
+  <img src="/images/Multi-Agent-System.png" alt="MAS" style="width:60%">
   <figcaption> Figure 1: An illustration of the operation of MAS in an urban environment. </figcaption>
 </div>
 <hr>  
 
-However, communication between AVs could be vulnerable to cyberattacks (e.g., denial-of-sertive (DoS), false-data-injection (FDI), stealthy attacks, etcs.). These malicious incursions may disrupt the integrity of information exchange among AVs, potentially jeopardizing their abilities to achieve their designed tasks. 
+However, strong reliance of communication between AVs could give rise to the system vulnerabilities toward cyberattacks (e.g., denial-of-sertive (DoS), false-data-injection (FDI), stealthy attacks, etcs.). These malicious incursions may disrupt the integrity of information exchange among AVs, potentially jeopardizing their abilities to achieve their designed tasks. Consequently, in the MAS, computer science, and control communities, numerous research have been studied to reactively mitigate/reduce the detrimental effects of cyber threats. 
 
 </div>
 
