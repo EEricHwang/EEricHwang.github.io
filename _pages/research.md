@@ -35,7 +35,8 @@ Nevertheless, strong reliance of communication between AVs could give rise to th
 </div>
 <hr>  
 
-One of the drawback of the previous studies, from a defender's perspective, lies in the fact that mitigation strategies are triggered after the detection of an attack occurence. However, these reactive strategies may not fully guarantee the system's safety in the presence of attacks. Since the safety of aerial systems, like UAM, is critically related to human's lives and properties, we need to focus on mitigation/defense strategies that operate preemtively, before the identification of attack occurrence. 
+One of the drawback of the previous studies, from a defender's perspective, lies in the fact that mitigation strategies are triggered after the detection of an attack occurence. However, these reactive strategies may not fully guarantee the system's safety in the presence of attacks. Since the safety of aerial systems, like UAM, is critically related to human's lives and properties, focusing on mitigation/defense strategies that operate 
+preemtively, before the identification of attack occurrence, is necessary.  
 
 
 </div>
