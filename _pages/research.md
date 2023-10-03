@@ -26,7 +26,7 @@ In contrast to single-agent systems, MASs exhibit a distinctive feature wherein 
 </div>
 <hr>  
 
-However, strong reliance of communication between AVs could give rise to the system vulnerabilities toward cyberattacks (e.g., denial-of-sertive (DoS), false-data-injection (FDI), stealthy attacks, etcs.). These malicious incursions may disrupt the integrity of information exchange among AVs, potentially jeopardizing their abilities to achieve their designed tasks. Consequently, in the MAS, computer science, and control communities, numerous research have been studied to reactively mitigate/reduce the detrimental effects of cyber threats. 
+Nevertheless, strong reliance of communication between AVs could give rise to the system vulnerabilities toward cyberattacks (e.g., denial-of-sertive (DoS), false-data-injection (FDI), stealthy attacks, etcs.). These malicious incursions may disrupt the integrity of information exchange among AVs, potentially jeopardizing their abilities to achieve their designed tasks. Consequently, in the MAS, computer science, and control communities, numerous research have been studied to reactively mitigate/reduce the detrimental effects of cyber threats. 
 
 <hr>  
 <div style="text-align:center;">
@@ -35,6 +35,8 @@ However, strong reliance of communication between AVs could give rise to the sys
 </div>
 <hr>  
 
+One of the drawback of the previous studies, from a defender's perspective, lies in the fact that mitigation strategies are triggered after the detection of an attack occurence.
+
 </div>
 
 <hr style="height:2pt; visibility:hidden;" />
@@ -42,6 +44,10 @@ However, strong reliance of communication between AVs could give rise to the sys
 
 <hr>
 Resilient Control for Urban Air Mobility Applications against Cyberattacks
+------
+
+<hr>
+Safety-Critical-Control via Control Barrier Functions (CBFs)
 ------
 
 
