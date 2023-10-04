@@ -7,6 +7,13 @@ author_profile: true
 
 My research focuses on the development of control strategies tailered for cyber-physical systems (CPSs) within the realm of aerial engineering. I'm dedicated to enhancing the system's <strong> robustness </strong> and <strong> resilience </strong>. These systems are of paramount importance since they bear direct implications for human safety. 
 
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/Diagram.png" alt="MAS" style="width:60%">
+  <figcaption> Figure : A balance between system's performance, robustness, and resilience. </figcaption>
+</div>
+<hr>  
+
 The design of aerial engineering control systems necessitate sophisticated solutions owing to their heightened intricacy and the paramount importance of safety considerations. Absent these solutions, a multitude of risks to human life and property damage would ensue. For instance, modern aerial control systems, like those utilized in Urban Air Mobility (UAM), place a substantial reliance on the uninterrupted flow of information enabled by communication networks (such as 5G, 6G, Wi-Fi, etc.), which connect aerial vehicles (AVs) to ground control stations. Nonetheless, these communication networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios, such as collisions and accidents involving AVs.
 
 As a control engineer, my objective throughout my Ph.D. studies is to ensure the safety and optimal performance of these aerial systems. I'm committed to addressing the challenges posed by intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
