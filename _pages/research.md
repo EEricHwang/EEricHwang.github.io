@@ -9,7 +9,7 @@ My research focuses on the development of control strategies tailered for cyber-
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Diagram.png" alt="MAS" style="width:60%">
+  <img src="/images/Diagram.png" alt="MAS" style="width:40%">
   <figcaption> Figure : A balance between system's performance, robustness, and resilience. </figcaption>
 </div>
 <hr>  
