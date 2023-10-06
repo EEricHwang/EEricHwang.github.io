@@ -75,6 +75,11 @@ Finally, this reachability-based risk assessment method would allow us to enhanc
 <hr>
 Resilient Control for Urban Air Mobility Applications against Cyberattacks
 ------
+<div id="dots" style="display:inline"> The <strong> Urban Air Mobility </strong> (UAM) has received great attention since it can ease urban traffic congestion, offer faster and greener transportation, connect remote areas, and drive economic growth in urban areas. With the rapid advancement of UAM systems, including electric vertical takeoff and landing (eVTOL) vehicles and autonomous drones, there is an escalating need to confront the vulnerabilities of these systems when it comes to cybersecurity threats. UAM aerial vehicles (AVs) operating within urban environments could be susceptible to a range of cyber threats, such as denial-of-service (DoS) attacks and false-data-injection (FDI) attacks while they are in operation. These cyber threats can lead to severe consequences, potentially leading to hazardous situations, including accidents and collisions between AVs and obstacles. To address this concern, this research aims to develop innovative strategies and techniques to ensure the safety and security of UAM operations in the face of cyberattacks. </div>
+<div id="more" style="display:none"> 
+TBD
+</div>
+
 
 <hr>
 Safety-Critical-Control via Control Barrier Functions (CBFs)
