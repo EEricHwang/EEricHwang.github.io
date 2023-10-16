@@ -10,3 +10,4 @@ This is a repository of my talk and presentation during my Ph.D. studies.
 <hr>
 ACIT/S2A2 ULI Weekly Seminar Series at NCAT
 ------
+As a researcher of NASA S2A2 project, 
