@@ -5,4 +5,4 @@ permalink: /talk/
 author_profile: true
 ---
 
-TBD
+This is a repository of my talk and presentation during my Ph.D. studies. 
