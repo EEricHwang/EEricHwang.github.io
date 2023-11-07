@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on the development of control strategies tailored for cyber-physical systems (CPSs) within the aerial engineering domain. I'm particularly interested in augmenting the <strong> robustness </strong> and <strong> resilience </strong> of these systems, recognizing their pivotal role in ensuring overall system safety. 
+My research focuses on the development of control strategies for cyber-physical systems (CPSs) within the aerial engineering domain. I'm particularly interested in augmenting the <strong> robustness </strong> and <strong> resilience </strong> of these systems, recognizing their critical role in ensuring overall system safety. 
 
 <hr>  
 <div style="text-align:center;">
@@ -82,7 +82,7 @@ TBD
 
 
 <hr>
-Safety-Critical-Control via Control Barrier Functions (CBFs)
+A Safety-Critical-Control for Aerial Systems through Control Barrier Functions
 ------
 
 
