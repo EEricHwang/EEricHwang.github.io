@@ -84,7 +84,7 @@ TBD
 <hr>
 A Safety-Critical-Control for Mechanical Systems through Control Barrier Functions
 ------
-
+One of the most critical questions in control systems is how to guarantee the safety of a system.
 
 <script>
 function myFunction1() {
