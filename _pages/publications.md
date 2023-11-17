@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-My research focuses on the development of control strategies for cyber-physical systems (CPSs) within the aerial engineering domain. I'm particularly interested in augmenting the <strong> robustness </strong> and <strong> resilience </strong> of these systems, recognizing their critical role in ensuring overall system safety. 
-
 <hr>
+
+<strong> Sounghwan Hwang </strong>, Minhyun Cho, Sungsoo Kim, and Inseok Hwang, "An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks," in <em> IEEE Control Systems Letters </em>, vol. 7, pp. 2419-2424, June. 2023.
+
+
+
