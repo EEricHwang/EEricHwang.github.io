@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+My research focuses on the development of control strategies for cyber-physical systems (CPSs) within the aerial engineering domain. I'm particularly interested in augmenting the <strong> robustness </strong> and <strong> resilience </strong> of these systems, recognizing their critical role in ensuring overall system safety. 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<hr>
