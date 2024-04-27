@@ -15,4 +15,4 @@ As a researcher of the NASA S2A2 ULI project, I presented my research regarding 
 <hr>
 2024 Midwest Workshop on Control & Game Theory 
 ------
-In this workshop, I had a poster presentation of one of my research topics regarding a MAS resilient control strategy in the presence of cyberattacks at Northwestern University on April 27, 2024. The main topic of my presentation is "Resilient Control Strategy for Multi-agent Systems and its Application to Urban Air Mobility". Please refer to the [poster](https://drive.google.com/file/d/1TwE3YoU8JRcZlAyIaIg7w5DjDQFOg56t/view?usp=drive_link).
+At the workshop held at Northwestern University on April 27, 2024, I presented a poster on my research topic, which focuses on developing a resilient MAS control strategy against cyberattacks. The main topic of my presentation is "Resilient Control Strategy for Multi-agent Systems and its Application to Urban Air Mobility". Please refer to the [poster](https://drive.google.com/file/d/1TwE3YoU8JRcZlAyIaIg7w5DjDQFOg56t/view?usp=drive_link).
