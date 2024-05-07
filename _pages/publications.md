@@ -11,7 +11,7 @@ author_profile: true
 &#9642; M. Cho, <strong> S. Hwang </strong>, and I. Hwang, "Risk Assessment of Multi-Agent System Under Denial-of-Service
 Cyberattacks Using Reachable Set Synthesis," <em> Accepted to 2024 American Control Conference (ACC) </em>.
 
-&#9642; <strong> S. Hwang </strong>, M. Cho, S. Kim, and I. Hwang, "An LMI-Based Risk Assessment of Leader–Follower Multi-Agent System Under Stealthy Cyberattacks," <em> IEEE Control Systems Letters </em>, vol. 7, pp. 2419-2424, June. 2023.
+&#9642; <strong> S. Hwang </strong>, M. Cho, S. Kim, and I. Hwang, "An LMI-Based Risk Assessment of Leader–Follower Multi-Agent System Under Stealthy Cyberattacks," <em> IEEE Control Systems Letters (L-CSS) </em>, vol. 7, pp. 2419-2424, June. 2023.
 
 &#9642; S. G. Clarke, <strong> S. Hwang </strong>, O. Thapliyal, and I. Hwang, "Distributed Denial-of-Service Resilient Control for Urban Air Mobility Applications," <em> Journal of Aerospace Information Systems (JAIS)</em>, Sep. 2023.
 
