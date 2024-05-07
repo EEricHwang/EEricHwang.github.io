@@ -6,7 +6,7 @@ author_profile: true
 ---
 <hr>
 
-&#9642; <strong> S. Hwang </strong>, M. Cho, and I. Hwang, "An Observer--based Resilient Control Strategy for Leader-Follower Multi-Agent Systems under False-Data-Injection Attacks," <em> Submitted to 2024 IEEE Conference on Decision and Control (CDC) </em>.
+&#9642; <strong> S. Hwang, </strong> M. Cho, and I. Hwang, "An Observer--based Resilient Control Strategy for Leader-Follower Multi-Agent Systems under False-Data-Injection Attacks," <em> Submitted to 2024 IEEE Conference on Decision and Control (CDC) </em>.
 
 &#9642; M. Cho, <strong> S. Hwang, </strong> and I. Hwang, "Risk Assessment of Multi-Agent System Under Denial-of-Service
 Cyberattacks Using Reachable Set Synthesis," <em> Accepted to 2024 American Control Conference (ACC) </em>.
