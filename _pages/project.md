@@ -14,10 +14,15 @@ In the future of unmanned systems, there will be a blending of various types of 
 <hr>  
 <div style="text-align:center;">
   <img src="/images/NASA_Conops.png" alt="MAS" style="width:40%">
-  <figcaption> Figure: A balance between the system's performance, robustness, and resilience. </figcaption>
+  <figcaption> Figure: NASA Urban Air Mobility (UAM) Concept of Operations. </figcaption>
 </div>
 <hr>  
 
 <p> <strong> Research Focus: </strong> 
-TBD  </p>
+TBD 
+</p>
+
+<p> <strong> References: </strong> 
+Hill, Brian P., Dwight DeCarme, et al, "UAM Vision Concept of Operations (ConOps) UAM maturity level (UML) 4." (2020).
+</p>
 
