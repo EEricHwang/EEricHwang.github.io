@@ -23,6 +23,6 @@ TBD
 </p>
 
 <p> <strong> References: </strong> 
-Hill, Brian P., Dwight DeCarme, et al, "UAM Vision Concept of Operations (ConOps) UAM maturity level (UML) 4." (2020).
+[1] Hill, Brian P., Dwight DeCarme, et al, "UAM Vision Concept of Operations (ConOps) UAM maturity level (UML) 4." (2020).
 </p>
 
