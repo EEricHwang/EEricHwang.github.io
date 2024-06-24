@@ -9,7 +9,7 @@ author_profile: true
 NASA Secure and Safe Assured Autonomy (S2A2) Project
 ------
 <p> <strong> Overview: </strong> 
-In the future of unmanned systems, there will be a blending of various types of unmanned aerial systems (UAS), personal air vehicles, urban air mobility (UAM) vehicles, and specialized mission aircraft within the National Airspace System (NAS). These advancements can utilize progress in UAS Traffic Management (UTM) specifically tailored for the distinct demands of UAM airspace control. Supported by NASA’s Aeronautics University Leadership Initiative (ULI), this S2A2 project aims to develop new technologies and algorithms to ensure the safe and robust integration of autonomous vehicles into UAM-tailored transportation infrastructure.  </p>
+In the future of unmanned systems, there will be a blending of various types of Unmanned Aerial Systems (UAS), personal air vehicles, Urban Air Mobility (UAM) vehicles, and specialized mission aircraft within the National Airspace System (NAS). These advancements can utilize progress in UAS Traffic Management (UTM) specifically tailored for the distinct demands of UAM airspace control. Supported by NASA’s Aeronautics University Leadership Initiative (ULI), this S2A2 project aims to develop new technologies and algorithms to ensure the safe and robust integration of autonomous vehicles into UAM-tailored transportation infrastructure.  </p>
 
 <hr>  
 <div style="text-align:center;">
