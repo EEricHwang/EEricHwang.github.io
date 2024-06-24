@@ -14,7 +14,7 @@ In the future of unmanned systems, there will be a blending of various types of 
 <hr>  
 <div style="text-align:center;">
   <img src="/images/NASA_Conops.png" alt="MAS" style="width:40%">
-  <img src="/images/UAM.jpg" alt="MAS" style="width:60%">
+  <img src="/images/UAM.jpg" alt="MAS" style="width:50%">
   <figcaption> Figure: NASA Urban Air Mobility (UAM) Concept of Operations [1]. </figcaption>
 </div>
 <hr>  
