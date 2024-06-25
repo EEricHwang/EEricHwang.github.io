@@ -14,7 +14,7 @@ In the future of air transportation, there will be a blending of various types o
 <hr>  
 <div style="text-align:center;">
   <img src="/images/NASA_Conops.png" alt="MAS" style="width:40%">
-  <img src="/images/UAM.jpg" alt="MAS" style="width:54.1%">
+  <img src="/images/UAM.jpg" alt="MAS" style="width:54%">
   <figcaption> Figure: NASA Urban Air Mobility (UAM) Concept of Operations [1]. </figcaption>
 </div>
 <hr>  
