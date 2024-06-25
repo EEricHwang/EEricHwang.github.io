@@ -20,7 +20,7 @@ In the future of air transportation, there will be a blending of various types o
 <hr>  
 
 <p> <strong> Research Focus: </strong> 
-TBD...
+UAM aerial vehicles are a typical example of Cyber-Physical-Systems (CPSs) where
 </p>
 
 <p> <strong> References: </strong> 
