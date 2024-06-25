@@ -20,7 +20,7 @@ In the future of air transportation, there will be a blending of various types o
 <hr>  
 
 <p> <strong> Research Focus: </strong> 
-Our FD&C/HSL laboratory has been involved in the S2A2 project and we are leading the cybersecurity research for UAM application. 
+TBD...
 </p>
 
 <p> <strong> References: </strong> 
