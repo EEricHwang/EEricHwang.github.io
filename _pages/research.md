@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on the development of control strategies for cyber-physical systems (CPSs) within the aerial engineering domain. I'm particularly interested in augmenting the <strong> robustness </strong> and <strong> resilience </strong> of these systems, recognizing their critical role in ensuring overall system safety. 
+My research aims to develop control strategies for Cyber-Physical Systems (CPSs) within the aerial engineering domain. I'm particularly interested in augmenting the <strong> robustness </strong> and <strong> resilience </strong> of these systems, recognizing their critical role in ensuring overall system safety. 
 
 <hr>  
 <div style="text-align:center;">
@@ -14,9 +14,9 @@ My research focuses on the development of control strategies for cyber-physical 
 </div>
 <hr>  
 
-The design of aerial engineering control systems necessitates sophisticated solutions owing to their heightened intricacy and the paramount importance of safety considerations. Absent these solutions, a multitude of risks to human life and property damage would ensue. For instance, modern aerial control systems, like those utilized in Urban Air Mobility (UAM), place substantial reliance on the uninterrupted flow of information enabled by communication networks (e.g., 5G, 6G, Wi-Fi, etc.), which connect aerial vehicles (AVs) to ground control stations. Nonetheless, these communication networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios, such as collisions and accidents involving AVs.
+The design of aerial control systems necessitates sophisticated solutions owing to their heightened intricacy and the paramount importance of safety considerations. Absent these solutions, a multitude of risks to human life and property damage would ensue. For instance, modern aerial control systems, like those utilized in Urban Air Mobility (UAM), place substantial reliance on the uninterrupted flow of information enabled by communication networks (e.g., 5G, 6G, Wi-Fi, etc.), which connect Aerial Vehicles (AVs) to ground control stations. Nonetheless, these communication networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios, such as collisions and accidents involving AVs.
 
-As a control engineer, my objective throughout my Ph.D. studies is to ensure the safety and optimal performance of these aerial systems. I'm committed to addressing the challenges posed by the intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
+As a control engineer, my objective throughout my Ph.D. studies is to ensure their safety and optimal performance. I'm committed to addressing the challenges posed by the intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
 
 <hr>
 A Proactive Risk Assessment Methodology based on Reachability and its Application to Multi-Agent Systems
