@@ -18,6 +18,13 @@ As a control engineer, my research objective is how to achieve 1) robustness and
 </div>
 <hr>  
 
+<hr>
+Reactive Defense Strategy
+------
+<p> <strong> Summary: </strong> 
+TBD...  </p>
+
+
 <script>
 function myFunction1() {
   var dots = document.getElementById("dots");
