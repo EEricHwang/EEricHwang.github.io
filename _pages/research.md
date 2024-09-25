@@ -16,7 +16,6 @@ As a control engineer, my research objective is how to achieve 1) robustness and
   <img src="/images/Diagram.png" alt="MAS" style="width:40%">
   <figcaption> Figure: A balance between the system's performance, robustness, and resilience. </figcaption>
 </div>
-<hr>  
 
 <hr>
 Reactive Defense Strategy
