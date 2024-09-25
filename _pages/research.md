@@ -20,8 +20,7 @@ As a control engineer, my research objective is how to achieve 1) robustness and
 <hr>
 Reactive Defense Strategy
 ------
-<p> <strong> Summary: </strong> 
-TBD...  </p>
+<p> <strong> Summary: </strong> In this research topic, we aim to design advanced control algorithms that can directly mitigate the impact of adversities. To this end, a resilient sensor fusion technique is needed that can filter out the malicious data/information embedded in measurement output.  </p>
 
 
 <script>
