@@ -22,6 +22,11 @@ Reactive Defense Strategy
 ------
 <p> <strong> Summary: </strong> In this research topic, we aim to design advanced control algorithms that can directly mitigate the impact of adversities. To this end, a resilient sensor fusion technique is needed that can filter out the malicious data/information embedded in measurement output.  </p>
 
+<div>
+  <video autoPlay loop muted playsInline src={requre(/images/FDI_Nominal.mp4)}> <\video>
+  <figcaption> Figure: A balance between the system's performance, robustness, and resilience. </figcaption>
+</div>
+
 
 <script>
 function myFunction1() {
