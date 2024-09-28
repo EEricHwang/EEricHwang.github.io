@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research aims to develop control algorithms for Cyber-Physical Systems (CPSs) for aerospace systems. I'm particularly interested in how to enhance their <strong> robustness </strong> and <strong> resilience </strong> in adversarial environments. 
+My research aims to develop control algorithms for Cyber-Physical Systems (CPSs), particularly in the context of aerospace domains. I'm interested in how to enhance the system's <strong> robustness </strong> and <strong> resilience </strong> in adversarial environments. 
 
 The control systems for aerospace systems necessitate advanced solutions due to the importance of safety considerations. Without these solutions, numerous safety violations (e.g., crashes and collisions) would highly occur. For instance, modern aerial control systems like Urban Air Mobility (UAM) place heavy reliance on the uninterrupted flow of information enabled by communication networks (e.g., 5G, Wi-Fi, etc.), which connect Aerial Vehicles (AVs) to ground control stations. However, these communication networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios. Furthermore, given the dynamic nature of urban environments, UAM AVs are exposed to signal jamming, disturbances, and unexpected system failures. 
 
