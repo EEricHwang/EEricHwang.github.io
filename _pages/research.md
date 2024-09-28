@@ -10,7 +10,8 @@ I'm interested in how to enhance the system's <strong> robustness </strong> and 
 
 The control systems for aerospace systems necessitate advanced solutions due to the importance of safety considerations. 
 Without these solutions, numerous safety violations (e.g., crashes and collisions) would highly occur. For instance, aerial control systems within Urban Air Mobility (UAM) place heavy reliance on the uninterrupted flow of information enabled by vehicle-level communication networks (e.g., 5G, Wi-Fi, etc.) between Aerial Vehicles (AVs). 
-However, these communication networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios. Furthermore, given the dynamic nature of urban environments, UAM AVs are exposed to signal jamming, disturbances, and unexpected system failures. 
+However, these communication networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios. 
+Given the dynamic nature of urban environments, UAM AVs are also exposed to signal jamming, disturbances, and unexpected system failures. 
 
 As a control engineer, my research objective is how to achieve 1) robustness and 2) resiliency with high-assured system performance. 
 I'm committed to addressing the challenges posed by the intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
