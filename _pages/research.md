@@ -13,14 +13,14 @@ Without these solutions, numerous safety violations (e.g., crashes and collision
 However, these communication networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios. 
 Given the dynamic nature of urban environments, UAM AVs are also exposed to signal jamming, disturbances, and unexpected system failures. 
 
-As a control engineer, my research objective is how to achieve 1) robustness and 2) resiliency with high-assured system performance. 
-I'm committed to addressing the challenges posed by the intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
-
 <hr>  
 <div style="text-align:center;">
   <img src="/images/Diagram.png" alt="MAS" style="width:40%">
   <figcaption> Figure: A balance between the system's performance, robustness, and resilience. </figcaption>
 </div>
+
+As a control engineer, my research objective is how to achieve 1) robustness and 2) resiliency with high-assured system performance. 
+I'm committed to addressing the challenges posed by the intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
 
 <hr>
 Reactive Defense Strategy
@@ -35,6 +35,10 @@ Reactive Defense Strategy
   <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
   </video>
 </div>
+
+<hr>
+Proactive Defense Strategy
+------
 
 
 
