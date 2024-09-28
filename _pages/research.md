@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research aims to develop advanced control algorithms for multi-vehicle systems, particularly for aerospace domains. 
+My research aims to develop advanced control/estimation algorithms for multi-vehicle systems, particularly for aerospace domains. 
 I'm interested in how to enhance the system's <strong> robustness </strong> and <strong> resilience </strong> in adversarial environments. 
 
 The aerospace control systems necessitate advanced solutions due to the importance of safety considerations. 
