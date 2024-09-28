@@ -20,7 +20,7 @@ As a control engineer, my research objective is how to achieve 1) robustness and
 <hr>
 Reactive Defense Strategy
 ------
-<p> <strong> Objective: </strong> In this research topic, we aim to design advanced control algorithms that can directly mitigate the impact of adversities. To this end, a resilient sensor fusion technique is needed that can filter out the malicious data/information embedded in measurement output.  </p>
+<p> <strong> Objective: </strong> In this research topic, we aim to design advanced control algorithms that can directly mitigate the impact of adversities. To this end, resilient sensor fusion techniques are needed to filter out the malicious data/information embedded in measurement output. The following videos show the UAM operation with four AVs conducting reference tracking with formation flight, where the left video shows the off-nominal operation with a high risk of collisions and the right video shows the resilient operation with high-assured safety. </p>
 
 <div align="center">
   <video width="450" height="340" autoplay loop muted>
