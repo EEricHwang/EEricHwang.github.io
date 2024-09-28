@@ -25,9 +25,11 @@ Reactive Defense Strategy
 <div align="center">
   <video width="450" height="340" autoplay loop muted>
   <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
+  <figcaption> Figure: A balance between the system's performance, robustness, and resilience. </figcaption>
   </video>
   <video width="450" height="340" autoplay loop muted>
   <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
+  <figcaption> Figure: A balance between the system's performance, robustness, and resilience. </figcaption>  
   </video>
 </div>
 
