@@ -23,7 +23,7 @@ As a control engineer, my research objective is how to achieve 1) robustness and
 I'm committed to addressing the challenges posed by the intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
 
 <hr>
-Reactive Defense Strategy
+Reactive Vehicle-Level Defense Strategy
 ------
 <p> <strong> Objective: </strong> In this research topic, we aim to design advanced control/estimation algorithms that can directly mitigate the impact of adversities. To this end, resilient sensor fusion techniques are needed to filter out the malicious data/information embedded in measurement output. The following videos show the UAM operation in Greater Atlanta with four AVs conducting reference tracking with formation flight. The left video shows the off-nominal operation with a high risk of collisions and the right video shows the resilient operation with high-assured safety. </p>
 
@@ -37,9 +37,9 @@ Reactive Defense Strategy
 </div>
 
 <hr>
-Proactive Defense Strategy
+Proactive Vehicle-Level Defense Strategy
 ------
-<p> <strong> Objective: </strong> In this research topic, we focus on 
+<p> <strong> Objective: </strong> In this research topic, we focus on developing security metrics for multi-AVs that can quantify the potential risk caused by stealthy attacks.
 
 
 <script>
