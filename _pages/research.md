@@ -42,6 +42,9 @@ Proactive Vehicle-Level Defense Strategy
 ------
 <p> <strong> Objective: </strong> In this research topic, we focus on developing security metrics for multi-AVs that can quantify the potential risk caused by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set based on the Lyapunov stability criterion. This reachable set indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at a certain time step.
 
+<div>
+<\div>
+
 <hr>
 Secured Multi-Vehicle Coordination with Distributed Optimization
 ------
