@@ -25,11 +25,11 @@ Reactive Defense Strategy
 <div style="display: flex; justify-content: space-between;">
   <video width="430" height="320" autoplay loop muted>
   <source src ="/images/FDI_Nominal.mp4" type="video/mp4">
-  <\video>  
+  </video>
   <video width="430" height="320" autoplay loop muted>
   <source src ="/images/FDI_Nominal.mp4" type="video/mp4">
-  <\video>  
-<\div>
+  </video>
+</div>
 
 
 
