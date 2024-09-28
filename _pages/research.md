@@ -29,6 +29,11 @@ Reactive Vehicle-Level Defense Strategy
 </p>
 
 <div align="center">
+  <img src="/images/1.png" alt="MAS" style="width:40%">
+  <figcaption> Figure: TBD. </figcaption>
+</div>
+
+<div align="center">
   <video width="450" height="340" autoplay loop muted>
   <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
   </video>
