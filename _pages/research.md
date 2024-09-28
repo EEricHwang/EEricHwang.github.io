@@ -57,6 +57,15 @@ Secured Multi-Vehicle Coordination with Distributed Optimization
 <p> <strong> Objective: </strong> In this research topic, we aim to design advanced control/estimation algorithms that can directly mitigate the impact of adversities. To this end, resilient sensor fusion techniques are needed to filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal operation with a high risk of collisions and the right video shows the resilient operation with high-assured safety. 
 </p>
 
+<div align="center">
+  <video width="450" height="340" autoplay loop muted>
+  <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
+  </video>
+  <video width="450" height="340" autoplay loop muted>
+  <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
+  </video>
+</div>
+
 
 <script>
 function myFunction1() {
