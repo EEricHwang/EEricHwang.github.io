@@ -27,7 +27,7 @@ Reactive Defense Strategy
   <source src ="/images/FDI_Nominal.mp4" type="video/mp4">
   </video>
   <video width="430" height="320" autoplay loop muted>
-  <source src ="/images/FDI_Nominal.mp4" type="video/mp4">
+  <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
   </video>
 </div>
 
