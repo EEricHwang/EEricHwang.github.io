@@ -44,10 +44,10 @@ I'm committed to addressing the challenges posed by the intricate interplay betw
 
 <div align="center">
   <video width="450" height="340" autoplay loop muted>
-  <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
+  <source src ="/images/Risk_Assessment1.mp4" type="video/mp4">
   </video>
   <video width="450" height="340" autoplay loop muted>
-  <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
+  <source src ="/images/Risk_Assessment2.mp4" type="video/mp4">
   </video>
 </div>
 
