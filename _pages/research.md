@@ -39,7 +39,7 @@ Reactive Defense Strategy
 <hr>
 Proactive Defense Strategy
 ------
-
+<p> <strong> Objective: </strong> In this research topic, 
 
 
 <script>
