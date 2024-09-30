@@ -25,7 +25,7 @@ I'm committed to addressing the challenges posed by the intricate interplay betw
 <hr>
 <h2> Reactive Vehicle-Level Defense Strategy </h2>
 
-<p> <strong> Objective: </strong> In this research topic, we aim to design advanced control/estimation algorithms that can directly mitigate the impact of adversities. To this end, resilient sensor fusion techniques are needed to filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal operation with a high risk of collisions and the right video shows the resilient operation with high-assured safety. 
+<p> <strong> Objective: </strong> In this research topic, we aim to design advanced control/estimation algorithms that can directly mitigate the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
 </p>
 
 <div align="center">
