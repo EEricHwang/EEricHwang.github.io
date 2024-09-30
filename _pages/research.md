@@ -43,10 +43,10 @@ I'm committed to addressing the challenges posed by the intricate interplay betw
 <p> <strong> Objective: </strong> In this research topic, we focus on developing security metrics for multi-AVs that can quantify the potential risk (collisions) caused by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set based on the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps.
 
 <div align="center">
-  <video width="450" height="340" autoplay loop muted>
+  <video width="470" height="360" autoplay loop muted>
   <source src ="/images/Risk_Assessment1.mp4" type="video/mp4">
   </video>
-  <video width="450" height="340" autoplay loop muted>
+  <video width="470" height="360" autoplay loop muted>
   <source src ="/images/Risk_Assessment2.mp4" type="video/mp4">
   </video>
 </div>
