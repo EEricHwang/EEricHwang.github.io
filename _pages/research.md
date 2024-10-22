@@ -23,7 +23,7 @@ As a control engineer, my research objective is how to achieve 1) robustness and
 I'm committed to addressing the challenges posed by the intricate interplay between technology, safety, and performance in the context of control theory and aerial engineering. 
 
 <hr>
-<h2> Reactive Vehicle-Level Defense Strategy </h2>
+<h2> Reactive Multi-Vehicle Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> In this research topic, we aim to design resilient control/estimation algorithms that can directly mitigate the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
 </p>
@@ -38,7 +38,7 @@ I'm committed to addressing the challenges posed by the intricate interplay betw
 </div>
 
 <hr>
-<h2> Proactive Vehicle-Level Defense Strategy </h2>
+<h2> Proactive Multi-Vehicle Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> In this research topic, we focus on developing security metrics for multi-AVs that can measure the potential risk (collisions) caused by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set based on the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have potential risks in terms of collisions.
 
