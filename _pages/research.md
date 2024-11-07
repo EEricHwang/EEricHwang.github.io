@@ -11,7 +11,7 @@ The following are my research topics during my Ph.D. studies:
 
 (1) <strong> Cybersecurity of Multi-Agent System </strong>
 
-(2) <strong> Safety-Critical Control for Unmanned Aerial Vehicles </strong>
+(2) <strong> Safety-Critical Control for Unmanned Aerial Vehicle </strong>
 
 (3) <strong> Fuzzy Inference-Based Nonlinear System Identification & Control </strong>
 
