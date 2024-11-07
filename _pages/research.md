@@ -16,12 +16,6 @@ My research focuses on developing advanced control and estimation algorithms for
 <h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
 <hr>  
 
-(1) <strong> Cybersecurity of Multi-Agent System </strong>
-
-(2) <strong> Safety-Critical Control for Unmanned Aerial Vehicle </strong>
-
-(3) <strong> Fuzzy Inference-Based Nonlinear System Identification & Control </strong>
-
 The aerospace control systems necessitate advanced solutions due to the importance of safety considerations. 
 Numerous safety violations (e.g., crashes and collisions) would occur without these solutions. For instance, aerial control systems for Urban Air Mobility (UAM) heavily rely on the uninterrupted flow of information enabled by vehicle-level communication networks (e.g., 5G, Wi-Fi, etc.) between Aerial Vehicles (AVs). 
 However, these networks could be vulnerable to cyberattacks, potentially resulting in detrimental scenarios. 
