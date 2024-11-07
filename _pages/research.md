@@ -7,7 +7,7 @@ author_profile: true
 
 My research focuses on developing advanced control and estimation algorithms for aerial systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
 
-<h2> (1) Cybersecurity of Multi-Agent System </h2>
+<h2> Cybersecurity of Multi-Agent System </h2>
 <hr>  
 <div id="dots" style="display:inline"> </div>
 <div id="more" style="display:none">The general idea of estimation is to derive the 'best estimate' for the true value of the state of some system from an incomplete, potentially noisy set of observations on that system. Distributed estimation extends this idea to obtain a state estimate using a network of communication-capable sensors, where the sensors can now correct each others' estimates and achieve overall improvement. In a founding consensus-based distributed estimation <a href="https://ieeexplore.ieee.org/abstract/document/5399678">article</a>, Olfati introduced a novel consensus-based update architecture for distributed estimation, albeit developing a sub-optimal version owing to the mathematical and implementational complexity involved in developing an optimal version. I devoted my time to research an <a href="https://ieeexplore.ieee.org/abstract/document/7963859" title="Optimal discrete-time Kalman consensus filter @ ACC2017">optimal form</a> of this Kalman consensus filter (OKCF), where the optimal gains resulted in the best possible MMSE estimate of the target. To improve the applicability of the optimal distributed estimator, I subsequently worked to enhance the algorithm to estimate the <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-cta.2017.1208" title="Distributed State Estimation for a Stochastic Linear Hybrid System over a Sensor Network @ IET">hybrid states</a> of target evolving in a hybrid fashion using the Interacting Multiple Model concept.
@@ -16,10 +16,10 @@ During recent months, I have been involved in an investigation to modify the alg
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn">Read more +</btn> 
 
-<h2> (2) Safety-Critical Control for Unmanned Aerial Vehicle </h2>
+<h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
 
-<h2> (3) Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
+<h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
 <hr>  
 
 The aerospace control systems necessitate advanced solutions due to the importance of safety considerations. 
