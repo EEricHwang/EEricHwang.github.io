@@ -12,12 +12,21 @@ My research focuses on developing advanced control and estimation algorithms for
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
 <div id="more" style="display:none"> <strong> Introduction: </strong> Multi-agent systems (MASs) have recently gained significant attention for their ability to solve complex engineering problems. The main goal in operating MASs is to achieve <strong> consensus </strong> among agents (e.g., UAVs, robots, autonomous vehicles) to satisfy their collaborative objectives. For instance, the vehicle dynamics for urban air mobility (UAM) operation can be represented through MAS, where UAM aerial vehicles (AVs) can achieve their UAM missions (e.g., formation control and velocity-matching consensus) by exchanging their information (position and velocity) with neighbors. Therefore, the communication between agents plays a significant role in the operation of MASs. However, this communication-based structure results in MASs being <strong> vulnerable </strong> to various malicious entities, such as cyberattacks, disturbances, and system faults. Therefore, it is important to develop advanced control algorithms to enhance the safety and security of MASs despite those threats.
 
-The following are the list of our past and ongoing research: 
+The following is the list of our past and ongoing research: 
 
 <h2> [1] Reactive Multi-Agent Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> In this research topic, we aim to design resilient control/estimation algorithms that can directly mitigate the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
 </p>
+
+<div align="center">
+  <video width="450" height="340" autoplay loop muted>
+  <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
+  </video>
+  <video width="450" height="340" autoplay loop muted>
+  <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
+  </video>
+</div>
 
 </div>
 
