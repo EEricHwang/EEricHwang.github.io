@@ -30,6 +30,8 @@ The following is the list of our past and ongoing research:
 
 <h2> [2] Proactive Multi-Agent Defense Strategy </h2>
 
+<p> <strong> Objective: </strong> In this research topic, we focus on developing security metrics for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have potential risks in terms of collisions during operation.</p>
+
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
