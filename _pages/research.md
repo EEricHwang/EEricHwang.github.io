@@ -14,7 +14,7 @@ My research focuses on developing advanced control and estimation algorithms for
 
 During recent months, I have been involved in an investigation to modify the algorithm to allow the sensors to be '<a href="https://ieeexplore.ieee.org/abstract/document/9030070" title="Optimal Kalman Consensus Filter for Weighted Directed Graphs @ CDC2019">naïve</a>', in the sense that some sensors may not be able to obtain measurements from the target, but are relying just on communicated information.</div>
 <hr style="height:1pt; visibility:hidden;" />
-<btn onclick="myFunction1()" id="myBtn">Read more +</btn> 
+<btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
 
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
