@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research aims to develop advanced control and estimation algorithms for multi-vehicle systems, particularly for aerospace domains. 
-I'm interested in how to enhance the system's <strong> robustness </strong> and <strong> resilience </strong> in adversarial environments. 
+My research focuses on developing advanced control and estimation algorithms for aerial systems, considering operational safety, optimality, and performance in adversarial environments.
 
 The aerospace control systems necessitate advanced solutions due to the importance of safety considerations. 
 Numerous safety violations (e.g., crashes and collisions) would occur without these solutions. For instance, aerial control systems for Urban Air Mobility (UAM) heavily rely on the uninterrupted flow of information enabled by vehicle-level communication networks (e.g., 5G, Wi-Fi, etc.) between Aerial Vehicles (AVs). 
