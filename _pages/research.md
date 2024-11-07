@@ -41,6 +41,10 @@ The following is the list of our past and ongoing research:
   </video>
 </div>
 
+<h2> [3] Multi-Vehicle Coordination with Network Connectivity </h2>
+
+<p> <strong> Objective: </strong> In this research topic, TBD... </p>
+
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
