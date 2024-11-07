@@ -28,6 +28,8 @@ The following is the list of our past and ongoing research:
   </video>
 </div>
 
+<h2> [2] Proactive Multi-Agent Defense Strategy </h2>
+
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
