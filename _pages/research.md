@@ -14,7 +14,7 @@ My research focuses on developing advanced control and estimation algorithms for
 
 The following shows our past and ongoing research: 
 
-<h2> Reactive Multi-Agent Defense Strategy </h2>
+<h2> [1] Reactive Multi-Agent Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> In this research topic, we aim to design resilient control/estimation algorithms that can directly mitigate the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
 </p>
