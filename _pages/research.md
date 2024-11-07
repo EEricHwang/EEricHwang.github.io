@@ -9,11 +9,11 @@ My research focuses on developing advanced control and estimation algorithms for
 
 The following are my research topics during my Ph.D. studies:
 
-1) <strong> Cybersecurity of Multi-Agent System </strong>
+(1) <strong> Cybersecurity of Multi-Agent System </strong>
 
-2) <strong> Safety-Critical Control for Unmanned Aerial Vehicles </strong>
+(2) <strong> Safety-Critical Control for Unmanned Aerial Vehicles </strong>
 
-3) <strong> Fuzzy Inference-Based Nonlinear System Identification & Control </strong>
+(3) <strong> Fuzzy Inference-Based Nonlinear System Identification & Control </strong>
 
 The aerospace control systems necessitate advanced solutions due to the importance of safety considerations. 
 Numerous safety violations (e.g., crashes and collisions) would occur without these solutions. For instance, aerial control systems for Urban Air Mobility (UAM) heavily rely on the uninterrupted flow of information enabled by vehicle-level communication networks (e.g., 5G, Wi-Fi, etc.) between Aerial Vehicles (AVs). 
