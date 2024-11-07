@@ -10,9 +10,6 @@ My research focuses on developing advanced control and estimation algorithms for
 The following are my research topics during my Ph.D. studies:
 
 (1) <strong> Cybersecurity of Multi-Agent System </strong>
-<div id="more" style="display:none"> TBD...
-
-<btn onclick="myFunction1()" id="myBtn">Read more +</btn> 
 
 (2) <strong> Safety-Critical Control for Unmanned Aerial Vehicle </strong>
 
