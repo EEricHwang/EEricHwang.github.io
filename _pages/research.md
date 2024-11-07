@@ -10,7 +10,16 @@ My research focuses on developing advanced control and estimation algorithms for
 <h2> Secure Autonomy for Multi-Agent System </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
-<div id="more" style="display:none"> Recently, multi-agent systems (MASs) have received significant attention for their ability to solve complex engineering problems that single-agent systems cannot address. The main goal in operating MASs is to achieve <strong> consensus </strong> among agents (e.g., UAVs, robots, autonomous vehicles) to satisfy their collaborative objectives. To do so, the communication between agents plays a significant role in their operation. However, this communication-based structure results in MASs being <strong> vulnerable </strong> to various malicious entities, such as cyberattacks, disturbances, and system faults. Therefore, it is important to develop advanced control policy/algorithm to enhance the safety and security of MASs despite of those threats.  </div>
+<div id="more" style="display:none"> Recently, multi-agent systems (MASs) have received significant attention for their ability to solve complex engineering problems that single-agent systems cannot address. The main goal in operating MASs is to achieve <strong> consensus </strong> among agents (e.g., UAVs, robots, autonomous vehicles) to satisfy their collaborative objectives. To do so, the communication between agents plays a significant role in their operation. However, this communication-based structure results in MASs being <strong> vulnerable </strong> to various malicious entities, such as cyberattacks, disturbances, and system faults. Therefore, it is important to develop advanced control policies and algorithms to enhance the safety and security of MASs despite those threats.
+
+The following shows our past and ongoing research: 
+
+<h2> Reactive Multi-Agent Defense Strategy </h2>
+
+<p> <strong> Objective: </strong> In this research topic, we aim to design resilient control/estimation algorithms that can directly mitigate the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
+</p>
+
+</div>
 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
