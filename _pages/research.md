@@ -80,11 +80,11 @@ function myFunction1() {
 
   if (dots.style.display === "none") {
     dots.style.display = "inline";
-    btnText.innerHTML = "Read more +"; 
+    btnText.innerHTML = "<strong>Read more +</strong>"; 
     moreText.style.display = "none";
   } else {
     dots.style.display = "none";
-    btnText.innerHTML = "Read less -"; 
+    btnText.innerHTML = "<strong>Read less -</strong>"; 
     moreText.style.display = "inline";
   }
 }
