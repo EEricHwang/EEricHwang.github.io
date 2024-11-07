@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on developing advanced control and estimation algorithms for aerial systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
+My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
 
 <h2> Secure Autonomy for Multi-Agent System </h2>
 <hr>  
