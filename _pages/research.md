@@ -9,7 +9,6 @@ My research focuses on developing advanced control and estimation algorithms for
 
 The following are my research topics during my Ph.D. studies:
 
-<hr>
 <h2> Cybersecurity of Multi-Agent System </h2>
 
 <hr>
@@ -18,6 +17,7 @@ The following are my research topics during my Ph.D. studies:
 <hr>
 <h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
 
+<hr>
 
 (1) <strong> Cybersecurity of Multi-Agent System </strong>
 
