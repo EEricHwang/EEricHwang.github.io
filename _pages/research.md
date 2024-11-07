@@ -10,7 +10,7 @@ My research focuses on developing advanced control and estimation algorithms for
 <h2> Secure Autonomy for Multi-Agent System </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
-<div id="more" style="display:none"> TBD... </div>
+<div id="more" style="display:none"> Recently, Multi-Agent Systems (MASs) have received great attention due to their capabilities for solving complex engineering problems, which cannot be solved by a single-agent system. </div>
 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
