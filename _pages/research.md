@@ -7,7 +7,7 @@ author_profile: true
 
 My research focuses on developing advanced control and estimation algorithms for aerial systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
 
-<h2> Cybersecurity of Multi-Agent System </h2>
+<h2> (1) Cybersecurity of Multi-Agent System </h2>
 <hr>  
 
 <div id="dots" style="display:inline">The general idea of estimation is to derive the 'best estimate' for the true value of the state of some system from an incomplete, potentially noisy set of observations on that system. Distributed estimation extends this idea to obtain a state estimate using a network of communication-capable sensors, where the sensors can now correct each others' estimates and achieve overall improvement. My research in this area focuses on deriving 'optimal' target state estimates, applicable to both linear and hybrid state evolutions.</div>
@@ -17,10 +17,10 @@ During recent months, I have been involved in an investigation to modify the alg
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn">Read more +</btn> 
 
-<h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
+<h2> (2) Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
 
-<h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
+<h2> (3) Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
 <hr>  
 
 The aerospace control systems necessitate advanced solutions due to the importance of safety considerations. 
