@@ -14,7 +14,7 @@ My research focuses on developing advanced control and estimation algorithms for
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/MAS.png" alt="MAS" style="width:60%">
+  <img src="/images/MAS.png" alt="MAS" style="width:50%">
   <figcaption> Figure: A system vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
 </div>
 <hr>  
