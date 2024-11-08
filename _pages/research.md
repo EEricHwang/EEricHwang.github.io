@@ -19,7 +19,7 @@ My research focuses on developing advanced control and estimation algorithms for
 </div>
 <hr>  
 
-The following is the summary of our past/ongoing research:
+The following is the summary of our ongoing research:
 
 <h2> [1] Reactive Multi-Agent Defense Strategy </h2>
 
