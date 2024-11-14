@@ -59,6 +59,16 @@ The following is the summary of our ongoing research:
 
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
+<div id="dots" style="display:inline"> This research aims to develop advanced tools to enhance the safety and security of UAV operations. </div>
+<div id="more" style="display:none"> <strong> Introduction: </strong> TBD...
+
+The following is the summary of our ongoing research:
+
+<h2> [1] Reactive Multi-Agent Defense Strategy </h2>
+
+<p> <strong> Objective: </strong> TBD...
+</p>
+
 
 <h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
 <hr>  
