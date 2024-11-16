@@ -7,6 +7,13 @@ author_profile: true
 
 My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
 
+
+
+
+
+
+
+
 <h2> Secure Autonomy for Multi-Agent System </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
@@ -56,6 +63,14 @@ The following is the summary of our ongoing research:
 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
+
+
+
+
+
+
+
+
  
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
