@@ -65,7 +65,6 @@ The following is the summary of our ongoing research:
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
-
 <div id="mor2" style="display:none"> <strong> Introduction: </strong> TBD...
 
 </div>
