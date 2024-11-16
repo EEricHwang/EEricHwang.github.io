@@ -91,9 +91,6 @@ The following is the summary of our ongoing research:
   </video>
 </div>
 
-
-</div>
-
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction2()" id="myBtn"><strong>Read more +</strong></btn>
 
