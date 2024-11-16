@@ -74,7 +74,7 @@ The following is the summary of our ongoing research:
  
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
-<div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
+<div id="dots" style="display:inline"> This research aims to develop advanced solutions and techniques for enhancing the operational safety of UAVs. </div>
 <div id="more" style="display:none"> <strong> Introduction: </strong> TBD...
 
 <hr>  
