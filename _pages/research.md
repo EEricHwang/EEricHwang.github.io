@@ -69,7 +69,7 @@ The following is the summary of our ongoing research:
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/UAV_Controller.png" alt="MAS" style="width:70%">
+  <img src="/images/UAV_Controller.png" alt="MAS" style="width:75%">
   <figcaption> Figure: A control architecture of UAV and potential system vulnerability under cyberattacks. </figcaption>
 </div>
 <hr>
