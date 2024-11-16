@@ -65,8 +65,8 @@ The following is the summary of our ongoing research:
  
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
-<div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
-<div id="more" style="display:none"> <strong> Introduction: </strong> TBD...
+<div id="dot2" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
+<div id="mor2" style="display:none"> <strong> Introduction: </strong> TBD...
 
 <hr>  
 <div style="text-align:center;">
@@ -92,7 +92,7 @@ The following is the summary of our ongoing research:
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
-<btn onclick="myFunction2()" id="myBtn"><strong>Read more +</strong></btn>
+<btn onclick="myFunction2()" id="myBtn2"><strong>Read more +</strong></btn>
 
 <h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
 <hr>  
