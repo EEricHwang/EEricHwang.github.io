@@ -62,7 +62,7 @@ The following is the summary of our ongoing research:
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
 
  
-<h2> Safety-Critical Control and Safety Assurance for Unmanned Aerial Vehicle </h2>
+<h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicle </h2>
 <hr>  
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
 <div id="mor2" style="display:none"> <strong> Introduction: </strong> TBD...
