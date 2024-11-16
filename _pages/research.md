@@ -50,9 +50,11 @@ The following is the summary of our ongoing research:
   </video>
 </div>
 
+<!-- 
 <h2> [3] Multi-Vehicle Coordination with Network Connectivity </h2>
 
 <p> <strong> Objective: </strong> In this research topic, TBD... </p>
+-->
 
 </div>
 
