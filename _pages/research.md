@@ -71,10 +71,8 @@ The following is the summary of our ongoing research:
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
-<btn onclick="myFunction2()" id="myBt2">Read more +</btn> 
+<btn onclick="myFunction2()" id="myBt2"><strong>Read more +</strong></btn> 
 
-<h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
-<hr>  
 
 
 <script>
