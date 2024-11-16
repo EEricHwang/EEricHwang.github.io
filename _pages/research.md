@@ -67,6 +67,14 @@ The following is the summary of our ongoing research:
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
 <div id="mor2" style="display:none"> <strong> Introduction: </strong> TBD...
 
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/UAV_Controller.png" alt="MAS" style="width:50%">
+  <figcaption> Figure: A system vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
+</div>
+<hr>
+
+
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
