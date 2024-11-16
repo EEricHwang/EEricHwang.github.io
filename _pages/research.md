@@ -99,11 +99,11 @@ function myFunction2() {
 
   if (dots2.style.display === "none") {
     dots2.style.display = "inline";
-    btnText2.innerHTML = "Read more +"; 
+    btnText2.innerHTML = "<strong>Read more +</strong>"; 
     moreText2.style.display = "none";
   } else {
     dots2.style.display = "none";
-    btnText2.innerHTML = "Read less -"; 
+    btnText2.innerHTML = "<strong>Read less -</strong>"; 
     moreText2.style.display = "inline";
   }
 }
