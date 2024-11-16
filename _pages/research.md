@@ -70,7 +70,7 @@ The following is the summary of our ongoing research:
 <hr>  
 <div style="text-align:center;">
   <img src="/images/UAV_Controller.png" alt="MAS" style="width:50%">
-  <figcaption> Figure: A system vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
+  <figcaption> Figure: A control architecture of UAV and potential system vulnerability. </figcaption>
 </div>
 <hr>
 
