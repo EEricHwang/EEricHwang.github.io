@@ -7,13 +7,6 @@ author_profile: true
 
 My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
 
-
-
-
-
-
-
-
 <h2> Secure Autonomy for Multi-Agent System </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
@@ -63,58 +56,9 @@ The following is the summary of our ongoing research:
 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
-
-
-
-
-
-
-
-
  
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
-<div id="dots" style="display:inline"> This research aims to develop advanced solutions and techniques for enhancing the operational safety of UAVs. </div>
-<div id="more" style="display:none"> <strong> Introduction: </strong> TBD...
-
-<hr>  
-<div style="text-align:center;">
-  <img src="/images/MAS.png" alt="MAS" style="width:50%">
-  <figcaption> Figure: A system vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
-</div>
-<hr>  
-
-The following is the summary of our ongoing research:
-
-<h2> [1] Reactive Multi-Agent Defense Strategy </h2>
-
-<p> <strong> Objective: </strong> In this research topic, we aim to design <strong> resilient control </strong> and <strong> estimation </strong> algorithms that can directly <strong> mitigate </strong> the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
-</p>
-
-<div align="center">
-  <video width="450" height="340" autoplay loop muted>
-  <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
-  </video>
-  <video width="450" height="340" autoplay loop muted>
-  <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
-  </video>
-</div>
-
-
-<h2> [3] Multi-Vehicle Coordination with Network Connectivity </h2>
-
-<p> <strong> Objective: </strong> In this research topic, TBD... </p>
-
-</div>
-
-<hr style="height:1pt; visibility:hidden;" />
-<btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn>
-
-
-
-
-
-
 
 <h2> Fuzzy Inference-Based Nonlinear System Identification & Control </h2>
 <hr>  
