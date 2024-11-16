@@ -7,6 +7,8 @@ author_profile: true
 
 My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
 
+
+
 <h2> Secure Autonomy for Multi-Agent System </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
@@ -57,19 +59,12 @@ The following is the summary of our ongoing research:
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
 
-
-
-
  
 <h2> Safety-Critical Control for Unmanned Aerial Vehicle </h2>
 <hr>  
-<div id="dot2" style="display:inline"> Providing intelligent algorithms to manage the ever-increasing demand of air traffic and airspace congestion is critical to the efficiency and economic viability of air transportation systems. My research in the air traffic management domain involved applying machine learning tools to detect anomalous behvior (through unsupervised learning) and subsequently detect their precursors (through supervised learning). The algorithms were deployed on a testbed, and demonstrated as an online anomaly monitoring and mitigation tools for real air-traffic surveillance data from the terminal airspace operations of the New York metroplex.
-</div>
+<div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
 
-<div id="mor2" style="display:none"> Providing intelligent algorithms to manage the ever-increasing demand of air traffic and airspace congestion is critical to the efficiency and economic viability of air transportation systems. During my masters program, I undertook research in this domain for a project titled 'Intent-Based Data Mining for Identifying and Classifying Conflict Detection and Resolution from Historical Aircraft Track Data', which coupled together the concepts of machine learning and air traffic management. The project involved applying machine learning techniques to find patterns in trajectory-based operations, and mimic the responses of air traffic controllers and pilots to en-route conflicts. Initially starting with off-the-shelf toolboxes to analyze the aviation datasets, we realized that basic toolboxes like Support Vector Machines and Neural Networks were incapable of learning the intricacies and variabilities of human responses in this context. Therefore, we developed a novel feature-weighted approach to learning, which improved the performance of the supervised learning process. This project exposed me to the inherent challenges of implementing mathematical techniques to such practical systems and motivated me to delve deeper into this field.
-<br>
-
-During my Ph.D., I researched anomaly detection in aviation datasets, where the anomalies are closely tied to operational or safety issues in the terminal airspace. Inspired by the <a href="http://icrat.org/ICRAT/seminarContent/2018/papers/ICRAT_2018_paper_39.pdf">work</a> of a colleague, I developed a human-interpretable anomaly detection algorithm — called <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2019-0682" title="Anomaly Detection Using Temporal Logic Based Learning for Terminal Airspace Operations @ SciTech 2019">TempAD</a> — relying on unsupervised machine learning techniques to aid the visualization of anomaly detection models in the physical space. Considering that aviation operations are periodic, I developed a recursive data-driven anomaly detection algorithm — called <a href="https://arc.aiaa.org/doi/10.2514/1.I010711" title="Incremental-Learning-Based Unsupervised Anomaly Detection Algorithm for Terminal Airspace Operations @ JAIS">TempAD-OU</a> (for Overnight Update) — that was capable of maintaining an anomaly detection model library and incrementally adapting it to newly recorded data. This research focused on finding abnormal behavior in the terminal airspace; a complementary problem and a natural next-step is prognosis, i.e., determining the causes — called precursors — for these behaviors in the same dataset. For this purpose, I developed a precursor detection algorithm — called <a href="https://arc.aiaa.org/doi/10.2514/1.D0182" title="Reactive Temporal Logic-Based Precursor Detection Algorithm for Terminal Airspace Operations @ JAT">reactive TempAD</a> — through a supervised learning approach. During recent months, I have been focusing on enhancing these algorithms to be applied to real-time streaming data, so that they can potentially be used as online anomaly monitoring and mitigation tools.
+<div id="mor2" style="display:none"> <strong> Introduction: </strong> TBD...
 
 </div>
 
