@@ -74,6 +74,13 @@ The following is the summary of our ongoing research:
 </div>
 <hr>
 
+The following is the summary of our ongoing research:
+
+<h2> [1] Risk Assessment for UAVs under GPS Stealthy Attacks </h2>
+
+<p> <strong> Objective: </strong> In this research topic,  
+</p>
+
 
 </div>
 
