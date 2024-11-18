@@ -78,7 +78,7 @@ The following is the summary of our ongoing research:
 
 <h2> [1] Risk Assessment for UAVs under GPS Stealthy Attacks </h2>
 
-<p> <strong> Objective: </strong> In this research topic,  
+<p> <strong> Objective: </strong> In this research topic, we aim to develop a model-based risk assessment methodology for quadrotor UAVs in the presence of GPS stealthy attacks. 
 </p>
 
 
