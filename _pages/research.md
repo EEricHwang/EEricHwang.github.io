@@ -65,7 +65,7 @@ The following is the summary of our ongoing research:
 <h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicle </h2>
 <hr>  
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
-<div id="mor2" style="display:none"> <strong> Introduction: </strong> One of the important aspects of conducting research on Unmanned Aerial Vehicles (UAVs) is <strong> <i> how to enhance or fully guarantee the operational safety of UAVs? </i> </strong> In fact, UAVs are likely to be vulnerable to numerous malicious threats, including disturbances, wind/gusts, and cyberattacks. For instance, with respect to cybersecurity, the GPS sensors of UAVs may be easily impacted by cyberattacks, so that, the performance of the UAV's operation (e.g., tracking control to a destination) can be significantly degraded.
+<div id="mor2" style="display:none"> <strong> Introduction: </strong> One of the important aspects of conducting research on Unmanned Aerial Vehicles (UAVs) is <strong> <i> how to enhance or fully guarantee the operational safety of UAVs? </i> </strong> In fact, UAVs are likely to be vulnerable to numerous malicious threats, including disturbances, wind/gusts, and cyberattacks. For instance, with respect to cybersecurity, the GPS sensors of UAVs may be easily impacted by cyberattacks, so that, the performance of the UAV's operation (e.g., tracking control to a destination) can be significantly degraded. To address this issue, we aim to develop safety-critical control and assurance algorithms for UAVs to enhance their operational safety.
 
 <hr>  
 <div style="text-align:center;">
