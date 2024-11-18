@@ -13,6 +13,7 @@ I am a Ph.D. student at the School of Aeronautics and Astronautics at [Purdue Un
 
  <ul style="list-style-type:square;">
      <li> Model-based reachability computation and analysis </li>
+     <li> State feedback control and estimation </li>
      <li> Robust control theory </li>
      <li> Control barrier function </li>
      <li> Distributed optimization and control </li>
