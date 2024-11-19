@@ -56,6 +56,11 @@ The following is the summary of our ongoing research:
   </video>
 </div>
 
+<strong> Publication </strong>
+<hr>  
+<small> S. Hwang, M. Cho, S. Kim, and I. Hwang. "An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks." <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023. </small>
+<hr>  
+
 <!-- 
 <h2> [3] Multi-Vehicle Coordination with Network Connectivity </h2>
 
