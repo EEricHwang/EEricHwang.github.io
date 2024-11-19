@@ -36,6 +36,7 @@ The following is the summary of our ongoing research:
   <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
   </video>
 </div>
+<br>
 
 <strong>Publication:</strong>
 <hr>  
