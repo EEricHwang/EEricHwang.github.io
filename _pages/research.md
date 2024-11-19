@@ -39,7 +39,7 @@ The following is the summary of our ongoing research:
 <br>
 
 <strong>Publication:</strong>
-<hr>  
+<br>
 <small> S. Hwang, M. Cho, and I. Hwang, "An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University, Illinois, USA. </small>
 <hr>  
 
@@ -59,7 +59,7 @@ The following is the summary of our ongoing research:
 <br>
 
 <strong>Publication:</strong>
-<hr>  
+<br>
 <small> S. Hwang, M. Cho, S. Kim, and I. Hwang. "An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks." <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023. </small>
 <hr>  
 
