@@ -37,6 +37,11 @@ The following is the summary of our ongoing research:
   </video>
 </div>
 
+<hr>  
+S. Hwang, M. Cho, and I. Hwang, "An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University.
+<hr>  
+
+
 <h2> [2] Proactive Multi-Agent Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> In this research topic, we focus on developing <strong> security metrics </strong> for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have <strong> potential risks </strong> in terms of collisions during operation.</p>
