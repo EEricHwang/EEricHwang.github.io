@@ -56,6 +56,7 @@ The following is the summary of our ongoing research:
   <source src ="/images/Risk_Assessment2.mp4" type="video/mp4">
   </video>
 </div>
+<br>
 
 <strong>Publication:</strong>
 <hr>  
