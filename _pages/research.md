@@ -96,6 +96,13 @@ The following is the summary of our ongoing research:
 <p> <strong> Objective: </strong> In this research, we aim to develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS stealthy attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensor values are highly susceptible to compromise by attackers. 
 </p>
 
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/Risk1.png" alt="MAS" style="width:40%">
+  <img src="/images/Risk2.png" alt="MAS" style="width:40%">
+  <figcaption> Figure: A system vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
+</div>
+<hr> 
 
 </div>
 
