@@ -98,8 +98,8 @@ The following is the summary of our ongoing research:
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Risk1.png" alt="MAS" style="width:30%">
-  <img src="/images/Risk2.png" alt="MAS" style="width:30%">
+  <img src="/images/Risk1.png" alt="MAS" style="width:45%">
+  <img src="/images/Risk2.png" alt="MAS" style="width:45%">
 </div>
 <hr> 
 
