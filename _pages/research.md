@@ -23,7 +23,7 @@ My research focuses on developing advanced control and estimation algorithms for
 
 The following is the summary of our ongoing research:
 
-<h2> [1] Reactive Multi-Agent Defense Strategy </h2>
+<h2> Reactive Multi-Agent Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> In this research topic, we aim to design <strong> resilient control </strong> and <strong> estimation </strong> algorithms that can directly <strong> mitigate </strong> the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
 </p>
@@ -44,7 +44,7 @@ The following is the summary of our ongoing research:
 <hr>  
 
 
-<h2> [2] Proactive Multi-Agent Defense Strategy </h2>
+<h2> Proactive Multi-Agent Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> In this research topic, we focus on developing <strong> security metrics </strong> for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have <strong> potential risks </strong> in terms of collisions during operation.</p>
 
@@ -91,7 +91,7 @@ The following is the summary of our ongoing research:
 
 The following is the summary of our ongoing research:
 
-<h2> [1] Risk Assessment for UAVs under GPS Stealthy Attacks </h2>
+<h2> Risk Assessment for UAVs under GPS Stealthy Attacks </h2>
 
 <p> <strong> Objective: </strong> In this research, we aim to develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS stealthy attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensor values are highly susceptible to compromise by attackers. 
 </p>
