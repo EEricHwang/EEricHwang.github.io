@@ -101,7 +101,14 @@ The following is the summary of our ongoing research:
   <img src="/images/Risk1.png" alt="MAS" style="width:40%">
   <img src="/images/Risk2.png" alt="MAS" style="width:40%">
 </div>
-<hr> 
+<br>
+
+<strong>Publication:</strong>
+<br>
+<small> <strong>S. Hwang</strong>, M. Cho, S. Kim, and I. Hwang, "An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks." <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023 (also presented at the 62nd IEEE Conference on Decision and Control). </small>
+<br>
+<small> M, Cho, <strong>S. Hwang</strong>, and I. Hwang, "Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis." <i>2024 American Control Conference (ACC)</i>, pp. 1293-1298. IEEE, Toronto, Canada, July. 2024.</small>
+<hr>  
 
 </div>
 
