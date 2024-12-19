@@ -12,7 +12,7 @@ My research focuses on developing advanced control and estimation algorithms for
 <h2> Secure Autonomy and Control for Multi-Agent System </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
-<div id="more" style="display:none"> <strong> Introduction: </strong> <br> 
+<div id="more" style="display:none"> <strong> Research Motivation </strong> <br> 
 Multi-agent systems (MASs) have recently gained significant attention for their ability to solve complex engineering problems. The main goal in operating MASs is to achieve <strong> consensus </strong> among agents (e.g., UAVs, robots, autonomous vehicles) to satisfy their collaborative objectives. For instance, the vehicle dynamics for urban air mobility (UAM) operation can be represented through MAS, where UAM aerial vehicles (AVs) can achieve their UAM missions (e.g., formation control and velocity-matching consensus) by exchanging their information (position and velocity) with neighbors. Therefore, the communication between agents plays a significant role in the operation of MASs. However, this communication-based structure results in MASs being <strong> vulnerable </strong> to various malicious entities, such as cyberattacks, disturbances, and system faults. Therefore, it is important to develop advanced control algorithms to enhance the safety and security of MASs despite those threats.
 
 <hr>  
@@ -83,7 +83,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
 <h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicle </h2>
 <hr>  
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
-<div id="mor2" style="display:none"> <strong> Introduction: </strong> <br>
+<div id="mor2" style="display:none"> <strong> Research Motivation: </strong> <br>
 One of the key aspects of researching Unmanned Aerial Vehicles (UAVs) is <strong> <i> how to enhance or fully guarantee their operational safety? </i> </strong> UAVs are particularly vulnerable to various malicious threats, such as disturbances, wind gusts, and cyberattacks. For example, in terms of cybersecurity, GPS sensors on UAVs can be easily compromised by cyberattacks, leading to significant degradation in operational performance, such as tracking a destination. To address this challenge, we aim to develop safety-critical control and assurance algorithms to enhance the operational safety of UAVs.
 
 <hr>  
