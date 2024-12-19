@@ -26,7 +26,8 @@ The following is the summary of our ongoing research:
 
 <h2> Reactive Multi-Agent Defense Strategy </h2>
 
-<p> <strong> Objective: </strong> In this research topic, we aim to design <strong> resilient control </strong> and <strong> estimation </strong> algorithms that can directly <strong> mitigate </strong> the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
+<p> <strong> Objective: </strong> <br>
+In this research topic, we aim to design <strong> resilient control </strong> and <strong> estimation </strong> algorithms that can directly <strong> mitigate </strong> the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
 </p>
 
 <div align="center">
@@ -47,7 +48,8 @@ The following is the summary of our ongoing research:
 
 <h2> Proactive Multi-Agent Defense Strategy </h2>
 
-<p> <strong> Objective: </strong> In this research topic, we focus on developing <strong> security metrics </strong> for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have <strong> potential risks </strong> in terms of collisions during operation.</p>
+<p> <strong> Objective: </strong> <br>
+In this research topic, we focus on developing <strong> security metrics </strong> for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have <strong> potential risks </strong> in terms of collisions during operation.</p>
 
 <div align="center">
   <video width="470" height="360" autoplay loop muted>
@@ -81,7 +83,8 @@ The following is the summary of our ongoing research:
 <h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicle </h2>
 <hr>  
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
-<div id="mor2" style="display:none"> <strong> Introduction: </strong> One of the key aspects of researching Unmanned Aerial Vehicles (UAVs) is <strong> <i> how to enhance or fully guarantee their operational safety? </i> </strong> UAVs are particularly vulnerable to various malicious threats, such as disturbances, wind gusts, and cyberattacks. For example, in terms of cybersecurity, GPS sensors on UAVs can be easily compromised by cyberattacks, leading to significant degradation in operational performance, such as tracking a destination. To address this challenge, we aim to develop safety-critical control and assurance algorithms to enhance the operational safety of UAVs.
+<div id="mor2" style="display:none"> <strong> Introduction: </strong> <br>
+One of the key aspects of researching Unmanned Aerial Vehicles (UAVs) is <strong> <i> how to enhance or fully guarantee their operational safety? </i> </strong> UAVs are particularly vulnerable to various malicious threats, such as disturbances, wind gusts, and cyberattacks. For example, in terms of cybersecurity, GPS sensors on UAVs can be easily compromised by cyberattacks, leading to significant degradation in operational performance, such as tracking a destination. To address this challenge, we aim to develop safety-critical control and assurance algorithms to enhance the operational safety of UAVs.
 
 <hr>  
 <div style="text-align:center;">
@@ -94,7 +97,8 @@ The following is the summary of our ongoing research:
 
 <h2> Risk Assessment for UAVs under GPS Stealthy Attacks </h2>
 
-<p> <strong> Objective: </strong> In this research, we aim to develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS stealthy attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensor values are highly susceptible to compromise by attackers. 
+<p> <strong> Objective: </strong> <br>
+In this research, we aim to develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS stealthy attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensor values are highly susceptible to compromise by attackers. 
 </p>
 
 <hr>  
