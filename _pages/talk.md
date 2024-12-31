@@ -21,3 +21,7 @@ At the workshop held at Northwestern University on April 27, 2024, I presented a
 2024 NASA S2A2 ULI Annual Meeting at North Carolina A&T State University
 ------
 At the workshop held at Northwestern University on April 27, 2024, I presented a poster on my research topic, which focuses on developing a resilient MAS control strategy against cyberattacks. The main topic of my presentation is "Resilient Control Strategy for Multi-agent Systems and its Application to Urban Air Mobility". Please refer to the [poster](https://drive.google.com/file/d/1TwE3YoU8JRcZlAyIaIg7w5DjDQFOg56t/view?usp=drive_link).
+
+<hr>
+2025 AIAA SciTech Forum and Exposition at Orlando
+------
