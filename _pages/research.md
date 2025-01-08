@@ -114,6 +114,9 @@ In this research, we aim to develop a <strong> model-based risk assessment </str
 
 <h2> Safety-Filter Design using Control Barrier Function </h2>
 
+<p> <strong> Objective: </strong> <br>
+TBD... 
+</p>
 
 </div>
 
