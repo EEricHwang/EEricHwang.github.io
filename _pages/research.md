@@ -117,6 +117,9 @@ In this research, we aim to develop a <strong> model-based risk assessment </str
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction2()" id="myBt2"><strong>Read more +</strong></btn> 
 
+<h2> Safety-Filter Design using Control Barrier Function </h2>
+
+
 
 
 <script>
