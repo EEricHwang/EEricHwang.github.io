@@ -25,3 +25,5 @@ At the workshop held at Northwestern University on April 27, 2024, I presented a
 <hr>
 2025 AIAA SciTech Forum and Exposition at Orlando
 ------
+I gave one of my collaborative works at the SciTech 2025 Forum in Orlando, Florida. The title of my presentation is "Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery". The presentation slide can be found [here](https://docs.google.com/presentation/d/1lRU8v0FIV_qGtxxsswuIHOFVZNx9q8MY/edit?usp=drive_link&ouid=110924780064992423660&rtpof=true&sd=true).
+
