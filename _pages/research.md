@@ -123,10 +123,9 @@ This research aims to propose a safety-critical controller for nonlinear affine 
   <img src="/images/PX4.png" alt="MAS" style="width:55%">
   <figcaption> Figure: A control architecture for quadrotor UAV using reconfigurable SM-CBF safety filter and LSTM-based attack detector. </figcaption>
 </div>
-<hr>
 
 <div align="center">
-  <video width="450" height="340" autoplay loop muted>
+  <video width="600" height="400" autoplay loop muted>
   <source src ="/images/PX4.mp4" type="video/mp4">
   </video>
 </div>
@@ -134,9 +133,7 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 
 <strong>Publication:</strong>
 <br>
-<small> <strong>S. Hwang</strong>, M. Cho, S. Kim, and I. Hwang, "An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks." <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023 (also presented at the 62nd IEEE Conference on Decision and Control). </small>
-<br>
-<small> M, Cho, <strong>S. Hwang</strong>, and I. Hwang, "Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis." <i>2024 American Control Conference (ACC)</i>, pp. 1293-1298. IEEE, Toronto, Canada, July. 2024.</small>
+<small> M. Cho, S. Kim, <strong>S. Hwang</strong>, and I. Hwang, "Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery." <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
 <hr>  
 
 
