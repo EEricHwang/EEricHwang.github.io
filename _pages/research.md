@@ -42,7 +42,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 
 <strong>Publication:</strong>
 <br>
-<small> <strong>S. Hwang</strong>, M. Cho, and I. Hwang, "An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University, Illinois, USA. </small>
+<small> <span style="text-decoration: underline;"><strong>S. Hwang</strong></span>, M. Cho, and I. Hwang, "An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University, Illinois, USA. </small>
 <hr>  
 
 
@@ -65,7 +65,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
 <br>
 <small> <span style="text-decoration: underline;"><strong>S. Hwang</strong></span>, M. Cho, S. Kim, and I. Hwang, "An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks." <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023 (also presented at the 62nd IEEE Conference on Decision and Control). </small>
 <br>
-<small> M, Cho, <strong>S. Hwang</strong>, and I. Hwang, "Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis." <i>2024 American Control Conference (ACC)</i>, pp. 1293-1298. IEEE, Toronto, Canada, July. 2024.</small>
+<small> M, Cho, <span style="text-decoration: underline;"><strong>S. Hwang</strong></span>, and I. Hwang, "Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis." <i>2024 American Control Conference (ACC)</i>, pp. 1293-1298. IEEE, Toronto, Canada, July. 2024.</small>
 <hr>  
 
 <!-- 
@@ -133,7 +133,7 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 
 <strong>Publication:</strong>
 <br>
-<small> S. Kim, M. Cho, <strong>S. Hwang</strong>, and I. Hwang, "Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery." <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
+<small> S. Kim, M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang</strong></span>, and I. Hwang, "Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery." <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
 <hr>  
 
 
