@@ -115,7 +115,7 @@ In this research, we aim to develop a <strong> model-based risk assessment </str
 <h2> Safety-Filter Design using Control Barrier Function </h2>
 
 <p> <strong> Objective: </strong> <br>
-In this research category, TBD... 
+In this research category, we develop a safety filter using the control barrier function (CBF) for UAVs that allows them to show resilient behavior despite systematic uncertainties and actuator cyberattacks.
 </p>
 
 </div>
