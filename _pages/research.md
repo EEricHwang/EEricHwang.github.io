@@ -120,8 +120,8 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/UAV_Controller.png" alt="MAS" style="width:75%">
-  <figcaption> Figure: A control architecture of UAV and potential system vulnerability under cyberattacks. </figcaption>
+  <img src="/images/PX4.png" alt="MAS" style="width:75%">
+  <figcaption> Figure: A control architecture for quadrotor UAV using reconfigurable SM-CBF safety filter and LSTM-based attack detector. </figcaption>
 </div>
 <hr>
 
