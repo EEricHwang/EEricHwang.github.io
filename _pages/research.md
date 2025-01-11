@@ -115,7 +115,7 @@ In this research, we aim to develop a <strong> model-based risk assessment </str
 <h2> Safety-Filter Design using Control Barrier Function </h2>
 
 <p> <strong> Objective: </strong> <br>
-In this research category, we develop a safety filter using the control barrier function (CBF) for UAVs that allows them to show resilient behavior despite systematic uncertainties and actuator cyberattacks.
+This research aims to propose a safety-critical controller for nonlinear affine systems under actuator cyberattacks and model uncertainties. The approach combines a robust sliding mode-based control barrier function (SM-CBF) to address model uncertainties and an LSTM-based attack detector to identify compromised actuator channels. Conventional CBF controllers are sensitive to model dynamics, leading to safety violations under uncertainties and attacks. The proposed SM-CBF ensures safety despite these challenges, while the LSTM-based detector swiftly identifies compromised inputs. The methodology's effectiveness is demonstrated through quadrotor UAV stabilization in a high-fidelity simulator with Gazebo and PX4-ROS2.
 </p>
 
 </div>
