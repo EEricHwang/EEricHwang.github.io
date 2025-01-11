@@ -119,6 +119,12 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 </p>
 
 <hr>  
+<div style="text-align:center;">
+  <img src="/images/UAV_Controller.png" alt="MAS" style="width:75%">
+  <figcaption> Figure: A control architecture of UAV and potential system vulnerability under cyberattacks. </figcaption>
+</div>
+<hr>
+
 
 </div>
 
