@@ -133,7 +133,7 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 
 <strong>Publication:</strong>
 <br>
-<small> M. Cho, S. Kim, <strong>S. Hwang</strong>, and I. Hwang, "Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery." <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
+<small> S. Kim, M. Cho, <strong>S. Hwang</strong>, and I. Hwang, "Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery." <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
 <hr>  
 
 
