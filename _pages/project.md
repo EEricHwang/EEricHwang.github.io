@@ -24,7 +24,7 @@ Our objective is to develop a vehicle-level advanced control algorithm for urban
 Development of Advanced Air Mobility Battery Management System
 ------
 <p> 
-<strong>Funded by: National Aeronautics and Space Administration (NASA)</strong><br>
+<strong> Ministry of Trade, Industry and Energy, South Korea </strong><br>
 <strong>Research Periods:</strong> <i> Aug 2024 - Present </i> <br>
 TBD...
 </p>
