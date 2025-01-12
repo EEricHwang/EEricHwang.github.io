@@ -11,7 +11,7 @@ Secure and Safe Assured Autonomy for Urban Air Mobility
 <p> 
 <strong>Funded by: National Aeronautics and Space Administration (NASA)</strong><br>
 <strong>Research Periods:</strong> Aug 2021 - Present <br>
-Our objective is to develop a vehicle-level advanced control algorithm for urban air mobility (UAM) applications. This allows UAM aerial vehicles (AVs) to achieve more safe and secure operation even though AVs are operated in adversarial environments, including disturbances, systematic uncertainties, and cyberattacks.
+Our objective is to develop a vehicle-level advanced control algorithm for urban air mobility (UAM) applications. This allows UAM aerial vehicles (AVs) to achieve more safe and secure operations even though AVs are exposed to adversarial environments, including disturbances, systematic uncertainties, and cyberattacks. I am particularly focusing on developing cyber threat management algorithms, such as attack mitigation and risk assessment for AVs. 
 </p>
 
 <hr>  
