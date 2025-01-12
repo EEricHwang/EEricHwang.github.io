@@ -8,8 +8,11 @@ author_profile: true
 <hr>
 Secure and Safe Assured Autonomy for Urban Air Mobility
 ------
-<p> <strong>Funded by: National Aeronautics and Space Administration (NASA)</strong><br>
-In the future of air transportation, there will be a blending of various types of Unmanned Aerial Systems (UAS), personal air vehicles, Urban Air Mobility (UAM) vehicles, and specialized mission aircraft within the National Airspace System (NAS). These advancements can utilize progress in UAS Traffic Management (UTM) specifically tailored for the distinct demands of UAM airspace control. Supported by NASA’s Aeronautics University Leadership Initiative (ULI), this S2A2 project aims to develop new technologies and algorithms to ensure the safe and robust integration of autonomous vehicles into UAM-tailored transportation infrastructure.  </p>
+<p> 
+<strong>Funded by: National Aeronautics and Space Administration (NASA)</strong><br>
+<strong>Research Periods:</strong>Aug 2021 - Present<br>
+In the future of air transportation, there will be a blending of various types of Unmanned Aerial Systems (UAS), personal air vehicles, Urban Air Mobility (UAM) vehicles, and specialized mission aircraft within the National Airspace System (NAS). These advancements can utilize progress in UAS Traffic Management (UTM) specifically tailored for the distinct demands of UAM airspace control. Supported by NASA’s Aeronautics University Leadership Initiative (ULI), this S2A2 project aims to develop new technologies and algorithms to ensure the safe and robust integration of autonomous vehicles into UAM-tailored transportation infrastructure.
+</p>
 
 <hr>  
 <div style="text-align:center;">
