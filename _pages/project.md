@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <hr>
-NASA Secure and Safe Assured Autonomy (S2A2) Project
+Secure and Safe Assured Autonomy for Urban Air Mobility
 ------
-<p> <strong> Overview: </strong> 
+<p> <strong> Funded by: National Aeronautics and Space Administration (NASA)</strong> 
 In the future of air transportation, there will be a blending of various types of Unmanned Aerial Systems (UAS), personal air vehicles, Urban Air Mobility (UAM) vehicles, and specialized mission aircraft within the National Airspace System (NAS). These advancements can utilize progress in UAS Traffic Management (UTM) specifically tailored for the distinct demands of UAM airspace control. Supported by NASA’s Aeronautics University Leadership Initiative (ULI), this S2A2 project aims to develop new technologies and algorithms to ensure the safe and robust integration of autonomous vehicles into UAM-tailored transportation infrastructure.  </p>
 
 <hr>  
