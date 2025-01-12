@@ -21,6 +21,10 @@ Our objective is to develop a vehicle-level advanced control algorithm for urban
 </div>
 <hr>  
 
-Secure and Safe Assured Autonomy for Urban Air Mobility
+Development of Advanced Air Mobility Battery Management System
 ------
-
+<p> 
+<strong>Funded by: National Aeronautics and Space Administration (NASA)</strong><br>
+<strong>Research Periods:</strong> <i> Aug 2024 - Present </i> <br>
+TBD...
+</p>
