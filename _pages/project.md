@@ -16,17 +16,8 @@ Our objective is to develop a vehicle-level advanced control algorithm for urban
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/NASA_Conops.png" alt="MAS" style="width:40%">
-  <img src="/images/UAM.jpg" alt="MAS" style="width:54%">
-  <figcaption> Figure: NASA Urban Air Mobility (UAM) Concept of Operations [1]. </figcaption>
+  <img src="/images/Research_Diagram.png" alt="MAS" style="width:40%">
+  <figcaption> Figure: UAM Cybersecurity Research Diagram </figcaption>
 </div>
 <hr>  
-
-<p> <strong> Research Focus: </strong> 
-UAM aerial vehicles are a typical example of Cyber-Physical-Systems (CPSs) where
-</p>
-
-<p> <strong> References: </strong> 
-[1] Hill, Brian P., Dwight DeCarme, et al, "UAM Vision Concept of Operations (ConOps) UAM maturity level (UML) 4." (2020).
-</p>
 
