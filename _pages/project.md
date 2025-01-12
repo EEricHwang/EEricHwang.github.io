@@ -17,7 +17,7 @@ Our objective is to develop a vehicle-level advanced control algorithm for urban
 <hr>  
 <div style="text-align:center;">
   <img src="/images/Research_Diagram.png" alt="MAS" style="width:90%">
-  <figcaption> Figure: UAM Cybersecurity Research Diagram </figcaption>
+  <figcaption> Figure: A diagram for UAM cybersecurity research </figcaption>
 </div>
 <hr>  
 
