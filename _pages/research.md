@@ -24,7 +24,7 @@ Multi-agent systems (MASs) have recently gained significant attention for their 
 
 The following is the summary of our ongoing research:
 
-<h2> Reactive Multi-Agent Defense Strategy </h2>
+<h2> Reactive Multi-Agent System Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> <br>
 In this research topic, we aim to design <strong> resilient control </strong> and <strong> estimation </strong> algorithms that can directly <strong> mitigate </strong> the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
@@ -48,7 +48,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 <hr>  
 
 
-<h2> Proactive Multi-Agent Defense Strategy </h2>
+<h2> Proactive Multi-Agent System Defense Strategy </h2>
 
 <p> <strong> Objective: </strong> <br>
 In this research topic, we focus on developing <strong> security metrics </strong> for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have <strong> potential risks </strong> in terms of collisions during operation.</p>
