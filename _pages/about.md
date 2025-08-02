@@ -17,6 +17,6 @@ I am a PhD student at the School of Aeronautics and Astronautics at [Purdue Univ
      <li> Distributed optimization and control </li>
  </ul>
 
-For a more comprehensive overview of my work, please refer to his [CV](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated Sep. 2024).
+For a more comprehensive overview of my work, please refer to my [CV](https://drive.google.com/file/d/11QUgC7uMvu0lk0fjNXlfH3MGzSu-iNpQ/view?usp=sharing) (updated Sep. 2024).
 
 Thank you for visiting!
