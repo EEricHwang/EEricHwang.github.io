@@ -22,4 +22,7 @@ For a more comprehensive overview of my work, please refer to my [CV](https://dr
 Thank you for visiting!
 
 <h2> News </h2>
+
+<strong>[June 2025] </strong>
+
 <hr>  
