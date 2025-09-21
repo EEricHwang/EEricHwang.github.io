@@ -20,7 +20,7 @@ At the workshop held at Northwestern University on April 27, 2024, I presented a
 <hr>
 2024 NASA S2A2 ULI Annual Meeting at North Carolina A&T State University
 ------
-At the workshop held at Northwestern University on April 27, 2024, I presented a poster on my research topic, which focuses on developing a resilient MAS control strategy against cyberattacks. The main topic of my presentation is "Resilient Control Strategy for Multi-agent Systems and its Application to Urban Air Mobility". Please refer to the [poster](https://drive.google.com/file/d/1TwE3YoU8JRcZlAyIaIg7w5DjDQFOg56t/view?usp=drive_link).
+At the annual meeting held at North Carolina A&T State University on June 20, 2024, I presented a cybersecurity research for urban air mobility (UAM) with control theoretical approaches. The title of my presentation is "Reactive and Proactive Cyberattack Defense Strategy for Urban Air Mobility Applications". Please refer to the [poster](https://docs.google.com/presentation/d/1wToYG5QE2t3inq36uDCmzYnJDNUHXcK9/edit?usp=sharing&ouid=110924780064992423660&rtpof=true&sd=true).
 
 <hr>
 2025 AIAA SciTech Forum and Exposition at Orlando
