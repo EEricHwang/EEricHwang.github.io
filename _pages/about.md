@@ -42,12 +42,12 @@ Thank you for visiting!
         Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
       </a>
     </strong>  
-    is accepted for IEEE Control Systems Letters (LCSS)!
+    is accepted for IEEE Control Systems Letters!
   </p>
 
   <p>
     <strong>[May 2025]</strong>  
-    I will begin my Summer Internship as a Controls Research Engineer at <strong>Cummins Inc.</strong>! I will be developing advanced predictive control algorithms for adaptive cruise control (ACC) in Class 8 heavy trucks, with a focus on fuel efficiency and operational safety.
+    I will begin my Summer Internship as a Controls Research Engineer at <strong>Cummins Inc.</strong>! I will be developing advanced predictive control algorithms for adaptive cruise control in Class 8 heavy trucks, with a focus on fuel efficiency and operational safety.
   </p>
 
   <p>
