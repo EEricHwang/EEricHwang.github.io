@@ -40,6 +40,12 @@ Thank you for visiting!
     <strong>[May 2025]</strong>  
     I will begin my Summer Internship as a Controls Research Engineer at <strong>Cummins Inc</strong>!
   </p>
+
+  <p>
+    <strong>[Feb 2025]</strong>  
+    I receive a <strong>1st place poster award</strong> at the NASA ImaginAviation Annual Conference as a member of NASA Secure and Safe Assured Autonomy (S2A2) project. Competing against over 30 other ULI projects, our S2A2 team earned top honors and remain committed to advancing secure and safe assured autonomy for UAM applications, contributing to the success and growth of the UAM industry.
+  </p>
+
 </div>
 
 <hr>  
