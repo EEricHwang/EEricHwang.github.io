@@ -53,7 +53,7 @@ Thank you for visiting!
 
   <p>
     <strong>[Feb 2025]</strong>  
-    I receive a <strong>First place poster award</strong> at the NASA ImaginAviation Annual Conference as a member of NASA Secure and Safe Assured Autonomy (S2A2) project!
+    I receive the <strong>First place poster award</strong> at the NASA ImaginAviation Annual Conference as a member of NASA Secure and Safe Assured Autonomy (S2A2) project!
   </p>
   
 </div>
