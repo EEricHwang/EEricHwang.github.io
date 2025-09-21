@@ -23,6 +23,16 @@ Thank you for visiting!
 
 <h2> News </h2>
 
+<style>
+.news {
+  font-size: 0.9rem;    /* 전체 뉴스 글씨 크기를 줄임 */
+  line-height: 1.5;     /* 줄 간격 확보 */
+}
+.news p {
+  margin-bottom: 15px;  /* 항목 간 간격 */
+}
+</style>
+
 <div class="news">
   <p>
     <strong>[June 2025]</strong>  
@@ -45,7 +55,6 @@ Thank you for visiting!
     <strong>[Feb 2025]</strong>  
     I receive a <strong>1st place poster award</strong> at the NASA ImaginAviation Annual Conference as a member of NASA Secure and Safe Assured Autonomy (S2A2) project. Competing against over 30 other ULI projects, our S2A2 team earned top honors and remain committed to advancing secure and safe assured autonomy for UAM applications, contributing to the success and growth of the UAM industry.
   </p>
-
 </div>
 
 <hr>  
