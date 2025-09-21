@@ -52,8 +52,7 @@ Thank you for visiting!
 
   <p>
     <strong>[May 2025]</strong>  
-    Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attakcs</strong>  
-    for Advances in Transportation Cybersecurity and Resilience in World Schientific Publishing!
+    Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks</strong> has been accepted for Advances in Transportation Cybersecurity and Resilience by World Scientific Publishing!
   </p>
 
   <p>
