@@ -24,6 +24,6 @@ Thank you for visiting!
 <h2> News </h2>
 
 <strong>[June 2025]</strong> Our paper <strong>Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</strong> is accepted for IEEE Control Systems Letters (LCSS)! </br>
-<strong>[May 2025]</strong> Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attakcs </strong> for Advances in Transportation Cybersecurity and Resilience in World Schientific Publishing (WSP)  
-
+<strong>[May 2025]</strong> Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attakcs </strong> for Advances in Transportation Cybersecurity and Resilience in World Schientific Publishing (WSP)! </br>
+<strong>[May 2025]</strong> I will begin my Summer Internship as a Controls Research Engineer at <strong>Cummins Inc</strong>! </br>
 <hr>  
