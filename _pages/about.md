@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Aeronautics and Astronautics at [Purdue University](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in <strong> safety-critical control for autonomous systems with high-assured safety</strong>. For my PhD studies, I have been developing vehicle-level cyber threat management algorithms, including attack mitigation and risk assessment, for aerial system applications. My <strong>technical skills</strong> mainly include:
+I am a PhD student at the School of Aeronautics and Astronautics at [Purdue University](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in <strong> safety-critical control for autonomous systems with high-assured safety</strong>. For my PhD studies, I have been developing vehicle-level cyber threat management algorithms, including attack mitigation and risk assessment, for aerial system applications. My <strong>technical skills</strong> and <strong>research interest</strong> mainly include:
 
  <ul style="list-style-type:square;">
      <li> Model-based reachability computation and analysis </li>
