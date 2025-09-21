@@ -36,7 +36,12 @@ Thank you for visiting!
 <div class="news">
   <p>
     <strong>[June 2025]</strong>  
-    Our paper <strong>Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</strong>  
+    Our paper  
+    <strong>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
+        Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
+      </a>
+    </strong>  
     is accepted for IEEE Control Systems Letters (LCSS)!
   </p>
 
