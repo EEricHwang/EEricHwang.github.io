@@ -32,3 +32,9 @@ TBD...
 
 Development of Eco-Adaptive Cruise Control Framework for Class-8 Heavy Trucks
 ------
+<p> 
+<strong> Ministry of Trade, Industry and Energy </strong><br>
+<strong>Research Periods:</strong> Aug 2024 - Present <br>
+TBD...
+</p>
+<hr> 
