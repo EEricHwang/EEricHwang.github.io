@@ -37,4 +37,10 @@ Development of Eco-Adaptive Cruise Control (Eco-ACC) Method for Class-8 Heavy Tr
 <strong>Research Periods:</strong> May 2025 - Aug 2025 <br>
 As a PhD research intern at Cummins, 
 </p>
-<hr> 
+
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/Cummins.png" alt="MAS" style="width:90%">
+  <figcaption> Figure: TBD </figcaption>
+</div>
+<hr>  
