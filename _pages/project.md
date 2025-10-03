@@ -30,7 +30,7 @@ TBD...
 </p>
 <hr> 
 
-Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Heavy Trucks
+Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks
 ------
 <p> 
 <strong> Summer 2025 Internship at Cummins </strong><br>
@@ -41,6 +41,6 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
 <hr>  
 <div style="text-align:center;">
   <img src="/images/Cummins.png" alt="MAS" style="width:75%">
-  <figcaption> Figure: Schematic of a proposed Eco-ACC framework for a class-8 heavy truck. </figcaption>
+  <figcaption> Figure: Schematic of a proposed Eco-ACC framework for the Class 8 semi-truck. </figcaption>
 </div>
 <hr>  
