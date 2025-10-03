@@ -40,7 +40,7 @@ As a PhD research intern at Cummins,
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Cummins.png" alt="MAS" style="width:90%">
+  <img src="/images/Cummins.png" alt="MAS" style="width:75%">
   <figcaption> Figure: TBD </figcaption>
 </div>
 <hr>  
