@@ -33,7 +33,7 @@ TBD...
 Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks
 ------
 <p> 
-<strong> Summer 2025 Internship at Cummins </strong><br>
+<strong> Cummins Inc. </strong><br>
 <strong>Research Periods:</strong> May 2025 - Aug 2025 <br>
 As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, I led the design and implementation of real-time predictive control algorithms aimed at improving both safety and energy efficiency for Class 8 semi-trucks. My work centered on the development of an Eco-Adaptive Cruise Control (Eco-ACC) system powered by Cummins Power Systems, where I applied a model predictive control (MPC) framework to optimize vehicle performance. By incorporating predictive strategies that account for road grade and interactions with preceding vehicles, I was able to demonstrate meaningful improvements in fuel economy while enhancing operational safety under diverse driving conditions.
 </p>
