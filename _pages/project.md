@@ -33,8 +33,8 @@ TBD...
 Development of Eco-Adaptive Cruise Control Framework for Class-8 Heavy Trucks
 ------
 <p> 
-<strong> Ministry of Trade, Industry and Energy </strong><br>
-<strong>Research Periods:</strong> Aug 2024 - Present <br>
-TBD...
+<strong> Summer 2025 Internship at Cummins </strong><br>
+<strong>Research Periods:</strong> May 2025 - Aug 2025 <br>
+As a PhD research intern at Cummins, 
 </p>
 <hr> 
