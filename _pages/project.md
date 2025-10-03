@@ -30,7 +30,7 @@ TBD...
 </p>
 <hr> 
 
-Development of Eco-Adaptive Cruise Control (Eco-ACC) Method for Class-8 Heavy Trucks
+Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Heavy Trucks
 ------
 <p> 
 <strong> Summer 2025 Internship at Cummins </strong><br>
