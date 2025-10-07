@@ -7,6 +7,31 @@ author_profile: true
 
 This is a repository of my talk and presentation during my Ph.D. studies. 
 
+<style>
+.news {
+  font-size: 0.8rem;    /* 전체 뉴스 글씨 크기를 줄임 */
+  line-height: 1.4;     /* 줄 간격 확보 */
+}
+.news p {
+  margin-bottom: 14px;  /* 항목 간 간격 */
+}
+</style>
+
+<div class="news">
+  
+  <p>
+    <strong>[June 2025]</strong>  
+    Our paper  
+    <strong>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
+        Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
+      </a>
+    </strong>  
+    is accepted for IEEE Control Systems Letters!
+  </p>
+  
+</div>
+
 <hr>
 ACIT/S2A2 ULI Weekly Seminar Series at North Carolina A&T State University
 ------
