@@ -5,30 +5,7 @@ permalink: /talk/
 author_profile: true
 ---
 
-This is a repository of my talk and presentation during my Ph.D. studies. 
-
-<style>
-.news {
-  font-size: 0.8rem;    /* 전체 뉴스 글씨 크기를 줄임 */
-  line-height: 1.4;     /* 줄 간격 확보 */
-}
-.news p {
-  margin-bottom: 14px;  /* 항목 간 간격 */
-}
-</style>
-
-<div class="news">
-  
-  <p>
-    <strong> ACIT/S2A2 ULI Weekly Seminar Series at North Carolina A&T State University </strong> 
-    As a researcher of the NASA S2A2 ULI project, I presented my research regarding the cyber security of the UAM system at North Carolina Agricultural and Technical State University on October 13, 2023. The title of my seminar is "A Proactive Risk Assessment Methodology based on Reachability and its Application to Urban Air Mobility". Please refer to the <strong>
-      <a href="https://drive.google.com/file/d/1blPWVwczLNeTE55kHngb-BG7GnBb0sKo/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-        synopsis
-      </a>
-    </strong> of my talk.  
-  </p>
-  
-</div>
+This is a repository of my talk and presentation during my PhD research.
 
 <hr>
 ACIT/S2A2 ULI Weekly Seminar Series at North Carolina A&T State University
