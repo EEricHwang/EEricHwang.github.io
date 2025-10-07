@@ -20,7 +20,7 @@ This is a repository of my talk and presentation during my Ph.D. studies.
 <div class="news">
   
   <p>
-    <strong>[June 2025]</strong>  
+    <strong> ACIT/S2A2 ULI Weekly Seminar Series at North Carolina A&T State University </strong>  
     Our paper  
     <strong>
       <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
