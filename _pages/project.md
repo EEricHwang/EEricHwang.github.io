@@ -25,8 +25,8 @@ Development of Advanced Air Mobility Battery Management System
 ------
 <p> 
 <strong> Ministry of Trade, Industry and Energy </strong><br>
-<strong>Research Periods:</strong> Aug 2024 - Present <br>
-TBD...
+<strong>Research Periods:</strong> Oct 2024 - Present <br>
+I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft, focusing on how to achieve safe and efficient flight throughout all phases—from vertical takeoff to forward cruise and back to hover. My research combines aerodynamic modeling, power system simulation, and control algorithm design to better understand energy consumption and stability during complex mode transitions. By integrating trim analysis, robust control, and battery-aware estimation techniques, I aim to develop intelligent systems that ensure smooth and reliable flight under real-world conditions. Through this work, I aspire to contribute to the development of sustainable and resilient urban air mobility in the near future.
 </p>
 <hr> 
 
