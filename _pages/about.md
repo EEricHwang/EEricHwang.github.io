@@ -58,7 +58,7 @@ Thank you for visiting!
   <p>
     <strong>[Feb 2025]</strong>  
     I receive the <strong>First place poster award</strong> at the 
-    <strong> <a href="https://nari.arc.nasa.gov/imaginAviation/" target="_blank" rel="noopener noreferrer"> NASA ImaginAviation Annual Conference </a> </strong> as a member of NASA Secure and Safe Assured Autonomy project!
+    <strong> <a href="https://nari.arc.nasa.gov/imaginAviation/" target="_blank" rel="noopener noreferrer"> 2024 NASA ImaginAviation Annual Conference </a> </strong> as a member of NASA Secure and Safe Assured Autonomy project!
   </p>
   
 </div>
