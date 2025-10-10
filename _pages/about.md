@@ -47,7 +47,7 @@ Thank you for visiting!
 
   <p>
     <strong>[May 2025]</strong>  
-    I will begin my Summer Internship as a Controls Research Engineer at <strong>Cummins Inc.</strong>! I will be developing advanced predictive control algorithms for adaptive cruise control in Class 8 heavy trucks, with a focus on fuel efficiency and operational safety.
+    I will begin my Summer Internship as a Controls Research Engineer at <strong>Cummins Inc.</strong>! I will be developing advanced predictive control algorithms for adaptive cruise control in Class 8 semi-trucks, with a focus on fuel efficiency and vehicle operational safety.
   </p>
 
   <p>
