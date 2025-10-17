@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my Ph.D. studies:
-
-
+My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my PhD studies:
 
 <h2> Secure Autonomy and Control for Multi-Agent System </h2>
 <hr>  
@@ -147,9 +145,77 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction2()" id="myBt2"><strong>Read more +</strong></btn> 
 
+<!-- 
+Section 3
+-->
+
+<h2> Tracking Control for Unmanned Aerial Vehicles using Fuzzy Model-Based Intelligent Control </h2>
+<hr>  
+<div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
+<div id="mor2" style="display:none"> <strong> Research Motivation: </strong> <br>
+One of the key aspects of researching Unmanned Aerial Vehicles (UAVs) is <strong> <i> how to enhance or fully guarantee their operational safety? </i> </strong> UAVs are particularly vulnerable to various malicious threats, such as disturbances, wind gusts, and cyberattacks. For example, in terms of cybersecurity, GPS sensors on UAVs can be easily compromised by cyberattacks, leading to significant degradation in operational performance, such as tracking a destination. To address this challenge, we aim to develop safety-critical control and assurance algorithms to enhance the operational safety of UAVs.
+
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/UAV_Controller.png" alt="MAS" style="width:75%">
+  <figcaption> Figure: A control architecture of UAV and potential system vulnerability under cyberattacks. </figcaption>
+</div>
+<hr>
+
+The following is the summary of our ongoing research:
+
+<h2> Risk Assessment for UAVs under GPS Stealthy Attacks </h2>
+
+<p> <strong> Objective: </strong> <br>
+In this research, we aim to develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS stealthy attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensor values are highly susceptible to compromise by attackers. 
+</p>
+
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/Risk1.png" alt="MAS" style="width:40%">
+  <img src="/images/Risk2.png" alt="MAS" style="width:40%">
+</div>
+<br>
+
+<strong>Publication:</strong> To be appear
+<br>
+<hr>  
+
+<h2> UAV Safety-Filter Design through Control Barrier Function </h2>
+
+<p> <strong> Objective: </strong> <br>
+This research aims to propose a safety-critical controller for nonlinear affine systems under actuator cyberattacks and model uncertainties. The approach combines a robust sliding mode-based control barrier function (SM-CBF) to address model uncertainties and an LSTM-based attack detector to identify compromised actuator channels. Conventional CBF controllers are sensitive to model dynamics, leading to safety violations under uncertainties and attacks. The proposed SM-CBF ensures safety despite these challenges, while the LSTM-based detector swiftly identifies compromised inputs. The methodology's effectiveness is demonstrated through quadrotor UAV stabilization in a high-fidelity simulator with Gazebo and PX4-ROS2.
+</p>
+
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/PX4.png" alt="MAS" style="width:55%">
+  <figcaption> Figure: A control architecture for quadrotor UAV using reconfigurable SM-CBF safety filter and LSTM-based attack detector. </figcaption>
+</div>
+
+<div align="center">
+  <video width="600" height="400" autoplay loop muted>
+  <source src ="/images/PX4.mp4" type="video/mp4">
+  </video>
+</div>
+<br>
+
+<strong>Publication:</strong>
+<br>
+<small> S. Kim, M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang</strong></span>, and I. Hwang, "Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery." <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
+<hr>  
+
+
+</div>
+
+<hr style="height:1pt; visibility:hidden;" />
+<btn onclick="myFunction2()" id="myBt2"><strong>Read more +</strong></btn> 
 
 
 
+<!-- 
+Script...
+-->
 
 <script>
 function myFunction1() {
