@@ -208,8 +208,7 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
-<btn onclick="myFunction2()" id="myBt2"><strong>Read more +</strong></btn> 
-
+<btn onclick="myFunction3()" id="myBt3"><strong>Read more +</strong></btn> 
 
 
 <!-- 
@@ -248,6 +247,23 @@ function myFunction2() {
     moreText2.style.display = "inline";
   }
 }
+
+function myFunction3() {
+  var dots3 = document.getElementById("dot3");
+  var moreText3 = document.getElementById("mor3");
+  var btnText3 = document.getElementById("myBt3");
+
+  if (dots3.style.display === "none") {
+    dots3.style.display = "inline";
+    btnText3.innerHTML = "<strong>Read more +</strong>"; 
+    moreText3.style.display = "none";
+  } else {
+    dots3.style.display = "none";
+    btnText3.innerHTML = "<strong>Read less -</strong>"; 
+    moreText3.style.display = "inline";
+  }
+}
+
   
 </script>
 
