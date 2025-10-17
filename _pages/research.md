@@ -153,7 +153,9 @@ Section 3
 <hr>  
 <div id="dot3" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
 <div id="mor3" style="display:none"> <strong> Research Motivation: </strong> <br> 
+
 TBD...
+<br>
 
 <strong>Publication:</strong>
 <br>
