@@ -170,7 +170,7 @@ One of the key aspects of researching Unmanned Aerial Vehicles (UAVs) is <strong
 
 The following is the summary of our ongoing research:
 
-<h2> Risk Assessment for UAVs under GPS Stealthy Attacks </h2>
+<h2> Risk Assessment for UAVs under GPS Spoofing Attacks </h2>
 
 <p> <strong> Objective: </strong> <br>
 In this research, we aim to develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS stealthy attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensor values are highly susceptible to compromise by attackers. 
