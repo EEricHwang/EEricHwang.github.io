@@ -149,6 +149,17 @@ This research propose a safety-critical controller for nonlinear affine systems 
 Section 3
 -->
 
+<h2> Tracking Control for Unmanned Aerial Vehicles using Fuzzy Model-Based Intelligent Control </h2>
+<hr>  
+<div id="dot3" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
+<div id="mor3" style="display:none"> <strong> Research Motivation: </strong> <br> 
+Multi-agent systems (MASs) have recently gained significant attention for their ability to solve complex engineering problems. The main goal in operating MASs is to achieve <strong> consensus </strong> among agents (e.g., UAVs, robots, autonomous vehicles) to satisfy their collaborative objectives. For instance, the vehicle dynamics for urban air mobility (UAM) operation can be represented through MAS, where UAM aerial vehicles (AVs) can achieve their UAM missions (e.g., formation control and velocity-matching consensus) by exchanging their information (position and velocity) with neighbors. Therefore, the communication between agents plays a significant role in the operation of MASs. However, this communication-based structure results in MASs being <strong> vulnerable </strong> to various malicious entities, such as cyberattacks, disturbances, and system faults. Therefore, it is important to develop advanced control algorithms to enhance the safety and security of MASs despite those threats.
+
+</div>
+
+<hr style="height:1pt; visibility:hidden;" />
+<btn onclick="myFunction3()" id="myBt3"><strong>Read more +</strong></btn> 
+
 
 <!-- 
 Script...
