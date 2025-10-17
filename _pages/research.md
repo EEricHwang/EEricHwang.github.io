@@ -7,6 +7,10 @@ author_profile: true
 
 My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my PhD studies:
 
+<!-- 
+Section 1
+-->
+
 <h2> Secure Autonomy and Control for Multi-Agent Systems </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
@@ -82,6 +86,9 @@ Systems via Reachability Analysis against Stealthy Attacks." Submitted to the bo
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
 
+<!-- 
+Section 2
+-->
  
 <h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicles </h2>
 <hr>  
@@ -138,7 +145,6 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 <br>
 <small> S. Kim, M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang</strong></span>, and I. Hwang, "Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery." <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
 <hr>  
-
 
 </div>
 
