@@ -216,7 +216,6 @@ This research aims to propose a safety-critical controller for nonlinear affine 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction3()" id="myBt3"><strong>Read more +</strong></btn> 
 
-
 <!-- 
 Script...
 -->
