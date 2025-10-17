@@ -75,12 +75,6 @@ In this research topic, we focus on developing <strong> security metrics </stron
 Systems via Reachability Analysis against Stealthy Attacks." Submitted to the book chapter for <i>Advances in Transportation Cybersecurity and Resilience</i> in World Scientific Publishing.</small>
 <hr>  
 
-<!-- 
-<h2> [3] Multi-Vehicle Coordination with Network Connectivity </h2>
-
-<p> <strong> Objective: </strong> In this research topic, TBD... </p>
--->
-
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
@@ -108,7 +102,7 @@ The following is the summary of our ongoing research:
 <h2> Risk Assessment for UAVs under GPS Spoofing Attacks </h2>
 
 <p> <strong> Objective: </strong> <br>
-In this research, we aim to develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS stealthy attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensor values are highly susceptible to compromise by attackers. 
+In this research, we develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS spoofing attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensors are highly susceptible to compromise by attackers. 
 </p>
 
 <hr>  
@@ -125,7 +119,7 @@ In this research, we aim to develop a <strong> model-based risk assessment </str
 <h2> UAV Safety-Filter Design through Control Barrier Function </h2>
 
 <p> <strong> Objective: </strong> <br>
-This research aims to propose a safety-critical controller for nonlinear affine systems under actuator cyberattacks and model uncertainties. The approach combines a robust sliding mode-based control barrier function (SM-CBF) to address model uncertainties and an LSTM-based attack detector to identify compromised actuator channels. Conventional CBF controllers are sensitive to model dynamics, leading to safety violations under uncertainties and attacks. The proposed SM-CBF ensures safety despite these challenges, while the LSTM-based detector swiftly identifies compromised inputs. The methodology's effectiveness is demonstrated through quadrotor UAV stabilization in a high-fidelity simulator with Gazebo and PX4-ROS2.
+This research propose a safety-critical controller for nonlinear affine systems under actuator cyberattacks and model uncertainties. The approach combines a robust sliding mode-based control barrier function (SM-CBF) to address model uncertainties and an LSTM-based attack detector to identify compromised actuator channels. Conventional CBF controllers are sensitive to model dynamics, leading to safety violations under uncertainties and attacks. The proposed SM-CBF ensures safety despite these challenges, while the LSTM-based detector swiftly identifies compromised inputs. The methodology's effectiveness is demonstrated through quadrotor UAV stabilization in a high-fidelity simulator with Gazebo and PX4-ROS2.
 </p>
 
 <hr>  
