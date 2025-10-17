@@ -7,7 +7,7 @@ author_profile: true
 
 My research focuses on developing advanced control and estimation algorithms for aerospace systems, considering operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. The following are my research topics during my PhD studies:
 
-<h2> Secure Autonomy and Control for Multi-Agent System </h2>
+<h2> Secure Autonomy and Control for Multi-Agent Systems </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
 <div id="more" style="display:none"> <strong> Research Motivation: </strong> <br> 
@@ -83,9 +83,9 @@ Systems via Reachability Analysis against Stealthy Attacks." Submitted to the bo
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
 
  
-<h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicle </h2>
+<h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicles </h2>
 <hr>  
-<div id="dot2" style="display:inline"> This research aims to enhance the operational safety of UAVs under adversarial environments. </div>
+<div id="dot2" style="display:inline"> This research aims to enhance the operational safety of unmanned aerial vehicles (UAVs) under adversarial environments. </div>
 <div id="mor2" style="display:none"> <strong> Research Motivation: </strong> <br>
 One of the key aspects of researching Unmanned Aerial Vehicles (UAVs) is <strong> <i> how to enhance or fully guarantee their operational safety? </i> </strong> UAVs are particularly vulnerable to various malicious threats, such as disturbances, wind gusts, and cyberattacks. For example, in terms of cybersecurity, GPS sensors on UAVs can be easily compromised by cyberattacks, leading to significant degradation in operational performance, such as tracking a destination. To address this challenge, we aim to develop safety-critical control and assurance algorithms to enhance the operational safety of UAVs.
 
