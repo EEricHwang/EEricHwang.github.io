@@ -215,6 +215,7 @@ Script...
 -->
 
 <script>
+  
 function myFunction1() {
   var dots = document.getElementById("dots");
   var moreText = document.getElementById("more");
@@ -262,7 +263,6 @@ function myFunction3() {
     moreText3.style.display = "inline";
   }
 }
-
   
 </script>
 
