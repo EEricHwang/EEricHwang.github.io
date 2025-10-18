@@ -167,6 +167,11 @@ Section 3
 Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and <strong>strongly coupled dynamics</strong> among attitude, altitude, and position states, making precise control inherently challenging. Conventional controllers (e.g., PID controllers) often fail to handle such nonlinearities and time-varying flight conditions effectively. To address these challenges, a fuzzy model-based intelligent control framework offers an efficient solution by approximating complex dynamics with a set of local linear models and adaptively blending them through fuzzy inference. This approach enhances robustness and adaptability across various flight modes. The effectiveness of this <strong>human inference-inspired control strategy</strong> is demonstrated through tracking control of a quadrotor UAV.
 <br>
 
+<div style="text-align:center;">
+  <img src="/images/ts_fuzzy.png" alt="MAS" style="width:85%">
+  <figcaption> Figure: Control system architecture of a fuzzy model-based approach. </figcaption>
+</div>
+
 <div align="center">
   <!-- 왼쪽 비디오 -->
   <figure style="display:inline-block; text-align:center; margin:10px;">
@@ -189,10 +194,6 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
   </figure>
 </div>
 
-<div style="text-align:center;">
-  <img src="/images/ts_fuzzy.png" alt="MAS" style="width:85%">
-  <figcaption> Figure: Control system architecture of a fuzzy model-based approach. </figcaption>
-</div>
 <hr>  
 <br>
 
