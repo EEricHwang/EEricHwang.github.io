@@ -151,7 +151,7 @@ Section 3
 
 <h2> Tracking Control for Unmanned Aerial Vehicles using Fuzzy Model-Based Intelligent Control </h2>
 <hr>  
-<div id="dot3" style="display:inline"> This research aims to develop an advanced control algorithm for an unmanned aerial vehicle using fuzzy model-based intelligent control. </div>
+<div id="dot3" style="display:inline"> This research aims to develop an advanced control algorithm for UAVs using fuzzy model-based intelligent control. </div>
 <div id="mor3" style="display:none"> <strong> Research Motivation: </strong> <br> 
 
 TBD...
