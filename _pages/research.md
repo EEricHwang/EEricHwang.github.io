@@ -154,7 +154,16 @@ Section 3
 <div id="dot3" style="display:inline"> This research aims to develop an advanced control algorithm for UAVs using fuzzy model-based intelligent control. </div>
 <div id="mor3" style="display:none"> <strong> Research Motivation: </strong> <br> 
 Unmanned Aerial Vehicles (UAVs) exhibit highly nonlinear and strongly coupled dynamics among attitude, altitude, and position states, making precise control inherently challenging. Conventional linear controllers (e.g., PID controllers) often fail to handle such nonlinearities and time-varying flight conditions effectively. To address these challenges, a fuzzy model-based intelligent control framework offers an efficient solution by approximating complex dynamics with a set of local linear models and adaptively blending them through fuzzy inference. This approach enhances robustness and adaptability across various flight modes. The effectiveness of this human inference-inspired control strategy is demonstrated through tracking control of a quadrotor UAV.
-  
+<br>
+
+<div align="center">
+  <video width="470" height="360" autoplay loop muted>
+  <source src ="/images/Risk_Assessment1.mp4" type="video/mp4">
+  </video>
+  <video width="470" height="360" autoplay loop muted>
+  <source src ="/images/Risk_Assessment2.mp4" type="video/mp4">
+  </video>
+</div>
 <br>
 
 <strong>Publication:</strong>
