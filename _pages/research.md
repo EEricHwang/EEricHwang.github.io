@@ -33,12 +33,23 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 </p>
 
 <div align="center">
-  <video width="450" height="340" autoplay loop muted>
-  <source src ="/images/FDI_Off_Nominal.mp4" type="video/mp4">
-  </video>
-  <video width="450" height="340" autoplay loop muted>
-  <source src ="/images/FDI_Resilient.mp4" type="video/mp4">
-  </video>
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <video width="450" height="340" autoplay loop muted>
+      <source src="/images/FDI_Off_Nominal.mp4" type="video/mp4">
+    </video>
+    <figcaption style="font-family:'Times New Roman'; font-size:14px;">
+      (a) Off-Nominal Flight Scenario
+    </figcaption>
+  </figure>
+
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <video width="450" height="340" autoplay loop muted>
+      <source src="/images/FDI_Resilient.mp4" type="video/mp4">
+    </video>
+    <figcaption style="font-family:'Times New Roman'; font-size:14px;">
+      (b) Resilient Control under Sensor Fault
+    </figcaption>
+  </figure>
 </div>
 <br>
 
