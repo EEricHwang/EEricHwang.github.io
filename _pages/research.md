@@ -170,17 +170,17 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 <div align="center">
   <!-- 왼쪽 비디오 -->
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="450" height="340" autoplay loop muted>
+    <video width="470" height="360" autoplay loop muted>
       <source src="/images/drone_sim.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px; margin-top:6px;">
-      (a) Quadrotor UAV tracking control using fuzzy model-based approach in 3D representation
+      (a) Quadrotor UAV tracking control in 3D representation
     </figcaption>
   </figure>
 
   <!-- 오른쪽 비디오 -->
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="450" height="340" autoplay loop muted>
+    <video width="470" height="360" autoplay loop muted>
       <source src="/images/drone_sim2.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px; margin-top:6px;">
