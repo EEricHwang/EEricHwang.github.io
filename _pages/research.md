@@ -28,7 +28,7 @@ The following is the summary of our ongoing research:
 
 <h2> Reactive Multi-Agent System Defense Strategy </h2>
 
-<p> <strong> Objective: </strong> <br>
+<p> <strong> Research Objective: </strong> <br>
 In this research topic, we aim to design <strong> resilient control </strong> and <strong> estimation </strong> algorithms that can directly <strong> mitigate </strong> the impact of adversities. To this end, we developed resilient sensor fusion and estimation algorithms that can filter out the malicious data/information embedded in measurement output. The following videos show the realistic UAM operation in Greater Atlanta with four AVs conducting reference tracking control with formation flight. The left video shows the off-nominal UAM operation with a high risk of collisions. However, the right video shows the resilient UAM operation using our proposed method with high-assured safety. 
 </p>
 
@@ -63,7 +63,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 
 <h2> Proactive Multi-Agent System Defense Strategy </h2>
 
-<p> <strong> Objective: </strong> <br>
+<p> <strong> Research Objective: </strong> <br>
 In this research topic, we focus on developing <strong> security metrics </strong> for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have <strong> potential risks </strong> in terms of collisions during operation.</p>
 
 <div align="center">
@@ -112,7 +112,7 @@ The following is the summary of our ongoing research:
 
 <h2> Risk Assessment for UAVs under GPS Spoofing Attacks </h2>
 
-<p> <strong> Objective: </strong> <br>
+<p> <strong> Research Objective: </strong> <br>
 In this research, we develop a <strong> model-based risk assessment </strong> methodology for quadrotor UAVs under GPS spoofing attacks. These attacks represent particularly severe cyber threats due to their covert nature, allowing them to significantly degrade system performance without triggering alarms. To address this challenge, we propose a reachability-based security metric to quantify the extent of performance degradation caused by potential stealthy attacks. This methodology can be applicable to UAV tracking control operations in urban-like environments, where GPS sensors are highly susceptible to compromise by attackers. 
 </p>
 
@@ -129,7 +129,7 @@ In this research, we develop a <strong> model-based risk assessment </strong> me
 
 <h2> UAV Safety-Filter Design through Control Barrier Function </h2>
 
-<p> <strong> Objective: </strong> <br>
+<p> <strong> Research Objective: </strong> <br>
 This research propose a safety-critical controller for nonlinear affine systems under actuator cyberattacks and model uncertainties. The approach combines a robust sliding mode-based control barrier function (SM-CBF) to address model uncertainties and an LSTM-based attack detector to identify compromised actuator channels. Conventional CBF controllers are sensitive to model dynamics, leading to safety violations under uncertainties and attacks. The proposed SM-CBF ensures safety despite these challenges, while the LSTM-based detector swiftly identifies compromised inputs. The methodology's effectiveness is demonstrated through quadrotor UAV stabilization in a high-fidelity simulator with Gazebo and PX4-ROS2.
 </p>
 
