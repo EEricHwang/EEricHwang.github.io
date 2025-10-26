@@ -95,7 +95,7 @@ Systems via Reachability Analysis against Stealthy Attacks." Submitted to the bo
 Section 2
 -->
  
-<h2> Safety-Critical Control and Assurance for Unmanned Aerial Vehicles </h2>
+<h2> Safety-Critical Control and High-Assured Safety for Unmanned Aerial Vehicles </h2>
 <hr>  
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of unmanned aerial vehicles (UAVs) under adversarial environments. </div>
 <div id="mor2" style="display:none"> <strong> Research Motivation: </strong> <br>
