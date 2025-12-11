@@ -32,7 +32,7 @@ I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft,
 
 <div align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="450" height="340" autoplay loop muted>
+    <video width="800" height="500" autoplay loop muted>
       <source src="/images/ABMS_Video.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px;">
