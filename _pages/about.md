@@ -35,6 +35,22 @@ Thank you for visiting!
 
 <div class="news">
   <p>
+    <strong>[Jan 2026]</strong>  
+    Our two papers,     
+    <strong>
+      <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">
+        C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations
+      </a>
+    </strong> and 
+    <strong>
+      <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">
+        LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment
+      </a>
+    </strong>  
+    are presented at 2026 SciTech Forum! 
+  </p>
+
+  <p>
     <strong>[Dec 2025]</strong>  
     I have successfully become a <strong>PhD candidate</strong> at Purdue University School of Aeronautics and Astronautics!
   </p>
