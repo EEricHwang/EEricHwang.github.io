@@ -200,8 +200,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 
 <strong>Publication:</strong>
 <br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems via
-LMI Techniques: A Quadrotor UAV Case Study." Accepted in <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
 <hr>
 
 </div>
