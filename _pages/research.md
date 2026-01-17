@@ -57,7 +57,12 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 <br>
 <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University, Illinois, USA. </small>
 <br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework", <i>IEEE Control Systems Letters</i>, June. 2025. </small>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "
+<strong>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
+      Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
+    </a>
+</strong>", <i>IEEE Control Systems Letters</i>, June. 2025. </small>
 <hr>  
 
 
