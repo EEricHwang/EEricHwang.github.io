@@ -56,16 +56,10 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 <strong>Publication:</strong>
 <br>
 <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong>
-    <a href="https://mwcgt2024.northwestern.edu/posters/" target="_blank" rel="noopener noreferrer">
-      An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks
-    </a>
-</strong>", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University, Illinois, USA. </small>
+    <a href="https://mwcgt2024.northwestern.edu/posters/" target="_blank" rel="noopener noreferrer">An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks</a></strong>", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University, Illinois, USA. </small>
 <br>
 <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong>
-    <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
-      Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
-    </a>
-</strong>", <i>IEEE Control Systems Letters</i>, June. 2025. </small>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a></strong>", <i>IEEE Control Systems Letters</i>, June. 2025. </small>
 <hr>  
 
 
@@ -88,16 +82,10 @@ In this research topic, we focus on developing <strong> security metrics </stron
 <strong>Publication:</strong>
 <br>
 <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Sungsoo Kim, and Inseok Hwang, "<strong>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer">
-      An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks
-    </a>
-</strong>", <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023 (also presented at the 62nd IEEE Conference on Decision and Control). </small>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer">An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks</a></strong>", <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023 (also presented at the 62nd IEEE Conference on Decision and Control). </small>
 <br>
 <small> Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, and Inseok Hwang, "<strong>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer">
-      Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis
-    </a>
-</strong>", <i>2024 American Control Conference (ACC)</i>, pp. 1293-1298. IEEE, Toronto, Canada, July. 2024.</small>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer">Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis</a></strong>", <i>2024 American Control Conference (ACC)</i>, pp. 1293-1298. IEEE, Toronto, Canada, July. 2024.</small>
 <br>
 <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "Proactive Risk Assessment of Multi-Agent Transportation
 Systems via Reachability Analysis against Stealthy Attacks", Submitted to the book chapter for <i>Advances in Transportation Cybersecurity and Resilience</i> in World Scientific Publishing.</small>
