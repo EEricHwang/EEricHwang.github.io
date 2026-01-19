@@ -36,7 +36,7 @@ I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft,
       <source src="/images/ABMS_Video.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px;">
-      Electrical Performance Analysis from Tilt-Rotor eVTOL Flight Profiles.
+      Figure: A Electrical Performance Analysis from Tilt-Rotor eVTOL Flight Profiles.
     </figcaption>
   </figure>
 </div>
@@ -53,6 +53,6 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
 <hr>  
 <div style="text-align:center;">
   <img src="/images/Cummins.png" alt="MAS" style="width:75%">
-  <figcaption> Figure: Schematic of a proposed Eco-ACC framework for the Class 8 semi-truck. </figcaption>
+  <figcaption> Figure: A Schematic of a proposed Eco-ACC framework for the Class 8 semi-truck. </figcaption>
 </div>
 <hr>  
