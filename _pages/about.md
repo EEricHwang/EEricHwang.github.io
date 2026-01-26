@@ -61,7 +61,7 @@ Thank you for visiting!
 
   <p>
     <strong>[Dec 2025]</strong>  
-    I have successfully become a <strong>PhD candidate</strong> at Purdue University School of Aeronautics and Astronautics!
+    I have successfully become a <strong>PhD Candidate</strong> at Purdue University School of Aeronautics and Astronautics!
   </p>
   
   <p>
