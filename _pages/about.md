@@ -89,7 +89,10 @@ Thank you for visiting!
   <div class="news-older" aria-label="Older news (scrollable)">
     <p>
       <strong>[Dec 2025 🎓]</strong>
-      I have successfully become a <strong>PhD Candidate</strong> at Purdue University School of Aeronautics and Astronautics!
+      I have successfully become a <strong>PhD Candidate</strong> at Purdue University School of Aeronautics and Astronautics! My thesis title is <strong><i>Toward Secure, Safe, and Resilient Multi Agent Cyber-Physical Systems: A Control-Theoretical Approach</i>.</strong>
+      
+      
+      
     </p>
 
     <p>
