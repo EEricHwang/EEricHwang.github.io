@@ -82,7 +82,7 @@ Thank you for visiting!
         LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment
       </a>
     </strong>
-    are presented at 2026 SciTech Forum!
+    are presented at 2026 AIAA SciTech Forum!
   </p>
 
   <h3>Older News</h3>
