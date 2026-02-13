@@ -69,7 +69,7 @@ Thank you for visiting!
   </p>
 
   <p>
-    <strong>[Jan 2026 🎉]</strong>
+    <strong>[Jan 2026 🎤]</strong>
     Our two papers,
     <strong>
       <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">
