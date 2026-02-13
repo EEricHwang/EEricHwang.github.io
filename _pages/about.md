@@ -104,7 +104,7 @@ Thank you for visiting!
     </p>
 
     <p>
-      <strong>[May 2025 👏]</strong>
+      <strong>[May 2025 🚛]</strong>
       I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at Cummins Inc.!
     </p>
 
