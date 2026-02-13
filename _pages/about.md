@@ -21,78 +21,103 @@ For a more comprehensive overview of my work, please refer to my [CV](https://dr
 
 Thank you for visiting!
 
-<h2> News </h2>
+<!-- 하단에 있는 내용은 뉴스 및 소개 -->
+
+<h2>News</h2>
 
 <style>
-.news {
-  font-size: 0.8rem;    /* 전체 뉴스 글씨 크기를 줄임 */
-  line-height: 1.4;     /* 줄 간격 확보 */
-}
-.news p {
-  margin-bottom: 14px;  /* 항목 간 간격 */
-}
+  .news {
+    font-size: 0.8rem;
+    line-height: 1.4;
+  }
+  .news p {
+    margin: 0 0 14px 0;
+  }
+
+  .news h3 {
+    margin: 18px 0 10px 0;
+    font-size: 1.0rem;
+  }
+
+  /* 오래된 뉴스 스크롤 박스 */
+  .news-older {
+    max-height: 260px;        /* 원하는 높이로 조절 */
+    overflow-y: auto;         /* 세로 스크롤 */
+    padding: 10px 12px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    background: #fafafa;
+  }
+
+  /* 스크롤이 있을 때도 내용이 깔끔하게 */
+  .news-older p:last-child {
+    margin-bottom: 0;
+  }
 </style>
 
 <div class="news">
+  <h3>Recent News</h3>
   <p>
-    <strong>[Jan 2026]</strong>  
-    Our paper  
+    <strong>[Jan 2026]</strong>
+    Our paper
     <strong>
       <a href="https://ieeexplore.ieee.org/document/11367661" target="_blank" rel="noopener noreferrer">
         LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations
       </a>
-    </strong>  
+    </strong>
     is accepted for IEEE Control Systems Letters!
   </p>
-  
+
   <p>
-    <strong>[Jan 2026]</strong>  
-    Our two papers,     
+    <strong>[Jan 2026]</strong>
+    Our two papers,
     <strong>
       <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">
         C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations
       </a>
-    </strong> and 
+    </strong>
+    and
     <strong>
       <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">
         LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment
       </a>
-    </strong>  
-    are presented at 2026 SciTech Forum! 
+    </strong>
+    are presented at 2026 SciTech Forum!
   </p>
 
-  <p>
-    <strong>[Dec 2025]</strong>  
-    I have successfully become a <strong>PhD Candidate</strong> at Purdue University School of Aeronautics and Astronautics!
-  </p>
-  
-  <p>
-    <strong>[June 2025]</strong>  
-    Our paper  
-    <strong>
-      <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
-        Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
-      </a>
-    </strong>  
-    is accepted for IEEE Control Systems Letters!
-  </p>
+  <h3>Older News</h3>
+  <div class="news-older" aria-label="Older news (scrollable)">
+    <p>
+      <strong>[Dec 2025]</strong>
+      I have successfully become a <strong>PhD Candidate</strong> at Purdue University School of Aeronautics and Astronautics!
+    </p>
 
-  <p>
-    <strong>[May 2025]</strong>  
-    I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at <strong>Cummins Inc.</strong>! I will be developing advanced predictive control algorithms for adaptive cruise control in Class 8 semi-trucks, with a focus on fuel efficiency and vehicle operational safety.
-  </p>
+    <p>
+      <strong>[June 2025]</strong>
+      Our paper
+      <strong>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
+          Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
+        </a>
+      </strong>
+      is accepted for IEEE Control Systems Letters!
+    </p>
 
-  <p>
-    <strong>[May 2025]</strong>  
-    Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks</strong> has been accepted for Advances in Transportation Cybersecurity and Resilience by World Scientific Publishing!
-  </p>
+    <p>
+      <strong>[May 2025]</strong>
+      I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at <strong>Cummins Inc.</strong>!
+    </p>
 
-  <p>
-    <strong>[Feb 2025]</strong>  
-    I receive the <strong>First place poster award</strong> at the 
-    <strong> <a href="https://nari.arc.nasa.gov/imaginAviation/" target="_blank" rel="noopener noreferrer"> 2024 NASA ImaginAviation Annual Conference </a> </strong> as a member of NASA Secure and Safe Assured Autonomy project!
-  </p>
-  
+    <p>
+      <strong>[May 2025]</strong>
+      Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks</strong>
+      has been accepted for Advances in Transportation Cybersecurity and Resilience by World Scientific Publishing!
+    </p>
+
+    <p>
+      <strong>[Feb 2025]</strong>
+      I receive the <strong>First place poster award</strong> at the
+      <strong><a href="https://nari.arc.nasa.gov/imaginAviation/" target="_blank" rel="noopener noreferrer">2024 NASA ImaginAviation Annual Conference</a></strong>.
+    </p>
+  </div>
 </div>
-
-<hr>  
