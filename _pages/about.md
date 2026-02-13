@@ -13,6 +13,7 @@ I am a PhD candidate at the School of Aeronautics and Astronautics at [Purdue Un
      <li> Model-based reachability computation and analysis </li>
      <li> State feedback control and estimation </li>
      <li> Robust control theory </li>
+     <li> Linear matrix inequality </li>
      <li> Control barrier function </li>
      <li> Distributed optimization and control </li>
  </ul>
