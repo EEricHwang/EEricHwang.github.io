@@ -105,7 +105,7 @@ Thank you for visiting!
 
     <p>
       <strong>[May 2025 👏]</strong>
-      I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at <strong>Cummins Inc.</strong>!
+      I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at Cummins Inc.!
     </p>
 
     <p>
