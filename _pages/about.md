@@ -41,7 +41,7 @@ Thank you for visiting!
 
   /* 오래된 뉴스 스크롤 박스 */
   .news-older {
-    max-height: 260px;        /* 원하는 높이로 조절 */
+    max-height: 200px;        /* 원하는 높이로 조절 */
     overflow-y: auto;         /* 세로 스크롤 */
     padding: 10px 12px;
     border: 1px solid #e5e5e5;
@@ -58,7 +58,7 @@ Thank you for visiting!
 <div class="news">
   <h3>Recent News</h3>
   <p>
-    <strong>[Jan 2026]</strong>
+    <strong>[Jan 2026 🎉]</strong>
     Our paper
     <strong>
       <a href="https://ieeexplore.ieee.org/document/11367661" target="_blank" rel="noopener noreferrer">
@@ -69,7 +69,7 @@ Thank you for visiting!
   </p>
 
   <p>
-    <strong>[Jan 2026]</strong>
+    <strong>[Jan 2026 🎉]</strong>
     Our two papers,
     <strong>
       <a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">
@@ -88,12 +88,12 @@ Thank you for visiting!
   <h3>Older News</h3>
   <div class="news-older" aria-label="Older news (scrollable)">
     <p>
-      <strong>[Dec 2025]</strong>
+      <strong>[Dec 2025 🎓]</strong>
       I have successfully become a <strong>PhD Candidate</strong> at Purdue University School of Aeronautics and Astronautics!
     </p>
 
     <p>
-      <strong>[June 2025]</strong>
+      <strong>[June 2025 🎉]</strong>
       Our paper
       <strong>
         <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
@@ -104,18 +104,18 @@ Thank you for visiting!
     </p>
 
     <p>
-      <strong>[May 2025]</strong>
+      <strong>[May 2025 👏]</strong>
       I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at <strong>Cummins Inc.</strong>!
     </p>
 
     <p>
-      <strong>[May 2025]</strong>
+      <strong>[May 2025 🎉]</strong>
       Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks</strong>
       has been accepted for Advances in Transportation Cybersecurity and Resilience by World Scientific Publishing!
     </p>
 
     <p>
-      <strong>[Feb 2025]</strong>
+      <strong>[Feb 2025 🎉]</strong>
       I receive the <strong>First place poster award</strong> at the
       <strong><a href="https://nari.arc.nasa.gov/imaginAviation/" target="_blank" rel="noopener noreferrer">2024 NASA ImaginAviation Annual Conference</a></strong>.
     </p>
