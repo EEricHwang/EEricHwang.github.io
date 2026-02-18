@@ -192,7 +192,7 @@ In this research, we develop a <strong> model-based risk assessment </strong> me
 
 <strong>Publication:</strong> 
 <br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations </a></strong>", <i>IEEE Control System Letters</i>, Accepted. </small>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations </a></strong>", <i>IEEE Control System Letters</i>, vol. 10, pp. 55-60, Jan. 2026. </small>
 <hr>  
 
 <h2> UAV Safety-Filter Design through Control Barrier Function </h2>
