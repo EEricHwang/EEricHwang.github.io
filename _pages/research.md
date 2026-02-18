@@ -53,11 +53,46 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 </div>
 <br>
 
-<strong>Publication:</strong>
-<br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://mwcgt2024.northwestern.edu/posters/" target="_blank" rel="noopener noreferrer">An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks</a></strong>", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27-28, 2024, Northwestern University, Illinois, USA. </small>
-<br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a></strong>", <i>IEEE Control Systems Letters</i>, June. 2025. </small>
+<strong>Publications:</strong>
+<ul style="margin-top:5px;">
+
+  <li>
+    <small>
+      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      Minhyun Cho, and Inseok Hwang, 
+      "<strong>
+        <a href="https://mwcgt2024.northwestern.edu/posters/" target="_blank" rel="noopener noreferrer">
+        An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks
+        </a>
+      </strong>", 
+      <i>2024 Midwest Workshop in Control and Game Theory</i>, 
+      April 27–28, 2024, Northwestern University, Illinois, USA.
+    </small>
+  </li>
+
+  <li>
+    <small>
+      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      Minhyun Cho, Guanlin Wu, and Inseok Hwang, 
+      "<strong>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
+        Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
+        </a>
+      </strong>", 
+      <i>IEEE Control Systems Letters</i>, June 2025.
+    </small>
+  </li>
+
+</ul>
+
+
+
+
+
+
+
+
+
 <hr>  
 
 
