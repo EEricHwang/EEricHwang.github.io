@@ -85,14 +85,6 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 
 </ul>
 
-
-
-
-
-
-
-
-
 <hr>  
 
 
@@ -112,14 +104,53 @@ In this research topic, we focus on developing <strong> security metrics </stron
 <br>
 
 
-<strong>Publication:</strong>
-<br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Sungsoo Kim, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer">An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks</a></strong>", <i>IEEE Control Systems Letters</i>, vol. 7, pp. 419-2424, 2023 (also presented at the 62nd IEEE Conference on Decision and Control). </small>
-<br>
-<small> Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer">Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis</a></strong>", <i>2024 American Control Conference (ACC)</i>, pp. 1293-1298. IEEE, Toronto, Canada, July. 2024.</small>
-<br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "Proactive Risk Assessment of Multi-Agent Transportation
-Systems via Reachability Analysis against Stealthy Attacks", Submitted to the book chapter for <i>Advances in Transportation Cybersecurity and Resilience</i> in World Scientific Publishing.</small>
+<strong>Publications:</strong>
+<ul style="margin-top:5px; padding-left:20px;">
+
+  <li>
+    <small>
+      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      Minhyun Cho, Sungsoo Kim, and Inseok Hwang, 
+      "<strong>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer">
+        An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks
+        </a>
+      </strong>", 
+      <i>IEEE Control Systems Letters</i>, vol. 7, pp. 2419–2424, 2023. 
+      (Also presented at the 62nd IEEE Conference on Decision and Control.)
+    </small>
+  </li>
+
+  <li>
+    <small>
+      Minhyun Cho, 
+      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      and Inseok Hwang, 
+      "<strong>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer">
+        Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis
+        </a>
+      </strong>", 
+      <i>2024 American Control Conference (ACC)</i>, 
+      pp. 1293–1298, Toronto, Canada, July 2024.
+    </small>
+  </li>
+
+  <li>
+    <small>
+      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      Minhyun Cho, and Inseok Hwang, 
+      "Proactive Risk Assessment of Multi-Agent Transportation Systems via Reachability Analysis against Stealthy Attacks", 
+      Submitted as a book chapter to 
+      <i>Advances in Transportation Cybersecurity and Resilience</i>, 
+      World Scientific Publishing.
+    </small>
+  </li>
+
+</ul>
+
+
+
 <hr>  
 
 </div>
