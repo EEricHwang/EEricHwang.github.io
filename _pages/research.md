@@ -79,7 +79,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
         Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
         </a>
       </strong>", 
-      <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025.
+      <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.)
     </small>
   </li>
 
