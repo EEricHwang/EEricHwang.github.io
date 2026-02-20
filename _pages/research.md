@@ -290,11 +290,6 @@ TBD...
 <hr>  
 <br>
 
-<strong>Publication:</strong>
-<br>
-<small> TBD </small>
-<hr>
-
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
