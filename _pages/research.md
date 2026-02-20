@@ -276,6 +276,59 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction3()" id="myBt3"><strong>Read more +</strong></btn> 
 
+<!-- 
+Section 4
+-->
+
+<h2> Tracking Control for Unmanned Aerial Vehicles using Fuzzy Model-Based Intelligent Control </h2>
+<hr>  
+<div id="dot4" style="display:inline"> This research aims to develop an advanced control algorithm for UAVs using fuzzy model-based intelligent control. </div>
+<div id="mor4" style="display:none"> <strong> Research Motivation: </strong> <br> 
+Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and <strong>strongly coupled dynamics</strong> among attitude, altitude, and position states, making precise control inherently challenging. Conventional controllers (e.g., PID controllers) often fail to handle such nonlinearities and time-varying flight conditions effectively. To address these challenges, a fuzzy model-based intelligent control framework offers an efficient solution by approximating complex dynamics with a set of local linear models and adaptively blending them through fuzzy inference. This approach enhances robustness and adaptability across various flight modes. The effectiveness of this <strong>human inference-inspired control strategy</strong> is demonstrated through tracking control of a quadrotor UAV.
+<br>
+  
+<hr> 
+<div style="text-align:center;">
+  <img src="/images/ts_fuzzy.png" alt="MAS" style="width:80%">
+  <figcaption> Figure: Control system architecture of a fuzzy model-based approach. </figcaption>
+</div>
+
+<div align="center">
+  <!-- 왼쪽 비디오 -->
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <video width="470" height="360" autoplay loop muted>
+      <source src="/images/drone_sim.mp4" type="video/mp4">
+    </video>
+    <figcaption style="font-family:'Times New Roman'; font-size:14px; margin-top:6px;">
+      (a) Quadrotor UAV tracking control in 3D representation
+    </figcaption>
+  </figure>
+
+  <!-- 오른쪽 비디오 -->
+  <figure style="display:inline-block; text-align:center; margin:10px;">
+    <video width="470" height="360" autoplay loop muted>
+      <source src="/images/drone_sim2.mp4" type="video/mp4">
+    </video>
+    <figcaption style="font-family:'Times New Roman'; font-size:14px; margin-top:6px;">
+      (b) 2D representation
+    </figcaption>
+  </figure>
+</div>
+
+<hr>  
+<br>
+
+<strong>Publication:</strong>
+<br>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
+<hr>
+
+</div>
+
+<hr style="height:1pt; visibility:hidden;" />
+<btn onclick="myFunction4()" id="myBt4"><strong>Read more +</strong></btn> 
+
+
 
 <!-- 
 Script...
@@ -328,6 +381,22 @@ function myFunction3() {
     dots3.style.display = "none";
     btnText3.innerHTML = "<strong>Read less -</strong>"; 
     moreText3.style.display = "inline";
+  }
+}
+
+function myFunction4() {
+  var dots4 = document.getElementById("dot4");
+  var moreText4 = document.getElementById("mor4");
+  var btnText4 = document.getElementById("myBt4");
+
+  if (dots4.style.display === "none") {
+    dots4.style.display = "inline";
+    btnText4.innerHTML = "<strong>Read more +</strong>"; 
+    moreText4.style.display = "none";
+  } else {
+    dots4.style.display = "none";
+    btnText4.innerHTML = "<strong>Read less -</strong>"; 
+    moreText4.style.display = "inline";
   }
 }
   
