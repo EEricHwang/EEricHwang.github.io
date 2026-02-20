@@ -9,7 +9,7 @@ My research focuses on developing advanced control and estimation algorithms for
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Research.png" alt="MAS" style="width:60%">
+  <img src="/images/Research.png" alt="MAS" style="width:40%">
 </div>
 <hr>  
 
