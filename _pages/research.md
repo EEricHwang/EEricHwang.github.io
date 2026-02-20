@@ -284,7 +284,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 Section 4
 -->
 
-<h2> Data-Driven Dynamics Modeling, Control, and Estimation </h2>
+<h2> Data-Driven Dynamics Modeling, Control, and Estimation for Battery Systems</h2>
 <hr>  
 <div id="dot4" style="display:inline"> This research aims to develop data-driven modeling, control, and estimation methods based on the Koopman approach, with a particular focus on battery dynamics. </div>
 <div id="mor4" style="display:none"> <strong> Research Motivation: </strong> <br> 
