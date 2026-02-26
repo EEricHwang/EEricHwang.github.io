@@ -13,9 +13,10 @@ I am a Ph.D. candidate at the School of Aeronautics and Astronautics at [<strong
      <li> Model-based reachability computation and analysis </li>
      <li> State feedback control and estimation </li>
      <li> Robust control theory </li>
-     <li> Linear matrix inequality </li>
+     <li> Linear matrix inequality (LMI) </li>
      <li> Control barrier function </li>
      <li> Distributed optimization and control </li>
+     <li> Data-driven system identification and control using Koopman Operator </li>
  </ul>
 
 For a more comprehensive overview of my work, please refer to my [CV](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated Jan 2026).
