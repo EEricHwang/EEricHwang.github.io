@@ -15,7 +15,7 @@ My research focuses on developing advanced control and estimation algorithms for
 Section 1
 -->
 
-<h2> Secure Autonomy and Control for Multi-Agent Systems </h2>
+<h2> 1. Secure Autonomy and Control for Multi-Agent Systems </h2>
 <hr>  
 <div id="dots" style="display:inline"> This research aims to enhance the safety and security of the operation of multi-agent systems. </div>
 <div id="more" style="display:none"> <strong> Research Motivation: </strong> <br> 
@@ -166,7 +166,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
 Section 2
 -->
  
-<h2> Safety-Critical Control and High-Assured Safety for Unmanned Aerial Vehicles </h2>
+<h2> 2. Safety-Critical Control and High-Assured Safety for Unmanned Aerial Vehicles </h2>
 <hr>  
 <div id="dot2" style="display:inline"> This research aims to enhance the operational safety of unmanned aerial vehicles (UAVs) under adversarial environments. </div>
 <div id="mor2" style="display:none"> <strong> Research Motivation: </strong> <br>
@@ -232,7 +232,7 @@ This research propose a safety-critical controller for nonlinear affine systems 
 Section 3
 -->
 
-<h2> Tracking Control for Unmanned Aerial Vehicles using Fuzzy Model-Based Intelligent Control </h2>
+<h2> 3. Tracking Control for Unmanned Aerial Vehicles using Fuzzy Model-Based Intelligent Control </h2>
 <hr>  
 <div id="dot3" style="display:inline"> This research aims to develop an advanced control algorithm for UAVs using fuzzy model-based intelligent control. </div>
 <div id="mor3" style="display:none"> <strong> Research Motivation: </strong> <br> 
@@ -284,7 +284,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 Section 4
 -->
 
-<h2> Data-Driven Dynamics Modeling, Control, and Estimation for Battery Systems</h2>
+<h2> 4. Data-Driven Dynamics Modeling, Control, and Estimation for Battery Systems</h2>
 <hr>  
 <div id="dot4" style="display:inline"> This research aims to develop data-driven modeling, control, and estimation methods based on the Koopman approach, with a particular focus on battery dynamics. </div>
 <div id="mor4" style="display:none"> <strong> Research Motivation: </strong> <br> 
