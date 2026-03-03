@@ -289,6 +289,11 @@ Section 4
 <div id="dot4" style="display:inline"> This research aims to develop data-driven modeling, control, and estimation methods based on the Koopman approach, with a particular focus on battery dynamics. </div>
 <div id="mor4" style="display:none"> <strong> Research Motivation: </strong> <br> 
 Modern engineering systems such as electric vehicles, renewable energy storage, and electrified aircraft rely heavily on <strong>batteries</strong> and other complex dynamic systems. Accurately modeling and monitoring these systems is essential for improving their safety, reliability, and performance. However, many of these systems exhibit nonlinear behaviors that are difficult to capture using traditional model-based approaches, such as equivalent circuit model (ECM). My research is motivated by the need for simple and reliable methods to understand and estimate such dynamics. In particular, I focus on developing data-driven modeling, control, and estimation methods based on the Koopman framework, with a special emphasis on battery systems.
+
+<strong>Publication:</strong> 
+<br>
+TBD...
+<hr>  
   
 <br>
   
