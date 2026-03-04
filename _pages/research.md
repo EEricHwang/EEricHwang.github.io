@@ -55,7 +55,8 @@ In this research topic, we aim to design <strong> resilient control </strong> an
     </figcaption>
   </figure>
 </div>
-<br>
+
+<hr>
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px;">
@@ -105,8 +106,8 @@ In this research topic, we focus on developing <strong> security metrics </stron
   <source src ="/images/Risk_Assessment2.mp4" type="video/mp4">
   </video>
 </div>
-<br>
 
+<hr>
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px; padding-left:20px;">
