@@ -36,7 +36,7 @@ I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft,
       <source src="/images/ABMS_Video.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px;">
-      Figure: A Electrical Performance Analysis from Tilt-Rotor eVTOL Flight Profiles.
+      Figure: Electrical performance analysis for a tilt-rotor eVTOL flight profile.
     </figcaption>
   </figure>
 </div>
