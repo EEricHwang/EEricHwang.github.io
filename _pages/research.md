@@ -146,7 +146,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
       <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
       Minhyun Cho, and Inseok Hwang, 
       "Proactive Risk Assessment of Multi-Agent Transportation Systems via Reachability Analysis against Stealthy Attacks", 
-      Submitted as a book chapter to 
+      Accepted as a book chapter to 
       <i>Advances in Transportation Cybersecurity and Resilience</i>, 
       World Scientific Publishing.
     </small>
