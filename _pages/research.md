@@ -193,7 +193,8 @@ In this research, we develop a <strong> model-based risk assessment </strong> me
   <img src="/images/Risk1.png" alt="MAS" style="width:40%">
   <img src="/images/Risk2.png" alt="MAS" style="width:40%">
 </div>
-<br>
+
+<hr>
 
 <strong>Publication:</strong> 
 <br>
@@ -217,7 +218,8 @@ This research propose a safety-critical controller for nonlinear affine systems 
   <source src ="/images/PX4.mp4" type="video/mp4">
   </video>
 </div>
-<br>
+
+<hr>
 
 <strong>Publication:</strong>
 <br>
