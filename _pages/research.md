@@ -268,7 +268,6 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 </div>
 
 <hr>  
-<br>
 
 <strong>Publication:</strong>
 <br>
