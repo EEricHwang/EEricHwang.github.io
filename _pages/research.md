@@ -24,7 +24,7 @@ Multi-agent systems (MASs) have recently gained significant attention for their 
 <hr>  
 <div style="text-align:center;">
   <img src="/images/MAS.png" alt="MAS" style="width:60%">
-  <figcaption> Figure: A system vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
+  <figcaption> Figure: System vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
 </div>
 <hr>  
 
@@ -175,8 +175,8 @@ One of the key aspects of researching Unmanned Aerial Vehicles (UAVs) is <strong
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/UAV_Controller.png" alt="MAS" style="width:75%">
-  <figcaption> Figure: A control architecture of UAV and potential system vulnerability under cyberattacks. </figcaption>
+  <img src="/images/UAV_Controller.png" alt="MAS" style="width:80%">
+  <figcaption> Figure: Control architecture of UAV and potential system vulnerability under cyberattacks. </figcaption>
 </div>
 <hr>
 
@@ -210,7 +210,7 @@ This research propose a safety-critical controller for nonlinear affine systems 
 <hr>  
 <div style="text-align:center;">
   <img src="/images/PX4.png" alt="MAS" style="width:55%">
-  <figcaption> Figure: A control architecture for quadrotor UAV using reconfigurable SM-CBF safety filter and LSTM-based attack detector. </figcaption>
+  <figcaption> Figure: Control architecture for quadrotor UAV using reconfigurable SM-CBF safety filter and LSTM-based attack detector. </figcaption>
 </div>
 
 <div align="center">
