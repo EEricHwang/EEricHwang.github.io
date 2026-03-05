@@ -17,7 +17,7 @@ Our objective is to develop a vehicle-level advanced control algorithm for urban
 <hr>  
 <div style="text-align:center;">
   <img src="/images/Research_Diagram.png" alt="MAS" style="width:90%">
-  <figcaption> Figure: A diagram for UAM cybersecurity research </figcaption>
+  <figcaption> Figure: Diagram for UAM cybersecurity research </figcaption>
 </div>
 <hr>  
 
@@ -53,6 +53,6 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
 <hr>  
 <div style="text-align:center;">
   <img src="/images/Cummins.png" alt="MAS" style="width:75%">
-  <figcaption> Figure: A Schematic of a proposed Eco-ACC framework for the Class 8 semi-truck. </figcaption>
+  <figcaption> Figure: Schematic of a proposed Eco-ACC framework for U.S. Class 8 semi-trucks. </figcaption>
 </div>
 <hr>  
