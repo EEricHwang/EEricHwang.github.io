@@ -8,7 +8,7 @@ author_profile: true
 My research focuses on developing advanced control and estimation algorithms for aerospace applications, with an emphasis on operational <strong>safety</strong>, <strong>optimality</strong>, and <strong>performance</strong> in adversarial environments. My Ph.D. research focuses on the following topics:
 
 <div style="text-align:center;">
-  <img src="/images/Research.png" alt="MAS" style="width:45%">
+  <img src="/images/Research_New.png" alt="MAS" style="width:45%">
 </div>
 
 <!-- 
