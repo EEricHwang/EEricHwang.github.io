@@ -52,7 +52,7 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Cummins.png" alt="MAS" style="width:80%">
+  <img src="/images/Cummins.png" alt="MAS" style="width:90%">
   <figcaption> Figure: Schematic of a proposed Eco-ACC framework for U.S. Class 8 semi-trucks. </figcaption>
 </div>
 <hr>  
