@@ -60,6 +60,17 @@ Thank you for visiting!
 <div class="news">
   <h3>Recent News</h3>
   <p>
+    <strong>[March 2026 🎉]</strong>
+    I am honored to receive the  
+    <strong>
+      <a href="https://engineering.purdue.edu/Engr/Academics/Graduate/CurrentGraduateStudents/Awards/awards-list/college-of-engineering-awards/estus-h-and-vashti-l-magoon-award-for-research-excellence" target="_blank" rel="noopener noreferrer">
+        Estus H. and Vashti L. Magoon Award for Research Excellence Award
+      </a>
+    </strong>
+    from the Purdue University College of Engineering in recognition of my Ph.D. graduate research!
+  </p>
+  
+  <p>
     <strong>[Jan 2026 🎉]</strong>
     Our paper
     <strong>
