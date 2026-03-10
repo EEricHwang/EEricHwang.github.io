@@ -78,7 +78,7 @@ Thank you for visiting!
         LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations
       </a>
     </strong>
-    is accepted for IEEE Control Systems Letters!
+    has been accepted for IEEE Control Systems Letters!
   </p>
 
   <p>
