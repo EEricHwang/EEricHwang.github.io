@@ -19,7 +19,7 @@ I am a Ph.D. candidate at the School of Aeronautics and Astronautics at [<strong
      <li> Data-driven system identification and control using Koopman Operator </li>
  </ul>
 
-For a more comprehensive overview of my work, please refer to my [CV](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated Jan 2026).
+For a more comprehensive overview of my work, please refer to my [CV](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated March 2026).
 
 Thank you for visiting!
 
