@@ -44,6 +44,7 @@ I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft,
 <div style="text-align:center;">
   <img src="/images/Simulink.png" alt="MAS" style="width:90%">
 </div>
+
 <hr> 
 
 Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks
