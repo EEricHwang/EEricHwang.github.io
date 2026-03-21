@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <hr>
-Secure and Safe Assured Autonomy for Urban Air Mobility
+1. Secure and Safe Assured Autonomy for Urban Air Mobility
 ------
 <p> 
 <strong>National Aeronautics and Space Administration (NASA)</strong><br>
@@ -22,7 +22,7 @@ Our objective is to develop a vehicle-level advanced control algorithm for urban
 
 <hr>
 
-Development of Advanced Air Mobility Battery Management System
+2. Development of Advanced Air Mobility Battery Management System
 ------
 <p> 
 <strong>Ministry of Trade, Industry and Energy of the Republic of Korea </strong><br>
@@ -48,7 +48,7 @@ I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft,
 </div>
 <hr> 
 
-Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks
+3. Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks
 ------
 <p> 
 <strong> Cummins Inc., Cummins Technical Center </strong><br>
