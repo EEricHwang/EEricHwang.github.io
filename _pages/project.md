@@ -20,7 +20,7 @@ Our objective is to develop a vehicle-level advanced control algorithm for urban
   <figcaption> Figure: Diagram for UAM cybersecurity research </figcaption>
 </div>
 
-<div style="height: 6px; background-color: black;"></div>  
+<hr>
 
 Development of Advanced Air Mobility Battery Management System
 ------
