@@ -10,13 +10,12 @@ redirect_from:
 I am a Ph.D. candidate at the School of Aeronautics and Astronautics at [<strong>Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in <strong> safety-critical control for autonomous systems with high-assured safety</strong>. For my Ph.D. research, I have been developing vehicle-level cyber threat management algorithms, including attack mitigation and risk assessment, for aerial system applications. My <strong>technical skills</strong> and <strong>research interest</strong> mainly include:
 
  <ul style="list-style-type:square;">
-     <li> Model-based reachability computation and analysis </li>
-     <li> State feedback control and estimation </li>
-     <li> Robust control theory </li>
-     <li> Linear matrix inequality (LMI) </li>
-     <li> Control barrier function </li>
-     <li> Distributed optimization and control </li>
-     <li> Data-driven system identification and control using Koopman Operator </li>
+     <li> Model-Based Reachability Computation and Analysis </li>
+     <li> State Feedback Control and Estimation (EKF, Luenberger Observer) </li>
+     <li> Robust & Optimal Control (H Infinity Control, MPC) </li>
+     <li> Safety Critical Control (Control Barrier Function) </li>
+     <li> Distributed Optimization and Control </li>
+     <li> Data-Driven System Identification and Control using Koopman Operator </li>
  </ul>
 
 For a more comprehensive overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in March 2026).
