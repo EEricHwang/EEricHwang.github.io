@@ -63,7 +63,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 
   <li>
     <small>
-      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
       Minhyun Cho, and Inseok Hwang, 
       "<strong>
         <a href="https://mwcgt2024.northwestern.edu/posters/" target="_blank" rel="noopener noreferrer">
@@ -77,7 +77,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 
   <li>
     <small>
-      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
       Minhyun Cho, Guanlin Wu, and Inseok Hwang, 
       "<strong>
         <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
@@ -114,7 +114,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
 
   <li>
     <small>
-      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
       Minhyun Cho, Sungsoo Kim, and Inseok Hwang, 
       "<strong>
         <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer">
@@ -129,7 +129,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
   <li>
     <small>
       Minhyun Cho, 
-      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
       and Inseok Hwang, 
       "<strong>
         <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer">
@@ -143,7 +143,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
 
   <li>
     <small>
-      <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, 
+      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
       Minhyun Cho, and Inseok Hwang, 
       "Proactive Risk Assessment of Multi-Agent Transportation Systems via Reachability Analysis against Stealthy Attacks", 
       Accepted as a book chapter to 
@@ -198,7 +198,7 @@ In this research, we develop a <strong> model-based risk assessment </strong> me
 
 <strong>Publication:</strong> 
 <br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations </a></strong>", <i>IEEE Control System Letters</i>, vol. 10, pp. 55-60, Jan. 2026. </small>
+<small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations </a></strong>", <i>IEEE Control System Letters</i>, vol. 10, pp. 55-60, Jan. 2026. </small>
 <hr>  
 
 <h2> UAV Safety-Filter Design through Control Barrier Function </h2>
@@ -223,7 +223,7 @@ This research propose a safety-critical controller for nonlinear affine systems 
 
 <strong>Publication:</strong>
 <br>
-<small> Sungsoo Kim, Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery</a></strong>", <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
+<small> Sungsoo Kim, Minhyun Cho, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery</a></strong>", <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
 <hr>  
 
 </div>
