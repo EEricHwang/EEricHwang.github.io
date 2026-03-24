@@ -294,7 +294,7 @@ The operation of modern engineering systems such as electric vehicles, renewable
 <hr>
 
 <div style="text-align:center;">
-  <img src="/images/battery.png" alt="MAS" style="width:55%">
+  <img src="/images/battery.png" alt="MAS" style="width:85%">
 </div>
 <hr>
 
