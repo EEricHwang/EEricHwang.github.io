@@ -135,7 +135,8 @@ Thank you for visiting!
     </p>
 
     <p>
-      <strong>[Oct 2023 🎤]</strong> I will give a talk on cybersecurity for UAM systems at North Carolina Agricultural and Technical State University (NCAT). This work is part of the <a href="https://uli.arc.nasa.gov/projects/10/" target="_blank" rel="noopener noreferrer"> NASA Secure and Safe Assured Autonomy (S2A2) </a> project.
+      <strong>[Oct 2023 🎤]</strong> 
+      I will give a talk on cybersecurity for UAM systems at North Carolina Agricultural and Technical State University (NCAT). This work is part of the <a href="https://uli.arc.nasa.gov/projects/10/" target="_blank" rel="noopener noreferrer"> <strong>NASA Secure and Safe Assured Autonomy (S2A2)</strong> </a> project.
     </p>
     
   </div>
