@@ -133,5 +133,10 @@ Thank you for visiting!
       I receive the <strong>First place poster award</strong> at the
       <strong><a href="https://nari.arc.nasa.gov/imaginAviation/" target="_blank" rel="noopener noreferrer">2024 NASA ImaginAviation Annual Conference</a></strong>. The title of my presentation is <strong>"<i>Reactive and Proactive Cyberattack Defense Strategy for Urban Air Mobility (UAM) Applications</i>"</strong>.
     </p>
+
+    <p>
+      <strong>[Oct 2023 🎤]</strong> I will give a talk on cybersecurity for UAM systems at North Carolina Agricultural and Technical State University (NCAT). This work is part of the <a href="https://uli.arc.nasa.gov/projects/10/" target="_blank" rel="noopener noreferrer"> NASA Secure and Safe Assured Autonomy (S2A2) </a> project.
+    </p>
+    
   </div>
 </div>
