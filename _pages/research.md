@@ -315,8 +315,8 @@ Section 5
 
 <h2> 4. TBD... </h2>
 <hr>  
-<div id="dot4" style="display:inline"> This research aims to develop data-driven modeling, control, and estimation methods based on the Koopman approach, with a particular focus on battery dynamics. </div>
-<div id="mor4" style="display:none"> <strong> Research Motivation: </strong> <br> 
+<div id="dot5" style="display:inline"> This research aims to develop data-driven modeling, control, and estimation methods based on the Koopman approach, with a particular focus on battery dynamics. </div>
+<div id="mor5" style="display:none"> <strong> Research Motivation: </strong> <br> 
 The operation of modern engineering systems such as electric vehicles, renewable energy storage, and electrified aircraft rely heavily on <strong>lithium-ion batteries</strong>. Accurately modeling these battery dynamics is essential for improving their operational safety, reliability, and performance. However, many of these systems exhibit nonlinear behaviors that are difficult to capture using traditional model-based approaches, such as equivalent circuit model. My research is motivated by the need for simple and reliable methods to understand and estimate such complex dynamics. Particularly, I focus on developing data-driven modeling, control, and estimation methods for battery dynamics using the Koopman operator framework.
 <hr>
 
