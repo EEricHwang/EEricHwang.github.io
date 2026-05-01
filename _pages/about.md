@@ -85,6 +85,9 @@ Thank you for visiting!
     has been accepted for IEEE Control Systems Letters!
   </p>
 
+  <h3>Older News</h3>
+  <div class="news-older" aria-label="Older news (scrollable)">
+
   <p>
     <strong>[Jan 2026 🎤]</strong>
     Our two papers,
@@ -101,14 +104,11 @@ Thank you for visiting!
     </strong>
     are presented at 2026 AIAA SciTech Forum!
   </p>
-
-  <h3>Older News</h3>
-  <div class="news-older" aria-label="Older news (scrollable)">
+    
     <p>
       <strong>[Dec 2025 🎓]</strong>
       I have successfully become a <strong>Ph.D. Candidate</strong> at Purdue University School of Aeronautics and Astronautics! My thesis title is <strong>"<i>Toward Secure, Safe, and Resilient Multi Agent Cyber-Physical Systems: A Control-Theoretical Approach</i>"</strong>.
-
-      
+  
     </p>
 
     <p>
