@@ -60,7 +60,7 @@ Thank you for visiting!
   <h3>Recent News</h3>
     <p>
       <strong>[April 2025 🎇]</strong> 
-      I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at Pangolin Laser Systems Inc. from June–August 2026. My main responsibility is to develop advanced motion planning and control algorithms for high-performance servo systems, focusing on precision control in optical scanning applications.
+      I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at Pangolin Laser Systems Inc. from June–August 2026! My main responsibility is to develop advanced motion planning and control algorithms for high-performance servo systems, focusing on precision control in optical scanning applications.
     </p>
   
   <p>
