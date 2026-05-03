@@ -316,20 +316,7 @@ Section 5
 <h2> 5. Energy-Aware and Cooperative Constrained Control for Multi-Agent Systems </h2>
 <hr>  
 <div id="dot5" style="display:inline"> This research aims to develop data-driven modeling, control, and estimation methods based on the Koopman approach, with a particular focus on battery dynamics. </div>
-<div id="mor5" style="display:none"> <strong> Research Motivation: </strong> <br> 
-The operation of modern engineering systems such as electric vehicles, renewable energy storage, and electrified aircraft rely heavily on <strong>lithium-ion batteries</strong>. Accurately modeling these battery dynamics is essential for improving their operational safety, reliability, and performance. However, many of these systems exhibit nonlinear behaviors that are difficult to capture using traditional model-based approaches, such as equivalent circuit model. My research is motivated by the need for simple and reliable methods to understand and estimate such complex dynamics. Particularly, I focus on developing data-driven modeling, control, and estimation methods for battery dynamics using the Koopman operator framework.
-<hr>
-
-<div style="text-align:center;">
-  <img src="/images/battery.png" alt="MAS" style="width:85%">
-  <figcaption> Figure: Data-driven Koopman framework enabling stability-guaranteed SOC estimation via LMI-based observer design. </figcaption>
-</div>
-<hr>
-
-<strong>Publication:</strong>
-<br>
-<small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small>
-<hr>
+<div id="mor5" style="display:none"> <strong> Research Motivation: </strong> <br> TBD
   
 </div>
 
