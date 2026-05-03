@@ -294,7 +294,7 @@ The operation of modern engineering systems such as electric vehicles, renewable
 <hr>
 
 <div style="text-align:center;">
-  <img src="/images/battery.png" alt="MAS" style="width:85%">
+  <img src="/images/Koopman_SOC_Estimation.png" alt="MAS" style="width:85%">
   <figcaption> Figure: Data-driven Koopman framework enabling stability-guaranteed SOC estimation via LMI-based observer design. </figcaption>
 </div>
 <hr>
