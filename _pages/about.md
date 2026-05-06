@@ -11,9 +11,9 @@ I am a Ph.D. candidate at the School of Aeronautics and Astronautics at [<strong
 
  <ul style="list-style-type:square;">
      <li> Model-Based Reachability Computation and Analysis </li>
-     <li> State Feedback Control and Estimation (EKF, Luenberger Observer) </li>
-     <li> Robust & Optimal Control (H Infinity Control, MPC) </li>
-     <li> Safety Critical Control (Control Barrier Function) </li>
+     <li> State Feedback Control and Estimation  </li>
+     <li> Robust & Optimal Control  </li>
+     <li> Safety Critical Control  </li>
      <li> Distributed Optimization and Control </li>
      <li> Data-Driven System Identification and Control using Koopman Operator </li>
  </ul>
