@@ -111,48 +111,11 @@ In this research topic, we focus on developing <strong> security metrics </stron
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px; padding-left:20px;">
+<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, Sungsoo Kim, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer"> An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 7, pp. 2419–2424, 2023. (Also presented at the 62nd IEEE Conference on Decision and Control.) </small> </li>
 
-  <li>
-    <small>
-      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
-      Minhyun Cho, Sungsoo Kim, and Inseok Hwang, 
-      "<strong>
-        <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer">
-        An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks
-        </a>
-      </strong>", 
-      <i>IEEE Control Systems Letters</i>, vol. 7, pp. 2419–2424, 2023. 
-      (Also presented at the 62nd IEEE Conference on Decision and Control.)
-    </small>
-  </li>
+<li> <small> Minhyun Cho, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer"> Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis </a> </strong>", <i>2024 American Control Conference (ACC)</i>, pp. 1293–1298, Toronto, Canada, July 2024. </small> </li>
 
-  <li>
-    <small>
-      Minhyun Cho, 
-      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
-      and Inseok Hwang, 
-      "<strong>
-        <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer">
-        Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis
-        </a>
-      </strong>", 
-      <i>2024 American Control Conference (ACC)</i>, 
-      pp. 1293–1298, Toronto, Canada, July 2024.
-    </small>
-  </li>
-
-  <li>
-    <small>
-      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
-      Minhyun Cho, and Inseok Hwang, 
-      "Proactive Risk Assessment of Multi-Agent Transportation Systems via Reachability Analysis against Stealthy Attacks", 
-      Accepted as a book chapter to 
-      <i>Advances in Transportation Cybersecurity and Resilience</i>, 
-      World Scientific Publishing.
-    </small>
-  </li>
-
-</ul>
+<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "Proactive Risk Assessment of Multi-Agent Transportation Systems via Reachability Analysis against Stealthy Attacks", Accepted as a book chapter to <i>Advances in Transportation Cybersecurity and Resilience</i>, World Scientific Publishing. </small> </li> </ul>
 
 <hr>  
 
@@ -298,9 +261,9 @@ The operation of modern engineering systems such as electric vehicles, renewable
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px;">
-<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
+<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
 
-<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Z. Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Submitted on April 20, 2026, under review) </small> </li>
+<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Z. Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Submitted on April 20, 2026, under review) </small> </li>
 </ul>
 
 <hr>
