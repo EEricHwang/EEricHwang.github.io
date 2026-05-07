@@ -12,7 +12,7 @@ My Ph.D. research focuses on developing advanced control and estimation algorith
 </div>
 
 <!-- 
-Section 1
+============================== Section 1 ==============================
 -->
 
 <h2> 1. Secure Autonomy and Control for Multi-Agent Systems </h2>
@@ -154,8 +154,6 @@ In this research topic, we focus on developing <strong> security metrics </stron
 
 </ul>
 
-
-
 <hr>  
 
 </div>
@@ -164,7 +162,7 @@ In this research topic, we focus on developing <strong> security metrics </stron
 <btn onclick="myFunction1()" id="myBtn"><strong>Read more +</strong></btn> 
 
 <!-- 
-Section 2
+============================== Section 2 ==============================
 -->
  
 <h2> 2. Safety-Critical Control and High-Assured Safety for Unmanned Aerial Vehicles </h2>
@@ -232,7 +230,7 @@ This research propose a safety-critical controller for nonlinear affine systems 
 <btn onclick="myFunction2()" id="myBt2"><strong>Read more +</strong></btn> 
 
 <!-- 
-Section 3
+============================== Section 3 ==============================
 -->
 
 <h2> 3. Tracking Control for Unmanned Aerial Vehicles using Fuzzy Model-Based Intelligent Control </h2>
@@ -272,12 +270,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 <hr>  
 
 <strong>Publications:</strong>
-<ul style="margin-top:5px;">
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small> </li>
-
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer"> Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.) </small> </li>
-</ul>
-
+<small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
 <hr>
 
 </div>
@@ -286,7 +279,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 <btn onclick="myFunction3()" id="myBt3"><strong>Read more +</strong></btn> 
 
 <!-- 
-Section 4
+============================== Section 4 ==============================
 -->
 
 <h2> 4. Data-Driven Dynamics Modeling, Control, and Estimation for Battery Systems</h2>
@@ -302,18 +295,22 @@ The operation of modern engineering systems such as electric vehicles, renewable
 </div>
 <hr>
 
-<strong>Publication:</strong>
-<br>
-<small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small>
+<strong>Publications:</strong>
+<ul style="margin-top:5px;">
+<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
+
+<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer"> Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.) </small> </li>
+</ul>
+
 <hr>
-  
+
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
 <btn onclick="myFunction4()" id="myBt4"><strong>Read more +</strong></btn> 
 
 <!-- 
-Section 5
+============================== Section 5 ==============================
 -->
 
 <h2> 5. Energy-Aware and Cooperative Constrained Control for Multi-Agent Systems </h2>
