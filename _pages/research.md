@@ -270,6 +270,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 <hr>  
 
 <strong>Publications:</strong>
+<br>
 <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
 <hr>
 
@@ -299,7 +300,7 @@ The operation of modern engineering systems such as electric vehicles, renewable
 <ul style="margin-top:5px;">
 <li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
 
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer"> Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.) </small> </li>
+<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Z. Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Submitted on April 20, 2026, under review) </small> </li>
 </ul>
 
 <hr>
