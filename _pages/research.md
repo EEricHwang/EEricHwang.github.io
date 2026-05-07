@@ -315,7 +315,7 @@ Section 5
 
 <h2> 5. Energy-Aware and Cooperative Constrained Control for Multi-Agent Systems </h2>
 <hr>  
-<div id="dot5" style="display:inline"> This research aims to develop data-driven modeling, control, and estimation methods based on the Koopman approach, with a particular focus on battery dynamics. </div>
+<div id="dot5" style="display:inline"> This research aims to develop energy-aware control and coordination strategies for multi-agent systems with limited energy resources (e.g., onboard batteries). </div>
 <div id="mor5" style="display:none"> <strong> Research Motivation: </strong> <br> TBD
   
 </div>
