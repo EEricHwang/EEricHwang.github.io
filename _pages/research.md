@@ -298,9 +298,9 @@ The operation of modern engineering systems such as electric vehicles, renewable
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px;">
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
 
-<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Z. Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Submitted on April 20, 2026, under review) </small> </li>
+<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Z. Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Submitted on April 20, 2026, under review) </small> </li>
 </ul>
 
 <hr>
