@@ -273,26 +273,13 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px;">
+<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small> </li>
 
-  <li>
-  <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
-  </li>
-
-  <li>
-    <small>
-      <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, 
-      Minhyun Cho, Guanlin Wu, and Inseok Hwang, 
-      "<strong>
-        <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">
-        Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework
-        </a>
-      </strong>", 
-      <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.)
-    </small>
-  </li>
-
+<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer"> Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.) </small> </li>
 </ul>
+
 <hr>
+
 </div>
 
 <hr style="height:1pt; visibility:hidden;" />
