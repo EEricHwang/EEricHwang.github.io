@@ -109,7 +109,7 @@ Ensuring the operational safety of Unmanned Aerial Vehicles (UAVs) is a fundamen
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/UAV_Controller.png" alt="MAS" style="width:80%">
+  <img src="/images/UAV_Controller.png" alt="MAS" style="width:90%">
   <figcaption> Figure: Control architecture of UAV and potential system vulnerability under cyberattacks. </figcaption>
 </div>
 <hr>
@@ -124,8 +124,8 @@ In this research, we develop a <strong> model-based risk assessment </strong> me
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Risk1.png" alt="MAS" style="width:40%">
-  <img src="/images/Risk2.png" alt="MAS" style="width:40%">
+  <img src="/images/Risk1.png" alt="MAS" style="width:45%">
+  <img src="/images/Risk2.png" alt="MAS" style="width:45%">
 </div>
 
 <hr>
