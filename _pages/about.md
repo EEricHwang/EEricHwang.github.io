@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the School of Aeronautics and Astronautics at [<strong>Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in <strong> safety-critical control for autonomous systems with high-assured safety</strong>. For my Ph.D. research, I have been developing vehicle-level cyber threat management algorithms, including attack mitigation and risk assessment, for aerial system applications. My technical skills and research interest mainly include:
+I am a Ph.D. candidate at the School of Aeronautics and Astronautics at [<strong>Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in <strong> safety-critical control for autonomous systems with high-assured safety</strong>. For my Ph.D. research, I have been developing vehicle-level cyber threat management algorithms, including attack mitigation and risk assessment, for aerial system applications. My research interests include:
 
- <ul style="list-style-type:square;">
-     <li> Model-Based Reachability Computation and Analysis </li>
-     <li> State Feedback Control and Estimation  </li>
-     <li> Robust & Optimal Control  </li>
-     <li> Safety Critical Control  </li>
-     <li> Distributed Optimization and Control </li>
-     <li> Data-Driven System Identification and Control using Koopman Operator </li>
- </ul>
+<ul style="list-style-type:square;">
+    <li><b>Resilient Control & Coordination:</b> Designing distributed control protocols for multi-agent systems that maintain safety and performance under cyberattacks, including FDI and DoS attacks.</li>
+    <li><b>Safety-Critical Control:</b> Developing CBF and reachability-based frameworks to enforce hard safety constraints for autonomous systems in adversarial environments.</li>
+    <li><b>Robust & Optimal Control:</b> Applying H-infinity control and LMI-based design to guarantee robust stability and disturbance attenuation for uncertain nonlinear systems.</li>
+    <li><b>State Estimation & Fault Detection:</b> Designing observer-based estimators and fault detection algorithms for cyber-physical systems under stealthy attacks and actuator failures.</li>
+    <li><b>Energy-Aware Control:</b> Developing constrained control frameworks for battery-powered multi-agent systems with explicit energy constraints.</li>
+    <li><b>Data-Driven Control:</b> Leveraging the Koopman operator to build linear representations of nonlinear dynamics from data, enabling data-driven observer design and control.</li>
+</ul>
 
 For a more overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in March 2026).
 
