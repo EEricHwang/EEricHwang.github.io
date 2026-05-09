@@ -255,7 +255,10 @@ The operation of modern engineering systems such as electric vehicles, renewable
 <h2> 5. Energy-Aware and Cooperative Constrained Control for Multi-Agent Systems </h2>
 <hr>  
 <div id="dot5" style="display:inline"> This research aims to develop energy-aware control and coordination strategies for multi-agent systems with limited energy resources (e.g., onboard batteries). </div>
-<div id="mor5" style="display:none"> <strong> Research Motivation: </strong> <br> TBD
+<div id="mor5" style="display:none"> 
+<strong> Research Motivation: </strong> 
+<br>
+Multi-agent systems, such as UAM fleets and multi-robot teams, are typically powered by onboard batteries with limited energy capacity. Since each agent must operate within its energy budget to sustain mission-critical tasks, explicitly incorporating energy constraints into the cooperative control design is essential. Ignoring such constraints can lead to premature power depletion, degraded performance, or even mission failure. My research aims to develop energy-aware cooperative control strategies that enable MASs to accomplish collaborative tasks while ensuring safe and efficient energy consumption across all agents.
   
 </div>
 
