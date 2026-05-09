@@ -10,10 +10,10 @@ redirect_from:
 I am a Ph.D. candidate at the School of Aeronautics and Astronautics at [<strong>Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in <strong> safety-critical control for autonomous systems with high-assured safety</strong>. For my Ph.D. research, I have been developing vehicle-level cyber threat management algorithms, including attack mitigation and risk assessment, for aerial system applications. My research interests include:
 
 <ul style="list-style-type:square;">
-    <li><b>Resilient Control & Coordination:</b> Designing distributed control protocols for multi-agent systems that maintain safety and performance under cyberattacks, including FDI and DoS attacks.</li>
+    <li><b>Resilient Control & Coordination:</b> Designing distributed control protocols for multi-agent systems that maintain safety and performance under cyberattacks.</li>
     <li><b>Safety-Critical Control:</b> Developing CBF and reachability-based frameworks to enforce hard safety constraints for autonomous systems in adversarial environments.</li>
     <li><b>Robust & Optimal Control:</b> Applying H-infinity control and LMI-based design to guarantee robust stability and disturbance attenuation for uncertain nonlinear systems.</li>
-    <li><b>State Estimation & Fault Detection:</b> Designing observer-based estimators and fault detection algorithms for cyber-physical systems under stealthy attacks and actuator failures.</li>
+    <li><b>State Estimation & Fault Detection:</b> Designing observer-based estimators and fault detection algorithms under stealthy attacks and actuator failures.</li>
     <li><b>Energy-Aware Control:</b> Developing constrained control frameworks for battery-powered multi-agent systems with explicit energy constraints.</li>
     <li><b>Data-Driven Control:</b> Leveraging the Koopman operator to build linear representations of nonlinear dynamics from data, enabling data-driven observer design and control.</li>
 </ul>
