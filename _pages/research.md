@@ -60,9 +60,9 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px;">
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong> <a href="https://mwcgt2024.northwestern.edu/posters/" target="_blank" rel="noopener noreferrer"> An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks </a> </strong>", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27–28, 2024, Northwestern University, Illinois, USA. </small> </li>
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong> <a href="https://mwcgt2024.northwestern.edu/posters/" target="_blank" rel="noopener noreferrer"> An Observer-Based Resilient Control Strategy for Leader-Follower Multi-Agent Systems Under False-Data-Injection Attacks </a> </strong>", <i>2024 Midwest Workshop in Control and Game Theory</i>, April 27–28, 2024, Northwestern University, Illinois, USA. </small> </li>
 
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer"> Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.) </small> </li> </ul>
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Guanlin Wu, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer"> Resilient Tracking Control For Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 9, pp. 1123-1128, June 2025. (Also presented at the 64nd IEEE Conference on Decision and Control.) </small> </li> </ul>
 
 <hr>  
 
@@ -84,11 +84,11 @@ In this research topic, we focus on developing <strong> security metrics </stron
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px; padding-left:20px;">
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, Sungsoo Kim, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer"> An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 7, pp. 2419–2424, 2023. (Also presented at the 62nd IEEE Conference on Decision and Control.) </small> </li>
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, Sungsoo Kim, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/10153779" target="_blank" rel="noopener noreferrer"> An LMI-Based Risk Assessment of Leader-Follower Multi-Agent System Under Stealthy Cyberattacks </a> </strong>", <i>IEEE Control Systems Letters</i>, vol. 7, pp. 2419–2424, 2023. (Also presented at the 62nd IEEE Conference on Decision and Control.) </small> </li>
 
-<li> <small> Minhyun Cho, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer"> Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis </a> </strong>", <i>2024 American Control Conference (ACC)</i>, pp. 1293–1298, Toronto, Canada, July 2024. </small> </li>
+<li> <small> Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, and Inseok Hwang, "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/10644803" target="_blank" rel="noopener noreferrer"> Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis </a> </strong>", <i>2024 American Control Conference (ACC)</i>, pp. 1293–1298, Toronto, Canada, July 2024. </small> </li>
 
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "Proactive Risk Assessment of Multi-Agent Transportation Systems via Reachability Analysis against Stealthy Attacks", Accepted as a book chapter to <i>Advances in Transportation Cybersecurity and Resilience</i>, World Scientific Publishing. </small> </li> </ul>
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "Proactive Risk Assessment of Multi-Agent Transportation Systems via Reachability Analysis against Stealthy Attacks", Accepted as a book chapter to <i>Advances in Transportation Cybersecurity and Resilience</i>, World Scientific Publishing. </small> </li> </ul>
 
 <hr>  
 
@@ -132,7 +132,7 @@ In this research, we develop a <strong> model-based risk assessment </strong> me
 
 <strong>Publication:</strong> 
 <br>
-<small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations </a></strong>", <i>IEEE Control System Letters</i>, vol. 10, pp. 55-60, Jan. 2026. </small>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations </a></strong>", <i>IEEE Control System Letters</i>, vol. 10, pp. 55-60, Jan. 2026. </small>
 
 <hr>  
 
@@ -158,7 +158,7 @@ This research propose a safety-critical controller for nonlinear affine systems 
 
 <strong>Publication:</strong>
 <br>
-<small> Sungsoo Kim, Minhyun Cho, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery</a></strong>", <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
+<small> Sungsoo Kim, Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery</a></strong>", <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
 <hr>  
 
 </div>
@@ -208,7 +208,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 
 <strong>Publications:</strong>
 <br>
-<small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
 
 <hr>
 
@@ -236,9 +236,9 @@ The operation of modern engineering systems such as electric vehicles, renewable
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px;">
-<li> <small> <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Submitted on March 14, 2026, under review) </small> </li>
 
-<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>**Sounghwan Hwang**</strong></span>, Z. Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Submitted on April 20, 2026, under review) </small> </li>
+<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>Sounghwan Hwang</strong></span>, Z. Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Submitted on April 20, 2026, under review) </small> </li>
 </ul>
 
 <hr>
