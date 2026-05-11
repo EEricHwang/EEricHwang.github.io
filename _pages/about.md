@@ -14,7 +14,7 @@ I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics a
     <li><b>Safety-Critical Control:</b> Developing CBF and reachability-based frameworks to enforce hard safety constraints for autonomous systems in adversarial environments.</li>
     <li><b>Robust & Optimal Control:</b> Applying H-infinity control and LMI-based design to guarantee robust stability and disturbance attenuation for uncertain nonlinear systems.</li>
     <li><b>State Estimation & Fault Detection:</b> Designing observer-based estimators and fault detection algorithms under stealthy attacks and actuator failures.</li>
-    <li><b>Energy-Aware Control:</b> Developing constrained control frameworks for battery-powered multi-agent systems with explicit energy constraints.</li>
+    <li><b>Energy-Aware and Constrained Control:</b> Developing constrained control frameworks for battery-powered multi-agent systems with explicit energy constraints.</li>
     <li><b>Data-Driven Control:</b> Leveraging the Koopman operator to build linear representations of nonlinear dynamics from data, enabling data-driven observer design and control.</li>
 </ul>
 
