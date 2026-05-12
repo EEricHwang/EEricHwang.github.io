@@ -9,5 +9,5 @@ main:
   - title: "Talk"
     url: /talk/
 
-  - title: "Publication"
-    url: /publication/
+  #- title: "Publication"
+  #  url: /publication/
