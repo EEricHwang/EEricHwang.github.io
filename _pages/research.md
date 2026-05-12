@@ -259,6 +259,13 @@ The operation of modern engineering systems such as electric vehicles, renewable
 <strong> Research Motivation: </strong> 
 <br>
 Multi-agent systems, such as UAM fleets and multi-robot teams, are typically powered by <strong>onboard batteries</strong> with limited energy capacity. Since each agent must operate within its energy budget to sustain mission-critical tasks, explicitly incorporating energy constraints into the cooperative control design is essential. Ignoring such constraints can lead to premature power depletion, degraded performance, or even mission failure. My research aims to develop energy-aware cooperative control strategies that enable MASs to accomplish collaborative tasks while ensuring safe and efficient energy consumption across all agents.
+
+<hr>  
+<div style="text-align:center;">
+  <img src="/images/Constrained_MAS.png" alt="MAS" style="width:60%">
+  <figcaption> Figure: System vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
+</div>
+<hr>  
   
 </div>
 
