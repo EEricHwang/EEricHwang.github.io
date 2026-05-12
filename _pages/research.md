@@ -258,7 +258,7 @@ The operation of modern engineering systems such as electric vehicles, renewable
 <div id="mor5" style="display:none"> 
 <strong> Research Motivation: </strong> 
 <br>
-Multi-agent systems, such as UAM fleets and multi-robot teams, are typically powered by <strong>onboard batteries</strong> with limited energy capacity. Since each agent must operate within its energy budget to sustain mission-critical tasks, explicitly incorporating energy constraints into the cooperative control design is essential. Ignoring such constraints can lead to premature power depletion, degraded performance, or even mission failure. My research aims to develop energy-aware cooperative control strategies that enable MASs to accomplish collaborative tasks while ensuring safe and efficient energy consumption across all agents.
+Multi-agent systems, such as UAM fleets and multi-robot teams, are typically powered by <strong>onboard batteries</strong> with limited energy capacity. Since each agent must operate within its energy budget to sustain mission-critical tasks, explicitly incorporating energy constraints into the cooperative control design is essential. Ignoring such constraints can lead to premature power depletion, degraded performance, or even mission failure. My research aims to develop energy-aware cooperative control strategies that enable multi-agent systems to accomplish collaborative tasks while ensuring safe and efficient energy consumption across all agents.
 
 <hr>  
 <div style="text-align:center;">
