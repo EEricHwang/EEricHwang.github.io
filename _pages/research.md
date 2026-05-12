@@ -263,7 +263,7 @@ Multi-agent systems, such as UAM fleets and multi-robot teams, are typically pow
 <hr>  
 <div style="text-align:center;">
   <img src="/images/Constrained_MAS.png" alt="MAS" style="width:60%">
-  <figcaption> Figure: System vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
+  <figcaption> Figure: Conceptual illustration of energy-aware and constraint-aware cooperative control for multi-agent systems. </figcaption>
 </div>
 <hr>  
   
