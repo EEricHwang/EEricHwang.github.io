@@ -179,7 +179,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
   
 <hr> 
 <div style="text-align:center;">
-  <img src="/images/ts_fuzzy.png" alt="MAS" style="width:80%">
+  <img src="/images/ts_fuzzy.png" alt="MAS" style="width:90%">
   <figcaption> Figure: Control system architecture of a fuzzy model-based approach. </figcaption>
 </div>
 
