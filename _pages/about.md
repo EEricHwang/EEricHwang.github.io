@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics at Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in developing safety-critical and energy-aware control strategies for multi-agent cyber-physical systems.
+I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics at Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in developing <strong>safety-critical</strong> and <strong>energy-aware</strong> control strategies for multi-agent cyber-physical systems.
 
 <hr>  
 <div style="text-align:center;">
