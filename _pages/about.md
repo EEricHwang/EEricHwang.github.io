@@ -16,15 +16,6 @@ I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics a
 </div>
 <hr>  
 
-<ul style="list-style-type:square;">
-    <li><b>Resilient Control & Coordination:</b> Designing distributed control protocols for multi-agent systems that maintain safety and performance under cyberattacks.</li>
-    <li><b>Safety-Critical Control:</b> Developing CBF and reachability-based frameworks to enforce hard safety constraints for autonomous systems in adversarial environments.</li>
-    <li><b>Robust & Optimal Control:</b> Applying H-infinity control and LMI-based design to guarantee robust stability and disturbance attenuation for uncertain nonlinear systems.</li>
-    <li><b>State Estimation & Fault Detection:</b> Designing observer-based estimators and fault detection algorithms under stealthy attacks and actuator failures.</li>
-    <li><b>Energy-Aware and Constrained Control:</b> Developing constrained control frameworks for battery-powered multi-agent systems with explicit energy constraints.</li>
-    <li><b>Data-Driven Control:</b> Leveraging the Koopman operator to build linear representations of nonlinear dynamics from data, enabling data-driven observer design and control.</li>
-</ul>
-
 For a more overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in March 2026).
 
 <!-- 하단에 있는 내용은 뉴스 및 소개 -->
