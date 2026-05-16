@@ -160,7 +160,7 @@ This research propose a safety-critical controller for nonlinear affine systems 
 
 <strong>Publication:</strong>
 <br>
-<small> Sungsoo Kim, Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery</a></strong>", <i>AIAA SciTech 2025 Forum</i>, Orlando, Florida, Jan 2025. </small>
+<small> Sungsoo Kim, Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery</a></strong>", <i>AIAA SciTech 2025: Cybersecurity</i>, Orlando, Florida, Jan 2025. </small>
 <hr>  
 
 </div>
@@ -210,7 +210,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 
 <strong>Publications:</strong>
 <br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026 Forum</i>, Orlando, Florida. </small>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Minhyun Cho, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>", <i>AIAA SciTech 2026: Intelligent Systems: Adaptive and Intelligent Control Systems</i>, Orlando, Florida. </small>
 
 <hr>
 
