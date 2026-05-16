@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics at Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in safety-critical control for autonomous systems with high-assured safety. For my Ph.D. research, I have been developing vehicle-level cyber threat management algorithms, including attack mitigation and risk assessment, for aerial system applications. My research interests include:
+I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics at Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in safety-critical and energy-aware control for multi-agent cyber-physical systems.
 
-<hr>  
 <div style="text-align:center;">
-  <img src="/images/Research_Figure.png" alt="MAS" style="width:60%">
+  <img src="/images/Research_Figure.png" alt="MAS" style="width:80%">
   <figcaption> Figure: System vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
 </div>
-<hr>  
 
 For a more overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in March 2026).
 
