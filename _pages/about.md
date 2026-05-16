@@ -9,10 +9,12 @@ redirect_from:
 
 I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics at Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. I am interested in developing safety-critical and energy-aware control strategies for multi-agent cyber-physical systems.
 
+<hr>  
 <div style="text-align:center;">
-  <img src="/images/Research_Figure.png" alt="MAS" style="width:85%">
+  <img src="/images/Research_Figure.png" alt="MAS" style="width:80%">
   <figcaption> </figcaption>
 </div>
+<hr>  
 
 For a more overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in March 2026).
 
