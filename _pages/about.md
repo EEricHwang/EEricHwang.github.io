@@ -11,7 +11,7 @@ I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics a
 
 <div style="text-align:center;">
   <img src="/images/Research_Figure.png" alt="MAS" style="width:80%">
-  <figcaption> Figure: System vulnerability (i.e., sensor disruptions and attack propagation via a network) of MASs under cyberattacks. </figcaption>
+  <figcaption> </figcaption>
 </div>
 
 For a more overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in March 2026).
