@@ -32,6 +32,11 @@ I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft,
 </p>
 <hr> 
 
+<div style="text-align:center;">
+  <img src="/images/Simulink.png" alt="MAS" style="width:90%">
+  <figcaption> Figure: eVTOL Flight-Powertrain Integrated Simulation Framework. </figcaption>
+</div>
+
 <div align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
     <video width="900" height="550" autoplay loop muted>
@@ -43,10 +48,6 @@ I’m currently working on the design and analysis of tilt-rotor eVTOL aircraft,
   </figure>
 </div>
 
-<div style="text-align:center;">
-  <img src="/images/Simulink.png" alt="MAS" style="width:90%">
-  <figcaption> Figure: eVTOL Flight-Powertrain Integrated Simulation Framework. </figcaption>
-</div>
 <hr> 
 
 Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks
