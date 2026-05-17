@@ -9,7 +9,7 @@ Here is my ongoing Ph.D. research at Purdue University:
 
 <hr> 
 <div style="text-align:center;">
-  <img src="/images/Research_Figure.png" alt="MAS" style="width:70%">
+  <img src="/images/Research_Figure.png" alt="MAS" style="width:60%">
 </div>
 <hr> 
 
