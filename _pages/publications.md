@@ -15,7 +15,7 @@ author_profile: true
 
 <br>
 
-<strong>Conference Papers</strong>
+<strong>Conference Proceedings</strong>
 <hr>
 <ul class="pub-list conference">
   <li><div>학회 논문 제목 내용이 들어갑니다. (2026)</div></li>
@@ -65,7 +65,7 @@ author_profile: true
   .journal li { counter-increment: j-idx; }
   .journal li::before { 
     content: "[J" counter(j-idx) "] "; 
-    color: #0066cc; 
+    color: #333333; 
   }
 
   /* 2. 학회 설정 */
@@ -73,7 +73,7 @@ author_profile: true
   .conference li { counter-increment: c-idx; }
   .conference li::before { 
     content: "[C" counter(c-idx) "] "; 
-    color: #e67e22; 
+    color: #333333; 
   }
 
   /* 3. 북 챕터 설정 */
@@ -81,7 +81,7 @@ author_profile: true
   .book li { counter-increment: b-idx; }
   .book li::before { 
     content: "[B" counter(b-idx) "] "; 
-    color: #27ae60; 
+    color: #333333; 
   }
 </style>
 
