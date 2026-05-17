@@ -6,13 +6,6 @@ author_profile: true
 ---
 <hr>
 
-심사 중인 논문들을 위한 Under Review 섹션도 추가했습니다!
-
-기호는 깔끔하게 [UR1], [UR2] 형태로 나오도록 세팅했고, 다른 섹션들과 마찬가지로 올 블랙 컬러에 정렬이 딱 맞게 적용됩니다.
-
-아래 코드를 통째로 복사해서 사용하시면 됩니다.
-
-HTML
 <strong>Journal Papers</strong>
 <hr>
 <ul class="pub-list journal">
