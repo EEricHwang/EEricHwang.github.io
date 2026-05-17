@@ -10,7 +10,6 @@ author_profile: true
 <hr>
 <ul class="pub-list journal">
   <li><div>저널 논문 제목 내용이 들어갑니다. (2026)</div></li>
-  <li><div>저널 논문 제목 내용이 들어갑니다. (2025)</div></li>
 </ul>
 
 <br>
@@ -34,8 +33,13 @@ author_profile: true
 <strong>Under Review</strong>
 <hr>
 <ul class="pub-list under-review">
-  <li><div>심사 중인 첫 번째 논문 제목 내용이 들어갑니다.</div></li>
-  <li><div>심사 중인 두 번째 논문 제목 내용이 들어갑니다.</div></li>
+  <li><div>
+    <strong>S. Hwang</strong>, G. Wu, M. Cho, and I. Hwang,
+    "Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design,"
+    <em>IEEE Control Systems Letters</em>, Under Review.
+    <span class="badge-review">Under Review</span>
+  </div></li>
+  
 </ul>
 
 
