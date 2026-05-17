@@ -6,49 +6,82 @@ author_profile: true
 ---
 <hr>
 
-<!-- 타이틀 및 구분선 -->
 <strong>Journal Papers</strong>
 <hr>
-
-<!-- 저널 리스트 시작 -->
-<ul class="journal-list">
-  <li><strong>"A Deep Learning Approach to Computer Vision"</strong>, IEEE Transactions on Pattern Analysis, 2026.</li>
+<ul class="pub-list journal">
+  <li><div>저널 논문 제목 내용이 들어갑니다. 아주 길어져서 줄바꿈이 되더라도 이제 정렬이 깨지지 않고 깔끔하게 유지됩니다. (2026)</div></li>
+  <li><div>저널 논문 제목 내용이 들어갑니다. (2025)</div></li>
 </ul>
 
-<strong>Conference Proceedings</strong>
-<hr>
+<br>
 
-<strong>Book Chapter</strong>
+<strong>Conference Papers</strong>
 <hr>
+<ul class="pub-list conference">
+  <li><div>학회 논문 제목 내용이 들어갑니다. (2026)</div></li>
+</ul>
 
-<!-- 스타일 정의 (CSS) -->
+<br>
+
+<strong>Book Chapters</strong>
+<hr>
+<ul class="pub-list book">
+  <li><div>북 챕터 제목 내용이 들어갑니다. (2024)</div></li>
+</ul>
+
+
 <style>
-  /* 리스트 전체 스타일 지정 */
-  .journal-list {
-    list-style: none;             /* 1. 기본 점(블릿) 제거 */
-    padding-left: 0;              /* 2. 왼쪽 기본 여백 제거 */
-    counter-reset: journal-idx;   /* 3. [J1], [J2] 숫자를 세기 위한 카운터 시작 */
-    margin-top: 15px;             /* 4. <hr> 선과의 간격 */
+  /* 공통 스타일 초기화 */
+  .pub-list {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;   /* 외부 여백 초기화 */
+    margin-top: 15px;
+  }
+  
+  /* Flexbox를 사용하여 [J1]과 본문을 가로로 예쁘게 배치 */
+  .pub-list li {
+    display: flex;
+    align-items: flex-start; /* 줄이 길어져도 위쪽 기준으로 정렬 */
+    margin-bottom: 12px;
+    line-height: 1.6;
+  }
+  
+  /* 본문 텍스트 영역 */
+  .pub-list li div {
+    flex: 1; /* 남은 가로 공간을 모두 차지하도록 설정 */
   }
 
-  /* 리스트 각 항목(줄) 스타일 */
-  .journal-list li {
-    counter-increment: journal-idx;  /* li를 만날 때마다 숫자 +1 */
-    margin-bottom: 12px;             /* 항목 간의 아래 간격 */
-    line-height: 1.6;                /* 줄간격 */
-    
-    /* [긴 논문 제목이 줄바꿈 되어도 정렬이 깨지지 않게 해주는 핵심 설정] */
-    padding-left: 45px;              /* 왼쪽 여백을 넓혀서 본문 시작점 맞춤 */
-    text-indent: -45px;              /* 첫 줄([J1])만 왼쪽으로 당김 */
-  }
-
-  /* 각 항목 앞에 [J1], [J2] 자동으로 붙이기 */
-  .journal-list li::before {
-    content: "[J" counter(journal-idx) "] ";  /* 기호 형태 정의 */
-    font-weight: bold;                         /* [J1] 기호만 볼드체 적용 */
-    color: #0066cc;                            /* 기호 색상 (원하는 색상 코드로 변경 가능) */
+  /* 기호([J1], [C1] 등) 공통 설정 */
+  .pub-list li::before {
+    font-weight: bold;
     display: inline-block;
-    width: 45px;                               /* 기호가 차지할 고정 너비 */
+    width: 45px;        /* 기호가 차지할 고정 너비 */
+    flex-shrink: 0;     /* 화면이 작아져도 기호 너비가 줄어들지 않도록 고정 */
+  }
+
+  /* 1. 저널 설정 */
+  .journal { counter-reset: j-idx; }
+  .journal li { counter-increment: j-idx; }
+  .journal li::before { 
+    content: "[J" counter(j-idx) "] "; 
+    color: #0066cc; 
+  }
+
+  /* 2. 학회 설정 */
+  .conference { counter-reset: c-idx; }
+  .conference li { counter-increment: c-idx; }
+  .conference li::before { 
+    content: "[C" counter(c-idx) "] "; 
+    color: #e67e22; 
+  }
+
+  /* 3. 북 챕터 설정 */
+  .book { counter-reset: b-idx; }
+  .book li { counter-increment: b-idx; }
+  .book li::before { 
+    content: "[B" counter(b-idx) "] "; 
+    color: #27ae60; 
   }
 </style>
 
