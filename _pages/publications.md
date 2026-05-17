@@ -6,5 +6,13 @@ author_profile: true
 ---
 <hr>
 
-To be updated.
+<strong>Journal Papers</strong>
+<hr>
+
+<strong>Conference Proceedings</strong>
+<hr>
+
+<strong>Book Chapter</strong>
+<hr>
+
 
