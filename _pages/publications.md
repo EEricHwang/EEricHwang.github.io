@@ -10,25 +10,25 @@ author_profile: true
 <hr>
 <ul class="pub-list journal">
 
-<li><div> G. Kim, J. Kim, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and H. S. Kim, "<strong><a href="https://www.mdpi.com/2079-9292/15/5/1075" target="_blank" rel="noopener noreferrer">Scale-Aware Mosaic Augmentation and GSIoU-Based Varifocal Loss for Robust Object Detection Under Scale Imbalance</a></strong>," <em>Electronics</em>, vol. 15, no. 5, pp. 1075, Mar. 2026. </div></li>
+<li><div> G. Kim, J. Kim, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and H. S. Kim, "<a href="https://www.mdpi.com/2079-9292/15/5/1075" target="_blank" rel="noopener noreferrer">Scale-Aware Mosaic Augmentation and GSIoU-Based Varifocal Loss for Robust Object Detection Under Scale Imbalance</a>," <em>Electronics</em>, vol. 15, no. 5, pp. 1075, Mar. 2026. </div></li>
 
-<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations</a></strong>," <em>IEEE Control Systems Letters (L-CSS)</em>, vol. 10, pp. 55–60, Jan. 2026. </div></li>
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang, "<a href="https://ieeexplore.ieee.org/document/11367661" target="_blank" rel="noopener noreferrer">LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations</a>," <em>IEEE Control Systems Letters (L-CSS)</em>, vol. 10, pp. 55–60, Jan. 2026. </div></li>
 
-<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, G. Wu, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a></strong>," <em>IEEE Control Systems Letters (L-CSS)</em>, vol. 9, pp. 1123–1128, Jun. 2025. </div></li>
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, G. Wu, and I. Hwang, "<a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a>," <em>IEEE Control Systems Letters (L-CSS)</em>, vol. 9, pp. 1123–1128, Jun. 2025. </div></li>
 
-<li><div> S. Lee, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and H. S. Kim, "<strong><a href="https://www.mdpi.com/2504-446X/8/11/685" target="_blank" rel="noopener noreferrer">T-S Fuzzy Observer-based Output Feedback Lateral Control of Unmanned Grounded Vehicles Using a Disturbance Observer</a></strong>," <em>Drones</em>, vol. 8, no. 11, Nov. 2024. </div></li>
+<li><div> S. Lee, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and H. S. Kim, "<a href="https://www.mdpi.com/2504-446X/8/11/685" target="_blank" rel="noopener noreferrer">T-S Fuzzy Observer-based Output Feedback Lateral Control of Unmanned Grounded Vehicles Using a Disturbance Observer</a>," <em>Drones</em>, vol. 8, no. 11, Nov. 2024. </div></li>
 
-<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, S. Kim, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/10153779/" target="_blank" rel="noopener noreferrer">An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks</a></strong>," <em>IEEE Control Systems Letters (L-CSS)</em>, vol. 7, pp. 2419–2424, Jun. 2023. </div></li>
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, S. Kim, and I. Hwang, "<a href="https://ieeexplore.ieee.org/document/10153779/" target="_blank" rel="noopener noreferrer">An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks</a>," <em>IEEE Control Systems Letters (L-CSS)</em>, vol. 7, pp. 2419–2424, Jun. 2023. </div></li>
 
-<li><div> S. Clarke, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, O. Thapliyal, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/10.2514/1.I011222" target="_blank" rel="noopener noreferrer">Distributed Denial-of-Service Resilient Control for Urban Air Mobility Applications</a></strong>," <em>AIAA Journal of Aerospace Information Systems</em>, vol. 20, no. 12, pp. 873–889, Sep. 2023. </div></li>
+<li><div> S. Clarke, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, O. Thapliyal, and I. Hwang, "<a href="https://arc.aiaa.org/doi/10.2514/1.I011222" target="_blank" rel="noopener noreferrer">Distributed Denial-of-Service Resilient Control for Urban Air Mobility Applications</a>," <em>AIAA Journal of Aerospace Information Systems</em>, vol. 20, no. 12, pp. 873–889, Sep. 2023. </div></li>
 
-<li><div> H. S. Kim, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and Y. Joo, "<strong><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-cta.2020.0521" target="_blank" rel="noopener noreferrer">Interval Type-2 Fuzzy-model-based Fault-tolerant Sliding Mode Tracking Control of a Quadrotor UAV Under Actuator Saturation</a></strong>," <em>IET Control Theory and Applications</em>, vol. 14, no. 20, pp. 3663–3675, Dec. 2020. </div></li>
+<li><div> H. S. Kim, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and Y. Joo, "<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-cta.2020.0521" target="_blank" rel="noopener noreferrer">Interval Type-2 Fuzzy-model-based Fault-tolerant Sliding Mode Tracking Control of a Quadrotor UAV Under Actuator Saturation</a>," <em>IET Control Theory and Applications</em>, vol. 14, no. 20, pp. 3663–3675, Dec. 2020. </div></li>
 
-<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span> and H. S. Kim, "<strong><a href="https://ieeexplore.ieee.org/document/9122525/" target="_blank" rel="noopener noreferrer">Extended Disturbance Observer-Based Integral Sliding Mode Control for Nonlinear System via T-S Fuzzy Model</a></strong>," <em>IEEE Access</em>, vol. 8, Jun. 2020. </div></li>
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span> and H. S. Kim, "<a href="https://ieeexplore.ieee.org/document/9122525/" target="_blank" rel="noopener noreferrer">Extended Disturbance Observer-Based Integral Sliding Mode Control for Nonlinear System via T-S Fuzzy Model</a>," <em>IEEE Access</em>, vol. 8, Jun. 2020. </div></li>
     
-<li><div><span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<strong><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-cta.2018.5779" target="_blank" rel="noopener noreferrer">Disturbance observer-based integral fuzzy sliding-mode control and its application to wind turbine system</a></strong>," <em>IET Control Theory and Applications</em>, vol. 13, no. 12, pp. 1891–1900, Jul. 2019. </div></li>
+<li><div><span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-cta.2018.5779" target="_blank" rel="noopener noreferrer">Disturbance observer-based integral fuzzy sliding-mode control and its application to wind turbine system</a>," <em>IET Control Theory and Applications</em>, vol. 13, no. 12, pp. 1891–1900, Jul. 2019. </div></li>
     
-<li><div><span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<strong><a href="https://yonsei.elsevierpure.com/en/publications/observer-based-h-fuzzy-controller-design-of-interval-type-2-takag/" target="_blank" rel="noopener noreferrer">Observer-based H&#8734; fuzzy controller design of interval type-2 T-S fuzzy systems under imperfect premise matching</a></strong>," <em>Transactions of the Korean Institute of Electrical Engineers</em>, vol. 66, no. 11, pp. 1620–1627, Nov. 2017.</div></li>
+<li><div><span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<a href="https://yonsei.elsevierpure.com/en/publications/observer-based-h-fuzzy-controller-design-of-interval-type-2-takag/" target="_blank" rel="noopener noreferrer">Observer-based H&#8734; fuzzy controller design of interval type-2 T-S fuzzy systems under imperfect premise matching</a>," <em>Transactions of the Korean Institute of Electrical Engineers</em>, vol. 66, no. 11, pp. 1620–1627, Nov. 2017.</div></li>
 
 </ul>
 
@@ -41,40 +41,40 @@ author_profile: true
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang,
-    "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>," <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026.
+    "<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a>," <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026.
   </div></li>
 
   <li><div>
     M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Gu, V. Vishnu, S. Byeon, and I. Hwang,
-    "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations</a></strong>," <em>AIAA SciTech 2026: Electrified Aircraft Technology</em>, Orlando, FL, Jan. 2026.
+    "<a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations</a>," <em>AIAA SciTech 2026: Electrified Aircraft Technology</em>, Orlando, FL, Jan. 2026.
   </div></li>
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, G. Wu, and I. Hwang,
-    "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a></strong>," <em>64th IEEE Conference on Decision and Control (CDC)</em>, Rio de Janeiro, Brazil, Dec. 2025.
+    "<a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a>," <em>64th IEEE Conference on Decision and Control (CDC)</em>, Rio de Janeiro, Brazil, Dec. 2025.
   </div></li>
 
   <li><div>
     S. Kim, M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang,
-    "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery</a></strong>," <em>AIAA SciTech 2025: Cybersecurity</em>, Orlando, FL, Jan. 2025.
+    "<a href="https://arc.aiaa.org/doi/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery</a>," <em>AIAA SciTech 2025: Cybersecurity</em>, Orlando, FL, Jan. 2025.
   </div></li>
 
   <li><div>
-    Y. Guo, K. A. Pant, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, V. Vijay, J. M. Goppert, and I. Hwang, "<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-1050-4_1" target="_blank" rel="noopener noreferrer">RESiLIENT: A Neural-Symbolic Resilient Threat-Response Framework for Large-Scale Hierarchical Swarms</a></strong>," <em>GENZERO Workshop</em>, Abu Dhabi, UAE, Nov. 2024.
+    Y. Guo, K. A. Pant, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, V. Vijay, J. M. Goppert, and I. Hwang, "<a href="https://link.springer.com/chapter/10.1007/978-981-95-1050-4_1" target="_blank" rel="noopener noreferrer">RESiLIENT: A Neural-Symbolic Resilient Threat-Response Framework for Large-Scale Hierarchical Swarms</a>," <em>GENZERO Workshop</em>, Abu Dhabi, UAE, Nov. 2024.
   </div></li>
 
   <li><div>
-    M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/10644803" target="_blank" rel="noopener noreferrer">Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis</a></strong>," <em>IEEE American Control Conference (ACC)</em>, Toronto, Canada, Jul. 2024.
+    M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<a href="https://ieeexplore.ieee.org/document/10644803" target="_blank" rel="noopener noreferrer">Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis</a>," <em>IEEE American Control Conference (ACC)</em>, Toronto, Canada, Jul. 2024.
   </div></li>
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, S. Kim, and I. Hwang,
-    "<strong><a href="https://ieeexplore.ieee.org/document/10153779/" target="_blank" rel="noopener noreferrer">An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks</a></strong>,"
+    "<a href="https://ieeexplore.ieee.org/document/10153779/" target="_blank" rel="noopener noreferrer">An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks</a>,"
     <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023.
   </div></li>
 
   <li><div>
-    S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a></strong>," <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022.
+    S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a>," <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022.
   </div></li>
   
   <li><div>
