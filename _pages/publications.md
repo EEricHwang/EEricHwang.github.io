@@ -24,10 +24,12 @@ author_profile: true
 
 <strong>Book Chapters</strong>
 <hr>
-<ul class="pub-list book">
-  <li><div>북 챕터 제목 내용이 들어갑니다. (2024)</div></li>
-</ul>
-
+  <li><div>
+    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang,
+    "Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks,"
+    in <em>Advances in Transportation Cybersecurity and Resilience</em>, World Scientific Publishing. (To appear)
+  </div></li>
+  
 <br>
 
 <strong>Under Review</strong>
