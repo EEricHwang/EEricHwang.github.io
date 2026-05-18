@@ -50,9 +50,7 @@ author_profile: true
   </div></li>
 
   <li><div>
-    M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang,
-    "Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis,"
-    <em>IEEE American Control Conference (ACC)</em>, Toronto, Canada, Jul. 2024.
+    M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/10644803" target="_blank" rel="noopener noreferrer">Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis</a></strong>," <em>IEEE American Control Conference (ACC)</em>, Toronto, Canada, Jul. 2024.
   </div></li>
 
   <li><div>
