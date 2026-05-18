@@ -65,8 +65,8 @@ author_profile: true
 
 <br>
 
-<!-- ========== CONFERENCE PAPERS ========== -->
-<strong>Conference Papers</strong>
+<!-- ========== CONFERENCE PROCEEDINGS ========== -->
+<strong>Conference Proceedings</strong>
 <hr>
 <ul class="pub-list conference">
 
