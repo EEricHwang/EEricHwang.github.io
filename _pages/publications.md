@@ -42,8 +42,21 @@ author_profile: true
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, G. Wu, and I. Hwang,
     "Cooperative Constrained Control of Multi-Agent Systems with Rate-Limited Actuators: An LMI-Based Approach,"
-    <em>IEEE Control Systems Letters</em>, Submitted in March 2026.
+    <em>65th IEEE Conference on Decision and Control (CDC)</em>, Submitted in March 2026.
   </div></li>
+
+  <li><div>
+    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, M. Cho, and I. Hwang,
+    "Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework,"
+    <em>ASME Letters in Dynamic Systems and Control</em>, Submitted in March 2026.
+  </div></li>
+
+  <li><div>
+    G. Wu, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, Z. Chen, and I. Hwang,
+    "Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries,"
+    <em>2026 Modeling, Estimation and Control Conference (MECC)</em>, Submitted in March 2026.
+  </div></li>
+
 
 </ul>
 
