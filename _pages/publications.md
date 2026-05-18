@@ -9,7 +9,9 @@ author_profile: true
 <strong>Journal Papers</strong>
 <hr>
 <ul class="pub-list journal">
-  <li><div>저널 논문 제목 내용이 들어갑니다. (2026)</div></li>
+    <li><div>
+    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<strong><a href="https://yonsei.elsevierpure.com/en/publications/observer-based-h-fuzzy-controller-design-of-interval-type-2-takag/" target="_blank" rel="noopener noreferrer">Observer-based H&#8734; fuzzy controller design of interval type-2 T-S fuzzy systems under imperfect premise matching</a></strong>," <em>Transactions of the Korean Institute of Electrical Engineers</em>, vol. 66, no. 11, pp. 1620–1627, Nov. 2017.
+    </div></li>
 </ul>
 
 <br>
