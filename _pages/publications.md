@@ -181,7 +181,7 @@ author_profile: true
   /* 4. Under Review 설정 */
   .under-review { counter-reset: ur-idx; }
   .under-review li { counter-increment: ur-idx; }
-  .under-review li::before { content: "[UR" counter(ur-idx) "] "; }
+  .under-review li::before { content: "[U" counter(ur-idx) "] "; }
 </style>
 
 
