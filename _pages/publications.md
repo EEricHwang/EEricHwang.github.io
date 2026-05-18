@@ -57,7 +57,8 @@ author_profile: true
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, S. Kim, and I. Hwang,
-    "An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks," <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023.
+    "<strong><a href="https://ieeexplore.ieee.org/document/10153779/" target="_blank" rel="noopener noreferrer">An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks</a></strong>,"
+    <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023.
   </div></li>
 
   <li><div>
