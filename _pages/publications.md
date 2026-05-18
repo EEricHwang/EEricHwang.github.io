@@ -14,21 +14,89 @@ author_profile: true
 
 <br>
 
+<!-- ========== CONFERENCE PAPERS ========== -->
 <strong>Conference Papers</strong>
 <hr>
 <ul class="pub-list conference">
-  <li><div>학회 논문 제목 내용이 들어갑니다. (2026)</div></li>
+
+  <li><div>
+    G. Wu, <strong>S. Hwang</strong>, Z. Chen, and I. Hwang,
+    "Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries,"
+    <em>2026 Modeling, Estimation and Control Conference (MECC)</em>, Under Review.
+    <span class="badge-review">Under Review</span>
+  </div></li>
+
+  <li><div>
+    <strong>S. Hwang</strong>, M. Cho, and I. Hwang,
+    "LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment,"
+    <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026.
+  </div></li>
+
+  <li><div>
+    M. Cho, <strong>S. Hwang</strong>, G. Gu, V. Vishnu, S. Byeon, and I. Hwang,
+    "C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations,"
+    <em>AIAA SciTech 2026: Electrified Aircraft Technology</em>, Orlando, FL, Jan. 2026.
+  </div></li>
+
+  <li><div>
+    <strong>S. Hwang</strong>, M. Cho, G. Wu, and I. Hwang,
+    "Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework,"
+    <em>64th IEEE Conference on Decision and Control (CDC)</em>, Rio de Janeiro, Brazil, Dec. 2025.
+  </div></li>
+
+  <li><div>
+    S. Kim, M. Cho, <strong>S. Hwang</strong>, and I. Hwang,
+    "Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery,"
+    <em>AIAA SciTech 2025: Cybersecurity</em>, Orlando, FL, Jan. 2025.
+  </div></li>
+
+  <li><div>
+    Y. Guo, K. A. Pant, <strong>S. Hwang</strong>, V. Vijay, J. M. Goppert, and I. Hwang,
+    "RESiLIENT: A Neural-Symbolic Resilient Threat-Response Framework for Large-Scale Hierarchical Swarms,"
+    <em>GENZERO Workshop</em>, Abu Dhabi, UAE, Nov. 2024.
+  </div></li>
+
+  <li><div>
+    M. Cho, <strong>S. Hwang</strong>, and I. Hwang,
+    "Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis,"
+    <em>IEEE American Control Conference (ACC)</em>, Toronto, Canada, Jul. 2024.
+  </div></li>
+
+  <li><div>
+    <strong>S. Hwang</strong>, M. Cho, S. Kim, and I. Hwang,
+    "An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks,"
+    <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023.
+  </div></li>
+
+  <li><div>
+    S. G. Clarke, O. Thapliyal, <strong>S. Hwang</strong>, and I. Hwang,
+    "Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks,"
+    <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022.
+  </div></li>
+
+  <li><div>
+    <strong>S. Hwang</strong>, J. B. Park, and Y. Joo,
+    "Disturbance Observer-Based H&#8734; Control of the T-S Fuzzy Model Under Imperfect Premise Matching,"
+    <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)</em>, Auckland, New Zealand, Jul. 2018.
+  </div></li>
+
 </ul>
 
 <br>
 
-<strong>Book Chapters</strong>
+<!-- ========== BOOK CHAPTER ========== -->
+<strong>Book Chapter</strong>
 <hr>
 <ul class="pub-list book">
-  <li><div>북 챕터 제목 내용이 들어갑니다. (2024)</div></li>
+
+  <li><div>
+    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang,
+    "Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks,"
+    in <em>Advances in Transportation Cybersecurity and Resilience</em>, World Scientific Publishing. (To appear)
+  </div></li>
+
 </ul>
 
-  
 <br>
 
 <strong>Under Review</strong>
