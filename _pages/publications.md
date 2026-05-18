@@ -9,6 +9,13 @@ author_profile: true
 <strong>Journal Papers</strong>
 <hr>
 <ul class="pub-list journal">
+    
+    <li><div>
+    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo,
+    "<strong><a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-cta.2018.5779" target="_blank" rel="noopener noreferrer">Disturbance observer-based integral fuzzy sliding-mode control and its application to wind turbine system</a></strong>,"
+    <em>IET Control Theory and Applications</em>, vol. 13, no. 12, pp. 1891–1900, Jul. 2019.
+  </div></li>
+    
     <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<strong><a href="https://yonsei.elsevierpure.com/en/publications/observer-based-h-fuzzy-controller-design-of-interval-type-2-takag/" target="_blank" rel="noopener noreferrer">Observer-based H&#8734; fuzzy controller design of interval type-2 T-S fuzzy systems under imperfect premise matching</a></strong>," <em>Transactions of the Korean Institute of Electrical Engineers</em>, vol. 66, no. 11, pp. 1620–1627, Nov. 2017.
     </div></li>
