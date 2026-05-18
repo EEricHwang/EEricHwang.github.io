@@ -63,7 +63,7 @@ author_profile: true
 
 </ul>
 
-<br>
+<hr>
 
 <!-- ========== CONFERENCE PROCEEDINGS ========== -->
 <strong>Conference Proceedings</strong>
@@ -90,7 +90,7 @@ author_profile: true
 
 </ul>
 
-<br>
+<hr>
 
 <!-- ========== BOOK CHAPTER ========== -->
 <strong>Book Chapter</strong>
@@ -105,7 +105,7 @@ author_profile: true
 
 </ul>
 
-<br>
+<hr>
 
 <style>
   /* 공통 스타일 초기화 */
