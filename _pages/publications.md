@@ -61,13 +61,11 @@ author_profile: true
   </div></li>
 
   <li><div>
-    S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang,"<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a></strong>," <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022.
+    S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a></strong>," <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022.
   </div></li>
   
   <li><div>
-    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo,
-    <strong><a href="https://ieeexplore.ieee.org/abstract/document/8452222?casa_token=v6DQdx_Y_tMAAAAA:eUdSmwNEQ14hVG2QfazRhb4ZnPYDjph5Npe_wYjTtQLAae7UZMS9LwOHOrsDRbUZPYdF2Vq_dA " target="_blank" rel="noopener noreferrer">"Disturbance Observer-Based H&#8734; Control of the T-S Fuzzy Model Under Imperfect Premise Matching,"</a></strong>
-    <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)</em>, Auckland, New Zealand, Jul. 2018.
+    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8452222?casa_token=v6DQdx_Y_tMAAAAA:eUdSmwNEQ14hVG2QfazRhb4ZnPYDjph5Npe_wYjTtQLAae7UZMS9LwOHOrsDRbUZPYdF2Vq_dA " target="_blank" rel="noopener noreferrer">Disturbance Observer-Based H&#8734; Control of the T-S Fuzzy Model Under Imperfect Premise Matching</a></strong>, " <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)</em>, Auckland, New Zealand, Jul. 2018.
   </div></li>
 
 </ul>
