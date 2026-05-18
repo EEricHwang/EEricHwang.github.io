@@ -21,32 +21,26 @@ author_profile: true
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang,
-    "LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment,"
-    <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026.
+    "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>," <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026.
   </div></li>
 
   <li><div>
     M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Gu, V. Vishnu, S. Byeon, and I. Hwang,
-    "C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations,"
-    <em>AIAA SciTech 2026: Electrified Aircraft Technology</em>, Orlando, FL, Jan. 2026.
+    "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations</a></strong>," <em>AIAA SciTech 2026: Electrified Aircraft Technology</em>, Orlando, FL, Jan. 2026.
   </div></li>
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, G. Wu, and I. Hwang,
-    "Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework,"
-    <em>64th IEEE Conference on Decision and Control (CDC)</em>, Rio de Janeiro, Brazil, Dec. 2025.
+    "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a></strong>," <em>64th IEEE Conference on Decision and Control (CDC)</em>, Rio de Janeiro, Brazil, Dec. 2025.
   </div></li>
 
   <li><div>
     S. Kim, M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang,
-    "Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery,"
-    <em>AIAA SciTech 2025: Cybersecurity</em>, Orlando, FL, Jan. 2025.
+    "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery</a></strong>," <em>AIAA SciTech 2025: Cybersecurity</em>, Orlando, FL, Jan. 2025.
   </div></li>
 
   <li><div>
-    Y. Guo, K. A. Pant, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, V. Vijay, J. M. Goppert, and I. Hwang,
-    "RESiLIENT: A Neural-Symbolic Resilient Threat-Response Framework for Large-Scale Hierarchical Swarms,"
-    <em>GENZERO Workshop</em>, Abu Dhabi, UAE, Nov. 2024.
+    Y. Guo, K. A. Pant, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, V. Vijay, J. M. Goppert, and I. Hwang, "<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-1050-4_1" target="_blank" rel="noopener noreferrer">RESiLIENT: A Neural-Symbolic Resilient Threat-Response Framework for Large-Scale Hierarchical Swarms</a></strong>," <em>GENZERO Workshop</em>, Abu Dhabi, UAE, Nov. 2024.
   </div></li>
 
   <li><div>
