@@ -57,12 +57,11 @@ author_profile: true
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, S. Kim, and I. Hwang,
-    "An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks,"
-    <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023.
+    "An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks," <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023.
   </div></li>
 
   <li><div>
-    S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang,"<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a></strong>,"<em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022.
+    S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang,"<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a></strong>," <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022.
   </div></li>
   
   <li><div>
