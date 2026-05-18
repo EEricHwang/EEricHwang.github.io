@@ -69,13 +69,17 @@ author_profile: true
 
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo,
-    "Disturbance Observer-Based H&#8734; Control of the T-S Fuzzy Model Under Imperfect Premise Matching,"
+    "<strong> <a href="https://ieeexplore.ieee.org/abstract/document/8452222?casa_token=v6DQdx_Y_tMAAAAA:eUdSmwNEQ14hVG2QfazRhb4ZnPYDjph5Npe_wYjTtQLAae7UZMS9LwOHOrsDRbUZPYdF2Vq_dA
+" target="_blank" rel="noopener noreferrer"> Disturbance Observer-Based H&#8734; Control of the T-S Fuzzy Model Under Imperfect Premise Matching </a> </strong>,"
     <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)</em>, Auckland, New Zealand, Jul. 2018.
   </div></li>
 
 </ul>
 
 <br>
+
+
+
 
 <!-- ========== BOOK CHAPTER ========== -->
 <strong>Book Chapter</strong>
