@@ -36,8 +36,7 @@ author_profile: true
   <li><div>
     <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, M. Cho, and I. Hwang,
     "Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design,"
-    <em>IEEE Control Systems Letters</em>, Under Review.
-    <span class="badge-review">Under Review</span>
+    <em>IEEE Control Systems Letters</em>, Submitted in May 2026.
   </div></li>
   
 </ul>
