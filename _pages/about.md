@@ -16,7 +16,7 @@ I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics a
 </div>
 <hr>  
 
-For a more overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in March 2026).
+For a more overview of my work, please refer to my [<strong>CV</strong>](https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link) (updated in May 2026).
 
 <!-- 하단에 있는 내용은 뉴스 및 소개 -->
 
