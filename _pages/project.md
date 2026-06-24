@@ -64,3 +64,11 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
   <figcaption> Figure: Schematic of a proposed Eco-ACC framework for U.S. Class 8 semi-trucks. </figcaption>
 </div>
 <hr>  
+
+Design and Implementation of Motion Profiler and Controller for Galvanometer Scanner
+------
+<p> 
+<strong> Pangolin Laser System Inc. </strong><br>
+<strong>Research Periods:</strong> June 2026 &ndash; Aug 2026 <br>
+TBD...
+</p>
