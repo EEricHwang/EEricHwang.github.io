@@ -21,18 +21,6 @@ author_profile: true
     <em>65th IEEE Conference on Decision and Control (CDC)</em>, Submitted in March 2026.
   </div></li>
 
-  <li><div>
-    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, M. Cho, and I. Hwang,
-    "Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework,"
-    <em>ASME Letters in Dynamic Systems and Control</em>, Submitted in March 2026.
-  </div></li>
-
-  <li><div>
-    G. Wu, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, Z. Chen, and I. Hwang,
-    "Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries,"
-    <em>2026 Modeling, Estimation and Control Conference (MECC)</em>, Submitted in March 2026.
-  </div></li>
-
 </ul>
 
 <hr>
@@ -40,6 +28,8 @@ author_profile: true
 <strong>Journal Papers</strong>
 <hr>
 <ul class="pub-list journal">
+
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, M. Cho, and I. Hwang, "Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework," <em>ASME Letters in Dynamic Systems and Control</em>, Accepted in June 2026. </div></li>
 
 <li><div> G. Kim, J. Kim, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and H. S. Kim, "<strong><a href="https://www.mdpi.com/2079-9292/15/5/1075" target="_blank" rel="noopener noreferrer">Scale-Aware Mosaic Augmentation and GSIoU-Based Varifocal Loss for Robust Object Detection Under Scale Imbalance</a></strong>," <em>Electronics</em>, vol. 15, no. 5, pp. 1075, Mar. 2026. </div></li>
 
@@ -69,6 +59,8 @@ author_profile: true
 <strong>Conference Proceedings</strong>
 <hr>
 <ul class="pub-list conference">
+
+<li><div> G. Wu, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, Z. Chen, and I. Hwang, "Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries," <em>2026 Modeling, Estimation and Control Conference (MECC)</em>, Accepted in June 2026. </div></li>
 
   <li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>," <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026. </div></li>
 
