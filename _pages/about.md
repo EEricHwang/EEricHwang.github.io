@@ -55,7 +55,7 @@ For a more overview of my work, please refer to my [<strong>CV</strong>](https:/
 <div class="news">
   <h3>Recent News</h3>
 
-  <p> <strong>[June 2026 🎉]</strong>  Our paper <strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong> has been accepted for the ASME Letters in Dynamic Systems and Control (LDSC)! I look forward to presenting my work in the 2026 Modeling, Estimation and Control Conference (<strong><a href="https://mecc2026.a2c2.org/" target="_blank" rel="noopener noreferrer">MECC 2026</a></strong>).</p>
+  <p> <strong>[June 2026 🎉]</strong>  Our paper <strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong> has been accepted for the ASME Letters in Dynamic Systems and Control! I look forward to presenting my work in the 2026 Modeling, Estimation and Control Conference (<strong><a href="https://mecc2026.a2c2.org/" target="_blank" rel="noopener noreferrer">MECC 2026</a></strong>).</p>
 
   <p> <strong>[April 2025 🎇]</strong>  I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at Pangolin Laser Systems Inc. from June–August 2026! My main responsibility is to develop advanced motion planning and control algorithms for high-performance servo systems, focusing on precision control in optical scanning applications. </p>
   
