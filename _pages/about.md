@@ -74,7 +74,7 @@ For a more overview of my work, please refer to my [<strong>CV</strong>](https:/
 
   <p> <strong>[May 2025 🚛]</strong> I will begin my Summer Internship as a <strong>Controls Research Engineer</strong> at Cummins Inc.! </p>
 
-  <p> <strong>[May 2025 🎉]</strong> Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks</strong> has been accepted for Advances in Transportation Cybersecurity and Resilience by World Scientific Publishing! </p>
+  <p> <strong>[May 2025 🎉]</strong> Our book chapter abstract <strong>Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks</strong> has been accepted for <strong><a href="https://www.worldscientific.com/worldscibooks/10.1142/14831?srsltid=AfmBOooxifJOvsUODYEgH1zLVd5yHf3kU745BUhbFnOn78AC4nLFxLd2#t=aboutBook" target="_blank" rel="noopener noreferrer">Advances in Transportation Cybersecurity and Resilience</a></strong> by World Scientific Publishing! </p>
 
   <p> <strong>[Feb 2025 🎉]</strong> I receive the <strong>First place poster award</strong> at the <strong><a href="https://nari.arc.nasa.gov/imaginAviation/" target="_blank" rel="noopener noreferrer">2024 NASA ImaginAviation Annual Conference</a></strong>. The title of my presentation is <strong>"<i>Reactive and Proactive Cyberattack Defense Strategy for Urban Air Mobility (UAM) Applications</i>"</strong>. </p>
 
