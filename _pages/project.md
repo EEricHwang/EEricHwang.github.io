@@ -65,7 +65,7 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
 </div>
 <hr>  
 
-Design and Implementation of Motion Profiler and Controller for Galvanometer Scanner
+Motion Profiler and Controller Design for High-Performance Galvanometer Scanners
 ------
 <p> 
 <strong> Pangolin Laser System Inc. </strong><br>
