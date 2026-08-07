@@ -68,7 +68,7 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
 Motion Profiler and Controller Design for High-Performance Galvanometer Scanners
 ------
 <p> 
-<strong> Pangolin Laser System Inc. </strong><br>
+<strong> Pangolin Laser System Inc., ScannerMAX Division </strong><br>
 <strong>Research Periods:</strong> June 2026 &ndash; Aug 2026 <br>
 As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I developed a real-time motion profiler and controller for galvanometer scanner systems. By integrating classical bang-bang switching-curve control with a digital-twin voltage/current estimator, the controller dynamically computed the available acceleration at each control step. This eliminated amplitude-specific tuning while enabling consistent full-voltage utilization across a wide range of motion amplitudes.
 </p>
