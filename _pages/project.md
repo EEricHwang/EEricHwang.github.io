@@ -75,7 +75,7 @@ As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I
 
 <div style="text-align: center;">
   <figure style="display: inline-block; margin: 10px auto;">
-    <video style="width: 100%; max-width: 900px; height: auto;" autoplay loop muted>
+    <video style="width: 100%; max-width: 1000px; height: auto;" autoplay loop muted>
       <source src="/images/Galvo_Laser.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family: 'Times New Roman', serif; font-size: 14px; margin-top: 5px;">
