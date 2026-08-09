@@ -73,13 +73,13 @@ Motion Profiler and Controller Design for High-Performance Galvanometer Scanners
 As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I developed a real-time motion profiler and controller for galvanometer scanner systems. By integrating classical bang-bang switching-curve control with a digital-twin voltage/current estimator, the controller dynamically computed the available acceleration at each control step. This eliminated amplitude-specific tuning while enabling consistent full-voltage utilization across a wide range of motion amplitudes.
 </p>
 
-<div align="center">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="900" height="550" autoplay loop muted>
+<div style="text-align: center;">
+  <figure style="display: inline-block; margin: 10px auto;">
+    <video style="width: 100%; max-width: 900px; height: auto;" autoplay loop muted>
       <source src="/images/Galvo_Laser.mp4" type="video/mp4">
     </video>
-    <figcaption style="font-family:'Times New Roman'; font-size:14px;">
-      Figure: TBD
+    <figcaption style="font-family: 'Times New Roman', serif; font-size: 14px; margin-top: 5px;">
+      Figure: Block diagram of the real-time motion profiler and closed-loop control architecture for galvanometer scanners.
     </figcaption>
   </figure>
 </div>
