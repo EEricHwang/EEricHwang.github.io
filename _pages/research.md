@@ -268,12 +268,6 @@ Multi-agent systems, such as UAM fleets and multi-robot teams, are typically pow
   <figcaption> Figure: Conceptual illustration of energy-aware and constraint-aware cooperative control for multi-agent systems. </figcaption>
 </div>
 <hr>  
-
-<strong>Publications:</strong>
-<ul style="margin-top:5px;">
-<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Guanlin Wu, Minhyun Cho, and Inseok Hwang, "<strong>"Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design</strong>", IEEE Control Systems Letters, (Under review) </small> </li>
-
-<hr>
   
 </div>
 
