@@ -6,7 +6,7 @@ author_profile: true
 ---
 <hr>
 
-<strong>In Progress</strong>
+<strong style="font-size: 1.2em;">In Progress</strong>
 <hr>
 <ul class="pub-list under-review">
   <li><div>
