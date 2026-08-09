@@ -18,7 +18,7 @@ author_profile: true
 
 <hr>
 
-<strong>Journal Papers</strong>
+<strong style="font-size: 1.2em;">Journal Papers</strong>
 <hr>
 <ul class="pub-list journal">
 
@@ -49,7 +49,7 @@ author_profile: true
 <hr>
 
 <!-- ========== CONFERENCE PROCEEDINGS ========== -->
-<strong>Conference Proceedings</strong>
+<strong style="font-size: 1.2em;">Conference Proceedings</strong>
 <hr>
 <ul class="pub-list conference">
 
