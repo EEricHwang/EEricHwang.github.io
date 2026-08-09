@@ -268,6 +268,15 @@ Multi-agent systems, such as UAM fleets and multi-robot teams, are typically pow
   <figcaption> Figure: Conceptual illustration of energy-aware and constraint-aware cooperative control for multi-agent systems. </figcaption>
 </div>
 <hr>  
+
+<strong>Publications:</strong>
+<ul style="margin-top:5px;">
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong>Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</strong>", ASME Letters in Dynamic Systems and Control (with MECC 2026 option), (Accepted on June, 2026) </small> </li>
+
+<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Zhou Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", Modeling, Estimation and Control Conference (MECC 2026), (Accepted on June, 2026) </small> </li>
+</ul>
+
+<hr>
   
 </div>
 
