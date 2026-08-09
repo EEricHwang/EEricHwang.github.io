@@ -268,6 +268,11 @@ Multi-agent systems, such as UAM fleets and multi-robot teams, are typically pow
   <figcaption> Figure: Conceptual illustration of energy-aware and constraint-aware cooperative control for multi-agent systems. </figcaption>
 </div>
 <hr>  
+
+<strong>Publication:</strong>
+<br>
+<small> Sungsoo Kim, Minhyun Cho, <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, and Inseok Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System With Robustness and Attack Recovery</a></strong>", <i>AIAA SciTech 2025: Cybersecurity</i>, Orlando, Florida, Jan 2025. </small>
+<hr>
   
 </div>
 
