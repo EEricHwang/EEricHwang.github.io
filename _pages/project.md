@@ -76,13 +76,14 @@ As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I
 <div align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
     <video width="900" height="550" autoplay loop muted>
-      <source src="/images/ABMS_Video.mp4" type="video/mp4">
+      <source src="/images/Laser.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px;">
-      Figure: Electrical performance analysis for a tilt-rotor eVTOL flight profile.
+      Figure. Block diagram of the galvanometer motion control system, from reference input to the resulting scan pattern.
     </figcaption>
   </figure>
 </div>
+
 <hr>  
 
 
