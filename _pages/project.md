@@ -7,7 +7,7 @@ author_profile: true
 
 <hr>
 
-Secure and Safe Assured Autonomy for Urban Air Mobility
+Secure and Safe Assured Autonomy for Urban Air Mobility (S2A2 for UAM)
 ------
 <p> 
 <strong>National Aeronautics and Space Administration (NASA)</strong><br>
