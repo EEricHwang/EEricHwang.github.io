@@ -54,7 +54,6 @@ Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks
 ------
 <p> 
 <strong> Cummins Inc., Cummins Technical Center </strong><br>
-<strong> Controls Research Engineer Intern </strong><br>  
 <strong>Research Periods:</strong> May 2025 &ndash; Aug 2025 <br>
 As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, I led the design and implementation of real-time predictive control algorithms aimed at improving both safety and energy efficiency for Class 8 semi-trucks. My work centered on the development of an Eco-Adaptive Cruise Control (Eco-ACC) system powered by Cummins Power Systems, where I applied a model predictive control (MPC) framework to optimize vehicle performance. By incorporating predictive strategies that account for road grade and interactions with preceding vehicles, I demonstrated up to 5–7% improvement in fuel economy while ensuring compliance with safety margin under diverse driving conditions.
 </p>
@@ -70,7 +69,6 @@ Motion Profiler and Controller Design for High-Performance Galvanometer Scanners
 ------
 <p> 
 <strong> Pangolin Laser System Inc., ScannerMAX Division </strong><br>
-<strong> Control Systems Servo R&D Intern</strong><br>  
 <strong>Research Periods:</strong> June 2026 &ndash; Aug 2026 <br>
 As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I developed a real-time motion profiler and controller for galvanometer scanner systems. By integrating classical bang-bang switching-curve control with a digital-twin voltage/current estimator, the controller dynamically computed the available acceleration at each control step. This eliminated amplitude-specific tuning while enabling consistent full-voltage utilization across a wide range of motion amplitudes.
 </p>
