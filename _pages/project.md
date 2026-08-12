@@ -73,6 +73,7 @@ Motion Profiler and Controller Design for High-Performance Galvanometer Scanners
 As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I developed a real-time motion profiler and controller for galvanometer scanner systems. By integrating classical bang-bang switching-curve control with a digital-twin voltage/current estimator, the controller dynamically computed the available acceleration at each control step. This eliminated amplitude-specific tuning while enabling consistent full-voltage utilization across a wide range of motion amplitudes.
 </p>
 
+<hr>  
 <div style="text-align: center;">
   <figure style="display: inline-block; margin: 10px auto;">
     <video style="width: 100%; max-width: 1000px; height: auto;" autoplay loop muted>
@@ -83,7 +84,7 @@ As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I
     </figcaption>
   </figure>
 </div>
-
+<hr>  
 
 <hr>  
 
