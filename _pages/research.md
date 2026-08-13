@@ -271,7 +271,7 @@ Multi-agent systems, such as UAM fleets and multi-robot teams, are typically pow
 
 <strong>Publications:</strong>
 <br>
-<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Guanlin Wu, Minhyun Cho, and Inseok Hwang, "<strong>Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design</strong>", IEEE Control Systems Letters, (Under review) </small>
+<small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Guanlin Wu, Minhyun Cho, and Inseok Hwang, "<strong>Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design</strong>", IEEE Control Systems Letters, (Accepted) </small>
 <hr>  
   
 </div>
