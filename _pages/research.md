@@ -264,7 +264,7 @@ Multi-agent systems, such as UAM fleets and multi-robot teams, are typically pow
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Energy-Aware.png" alt="MAS" style="width:100%">
+  <img src="/images/Energy-Aware.png" alt="MAS" style="width:110%">
   <figcaption> Figure: Energy-aware MAS consensus control framework — SOC-dependent interaction weights combined with LMI-based observer/controller synthesis to guarantee battery safety. </figcaption>
 </div>
 <hr>  
