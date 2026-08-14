@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics at Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. My research focuses on <strong>resilient</strong>, <strong>safety-critical</strong>, and <strong>energy-aware</strong> control and estimation for multi-agent cyber-physical systems operating under uncertainty and adversarial conditions.
+I am a Ph.D. candidate at the [<strong> School of Aeronautics and Astronautics at Purdue University</strong>](https://engineering.purdue.edu/AAE), advised by Dr. Inseok Hwang. My research focuses on <strong>resilient</strong>, <strong>safety-critical</strong>, and <strong>energy-aware control and estimation</strong> for multi-agent cyber-physical systems operating under uncertainty and adversarial conditions.
   
 <hr>  
 <div style="text-align:center;">
