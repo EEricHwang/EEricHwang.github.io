@@ -9,11 +9,7 @@ author_profile: true
 <strong style="font-size: 1.2em;">In Progress</strong>
 <hr>
 <ul class="pub-list under-review">
-  <li><div>
-    <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, M. Cho, and I. Hwang,
-    "Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design,"
-    <em>IEEE Control Systems Letters (L-CSS)</em>, Accepted in August 2026.
-  </div></li>
+  <li><div>To appear</div></li>
 </ul>
 
 <hr>
@@ -21,6 +17,8 @@ author_profile: true
 <strong style="font-size: 1.2em;">Journal Papers</strong>
 <hr>
 <ul class="pub-list journal">
+
+<li><div><span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, M. Cho, and I. Hwang, "Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design," <em>IEEE Control Systems Letters (L-CSS)</em>, Accepted in August 2026. </div></li>
 
 <li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, M. Cho, and I. Hwang, "Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework," <em>ASME Letters in Dynamic Systems and Control</em>, Accepted in June 2026. </div></li>
 
