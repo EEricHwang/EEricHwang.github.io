@@ -79,8 +79,9 @@ author_profile: true
 <strong style="font-size: 1.2em;">Book Chapter</strong>
 <hr>
 <ul class="pub-list book">
-  <li><div><span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang, "Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks," in <strong><a href="https://www.worldscientific.com/worldscibooks/10.1142/14831?srsltid=AfmBOoqYXrBO3tGG6B0n6iq8pWnIUMNj7dmKh8YqwAgY9fKrHIHxH8ee#t=aboutBook" target="_blank" rel="noopener noreferrer"><em>Advances in Transportation Cybersecurity and Resilience</em></a></strong>, World Scientific Publishing. </div></li>
+  <li><div><span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang, "<strong><a href="https://www.worldscientific.com/doi/abs/10.1142/9789819831548_0004" target="_blank" rel="noopener noreferrer">Proactive Risk Assessment of Multi-Vehicle Transportation Systems via Reachability Analysis against Stealthy Attacks</a></strong>," in <em>Advances in Transportation Cybersecurity and Resilience</em>, World Scientific Publishing. </div></li>
 </ul>
+
 
 <hr>
 
