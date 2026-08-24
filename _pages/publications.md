@@ -10,7 +10,7 @@ author_profile: true
 <hr>
 <ul class="pub-list under-review">
 
-<li><div> <span style="text-decoration: underline;">M. Cho, <strong>S. Hwang*</strong></span>, G. Wu, Z. Chen, and I. Hwang, "Safe Battery Envelope Protection for eVTOL Aircraft via Koopman-Based Control Barrier Functions," Submitted to <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, 2027. </div></li>
+<li><div> M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, Z. Chen, and I. Hwang, "Safe Battery Envelope Protection for eVTOL Aircraft via Koopman-Based Control Barrier Functions," Submitted to <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, 2027. </div></li>
 
 </ul>
 
