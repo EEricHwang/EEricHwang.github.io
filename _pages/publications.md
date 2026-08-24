@@ -9,8 +9,11 @@ author_profile: true
 <strong style="font-size: 1.2em;">In Progress</strong>
 <hr>
 <ul class="pub-list under-review">
-  <li><div>To appear</div></li>
+
+<li><div> <span style="text-decoration: underline;">M. Cho, <strong>S. Hwang*</strong></span>, G. Wu, Z. Chen, and I. Hwang, "Safe Battery Envelope Protection for eVTOL Aircraft via Koopman-Based Control Barrier Functions," Submitted to <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, 2027. </div></li>
+
 </ul>
+
 
 <hr>
 
@@ -53,21 +56,21 @@ author_profile: true
 
 <li><div> G. Wu, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, Z. Chen, and I. Hwang, "Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries," <em>2026 Modeling, Estimation and Control Conference (MECC)</em>, Accepted in June 2026. </div></li>
 
-  <li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>," <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026. </div></li>
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-1584" target="_blank" rel="noopener noreferrer">LMI-Driven Tracking Control of Fuzzy Nonlinear Cyber-Physical Systems: Application to Quadrotor UAVs in Urban-Like Environment</a></strong>," <em>AIAA SciTech 2026: Intelligent Systems</em>, Orlando, FL, Jan. 2026. </div></li>
 
-  <li><div> M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, V. Vishnu, S. Byeon, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations</a></strong>," <em>AIAA SciTech 2026: Electrified Aircraft Technology</em>, Orlando, FL, Jan. 2026. </div></li>
+<li><div> M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, G. Wu, V. Vishnu, S. Byeon, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/abs/10.2514/6.2026-0920" target="_blank" rel="noopener noreferrer">C-Rate Constrained Path Planning for Battery Pack Health Management in Long-Term eVTOL Operations</a></strong>," <em>AIAA SciTech 2026: Electrified Aircraft Technology</em>, Orlando, FL, Jan. 2026. </div></li>
 
-  <li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, G. Wu, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a></strong>," <em>64th IEEE Conference on Decision and Control (CDC)</em>, Rio de Janeiro, Brazil, Dec. 2025. </div></li>
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, G. Wu, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/11022616" target="_blank" rel="noopener noreferrer">Resilient Tracking Control for Leader-Follower Multi-Agent Systems Against Sinusoidal Sensor Attacks: An LMI-Based Framework</a></strong>," <em>64th IEEE Conference on Decision and Control (CDC)</em>, Rio de Janeiro, Brazil, Dec. 2025. </div></li>
 
-  <li><div> S. Kim, M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery</a></strong>," <em>AIAA SciTech 2025: Cybersecurity</em>, Orlando, FL, Jan. 2025. </div></li>
+<li><div> S. Kim, M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2025-2722" target="_blank" rel="noopener noreferrer">Safety-Critical Control for Nonlinear Affine System with Robustness and Attack Recovery</a></strong>," <em>AIAA SciTech 2025: Cybersecurity</em>, Orlando, FL, Jan. 2025. </div></li>
 
-  <li><div> Y. Guo, K. A. Pant, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, V. Vijay, J. M. Goppert, and I. Hwang, "<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-1050-4_1" target="_blank" rel="noopener noreferrer">RESiLIENT: A Neural-Symbolic Resilient Threat-Response Framework for Large-Scale Hierarchical Swarms</a></strong>," <em>GENZERO Workshop</em>, Abu Dhabi, UAE, Nov. 2024. </div></li>
+<li><div> Y. Guo, K. A. Pant, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, V. Vijay, J. M. Goppert, and I. Hwang, "<strong><a href="https://link.springer.com/chapter/10.1007/978-981-95-1050-4_1" target="_blank" rel="noopener noreferrer">RESiLIENT: A Neural-Symbolic Resilient Threat-Response Framework for Large-Scale Hierarchical Swarms</a></strong>," <em>GENZERO Workshop</em>, Abu Dhabi, UAE, Nov. 2024. </div></li>
 
-  <li><div> M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/10644803" target="_blank" rel="noopener noreferrer">Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis</a></strong>," <em>IEEE American Control Conference (ACC)</em>, Toronto, Canada, Jul. 2024. </div></li>
+<li><div> M. Cho, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/10644803" target="_blank" rel="noopener noreferrer">Risk Assessment of Multi-Agent System Under Denial-of-Service Cyberattacks Using Reachable Set Synthesis</a></strong>," <em>IEEE American Control Conference (ACC)</em>, Toronto, Canada, Jul. 2024. </div></li>
 
-  <li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, S. Kim, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/10153779/" target="_blank" rel="noopener noreferrer">An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks</a></strong>," <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023. </div></li>
+<li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, M. Cho, S. Kim, and I. Hwang, "<strong><a href="https://ieeexplore.ieee.org/document/10153779/" target="_blank" rel="noopener noreferrer">An LMI-based Risk Assessment of Leader-Follower Multi-Agent System under Stealthy Cyberattacks</a></strong>," <em>62nd IEEE Conference on Decision and Control (CDC)</em>, Singapore, Dec. 2023. </div></li>
 
-  <li><div> S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a></strong>," <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022. </div></li>
+<li><div> S. G. Clarke, O. Thapliyal, <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, and I. Hwang, "<strong><a href="https://arc.aiaa.org/doi/10.2514/6.2022-2342" target="_blank" rel="noopener noreferrer">Attack-Resilient Distributed Optimization-based Control of Multi-Agent Systems with Dual Interaction Networks</a></strong>," <em>AIAA SciTech 2022: Intelligent Systems</em>, San Diego, CA, Jan. 2022. </div></li>
 
   <li><div> <span style="text-decoration: underline;"><strong>S. Hwang*</strong></span>, J. B. Park, and Y. Joo, "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8452222?casa_token=v6DQdx_Y_tMAAAAA:eUdSmwNEQ14hVG2QfazRhb4ZnPYDjph5Npe_wYjTtQLAae7UZMS9LwOHOrsDRbUZPYdF2Vq_dA" target="_blank" rel="noopener noreferrer">Disturbance Observer-Based H&#8734; Control of the T-S Fuzzy Model Under Imperfect Premise Matching</a></strong>," <em>IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)</em>, Auckland, New Zealand, Jul. 2018. </div></li>
 
