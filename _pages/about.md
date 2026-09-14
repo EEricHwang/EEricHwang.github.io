@@ -64,7 +64,7 @@ For a more overview of my work, please refer to my [<strong>CV</strong>](https:/
   <h3>Older News</h3>
   <div class="news-older" aria-label="Older news (scrollable)">
 
-  <p> <strong>[March 2026 🎉]</strong> I am honored to receive the <strong> <a href="https://engineering.purdue.edu/Engr/Academics/Graduate/CurrentGraduateStudents/Awards/awards-list/college-of-engineering-awards/estus-h-and-vashti-l-magoon-award-for-research-excellence" target="_blank" rel="noopener noreferrer"> Estus H. and Vashti L. Magoon Award for Research Excellence Award </a> </strong> from the Purdue University College of Engineering in recognition of my Ph.D. graduate research! </p>
+  <p> <strong>[March 2026 🎉]</strong> I am honored to receive the <strong> <a href="https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1" target="_blank" rel="noopener noreferrer"> Estus H. and Vashti L. Magoon Award for Research Excellence Award </a> </strong> from the Purdue University College of Engineering in recognition of my Ph.D. graduate research! </p>
 
   <p> <strong>[Jan 2026 🎉]</strong> Our paper <strong> <a href="https://ieeexplore.ieee.org/document/11367661" target="_blank" rel="noopener noreferrer"> LMI-Driven Reachability Analysis for Fuzzy Model-Based Nonlinear Systems Subject to Norm-Bounded Input Perturbations </a> </strong> has been accepted for IEEE Control Systems Letters! </p>
 
