@@ -74,17 +74,11 @@ As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I
 </p>
 
 <hr>  
-<div style="text-align: center;">
-  <figure style="display: inline-block; margin: 10px auto;">
-    <video style="width: 100%; max-width: 1000px; height: auto;" autoplay loop muted>
-      <source src="/images/Galvo_Laser.mp4" type="video/mp4">
-    </video>
-    <figcaption style="font-family: 'Times New Roman', serif; font-size: 14px; margin-top: 5px;">
-      Figure: Block diagram of the real-time motion profiler and closed-loop control architecture for galvanometer scanners.
-    </figcaption>
-  </figure>
+<div style="text-align:center;">
+  <img src="/images/Figure_Scanner.png" alt="MAS" style="width:90%">
+  <figcaption> Figure: High-performance servo control for industrial laser scanners using actuator-aware motion profiling and tracking control. </figcaption>
 </div>
-<hr>  
+<hr>   
 
 <hr>  
 
