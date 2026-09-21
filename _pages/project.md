@@ -60,7 +60,7 @@ As a PhD Research Intern at Cummins’ Connected and Intelligent Systems group, 
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Cummins.png" alt="MAS" style="width:90%">
+  <img src="/images/Cummins.png" alt="MAS" style="width:100%">
   <figcaption> Figure: Schematic of a proposed Eco-ACC framework for U.S. Class 8 semi-trucks. </figcaption>
 </div>
 <hr>  
@@ -75,7 +75,7 @@ As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I
 
 <hr>  
 <div style="text-align:center;">
-  <img src="/images/Figure_Scanner.png" alt="MAS" style="width:90%">
+  <img src="/images/Figure_Scanner.png" alt="MAS" style="width:100%">
   <figcaption> Figure: High-performance servo control for industrial laser scanners using actuator-aware motion profiling and tracking control. </figcaption>
 </div>
 <hr>   
