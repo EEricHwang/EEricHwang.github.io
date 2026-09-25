@@ -238,9 +238,9 @@ The operation of modern engineering systems such as electric vehicles, renewable
 
 <strong>Publications:</strong>
 <ul style="margin-top:5px;">
-<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong><a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</a></strong>", <i>ASME Letters in Dynamic Systems and Control (with MECC 2026 option)</i>, (Accepted on June, 2026) </small> </li>
+<li> <small> <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Guanlin Wu, Minhyun Cho, Vishnu Vijay, and Inseok Hwang, "<strong><a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</a></strong>", <i>ASME Letters in Dynamic Systems and Control (ALDSC)</i>, Accepted on June, 2026. </small> </li>
 
-<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Zhou Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", <i>Modeling, Estimation and Control Conference (MECC 2026)</i>, (Accepted on June, 2026) </small> </li>
+<li> <small> Guanlin Wu, <span style="text-decoration: underline;"><strong>Sounghwan Hwang*</strong></span>, Zhou Chen, and Inseok Hwang, "<strong>Deep Koopman-Style Framework for Cross-Temperature State-of-Charge Estimation of Lithium-Ion Batteries</strong>", <i>Modeling, Estimation and Control Conference (MECC 2026)</i>, Accepted on June, 2026. </small> </li>
 </ul>
 
 <hr>
