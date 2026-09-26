@@ -78,8 +78,6 @@ As a PhD Research Intern in the Servo Control Group at Pangolin Laser Systems, I
   <img src="/images/Figure_Scanner.png" alt="MAS" style="width:100%">
   <figcaption> Figure: High-performance servo control for industrial laser scanners using actuator-aware motion profiling and tracking control. </figcaption>
 </div>
-<hr>   
-
 <hr>  
 
 
