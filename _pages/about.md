@@ -53,16 +53,16 @@ For a more overview of my work, please refer to my [<strong>CV</strong>](https:/
 </style>
 
 <div class="news">
-  <h3>Recent News</h3>
+<h3>Recent News</h3>
 
   <p> <strong>[August 2026 🎉]</strong> Our paper <strong><a href="https://ieeexplore.ieee.org/document/11663187" target="_blank" rel="noopener noreferrer">Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design</a></strong> has been accepted for IEEE Control Systems Letters! </p>
 
   <p> <strong>[June 2026 🎉]</strong>  Our paper <strong><a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</a></strong> has been accepted for the ASME Letters in Dynamic Systems and Control! I look forward to presenting my work in the 2026 Modeling, Estimation and Control Conference (<strong><a href="https://mecc2026.a2c2.org/" target="_blank" rel="noopener noreferrer">MECC 2026</a></strong>).</p>
-
-  <p> <strong>[April 2025 🎇]</strong>  I will begin my Summer Internship as a <strong>Control Systems Servo R&D Intern</strong> at Pangolin Laser Systems! My key responsibility is to develop advanced motion planning and control algorithms for high-performance servo systems, focusing on precision control in optical scanning applications. </p>
     
-  <h3>Older News</h3>
-  <div class="news-older" aria-label="Older news (scrollable)">
+<h3>Older News</h3>
+<div class="news-older" aria-label="Older news (scrollable)">
+  
+  <p> <strong>[April 2025 🎇]</strong>  I will begin my Summer Internship as a <strong>Control Systems Servo R&D Intern</strong> at Pangolin Laser Systems! My key responsibility is to develop advanced motion planning and control algorithms for high-performance servo systems, focusing on precision control in optical scanning applications. </p>
 
   <p> <strong>[March 2026 🎉]</strong> I am honored to receive the <strong> <a href="https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1" target="_blank" rel="noopener noreferrer"> Estus H. and Vashti L. Magoon Award for Research Excellence Award </a> </strong> from the Purdue University College of Engineering in recognition of my Ph.D. graduate research! </p>
 
