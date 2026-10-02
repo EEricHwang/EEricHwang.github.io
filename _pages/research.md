@@ -337,7 +337,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
       <p class="research-index">Research area 04</p>
       <h2 class="research-title" id="battery-estimation-title">Battery Modeling &amp; State Estimation</h2>
       <p class="research-summary">I develop Koopman-based models and LMI-based observers to estimate the state of charge of lithium-ion batteries. My work connects data-driven representations of nonlinear battery dynamics with control-theoretic observer design.</p>
-      <p class="research-tags">Koopman operators · Data-driven modeling · SOC estimation · System identification</p>
+      <p class="research-tags">Koopman operators · Data-driven modeling · SOC estimation</p>
       <div class="research-paper">
         <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer" aria-label="Selected paper on Battery Modeling &amp; State Estimation (new tab)">Selected paper <span aria-hidden="true">↗</span></a>
         <span>ASME ALDSC, 2026</span>
@@ -373,8 +373,8 @@ The operation of modern engineering systems such as electric vehicles, renewable
 <article class="research-topic" id="energy-aware-control" aria-labelledby="energy-aware-control-title">
   <div class="research-topic-top">
     <figure class="research-figure">
-      <a href="/images/Energy-Aware.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Energy-Aware Multi-Agent Coordination (new tab)">
-        <img src="/images/Energy-Aware.png" alt="Energy-aware consensus framework combining battery state of charge, interaction weights, and LMI-based control." loading="lazy" decoding="async">
+      <a href="/images/energy-aware-uav-network.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Energy-Aware Multi-Agent Coordination (new tab)">
+        <img src="/images/energy-aware-uav-network.png" alt="Conceptual illustration of four networked quadrotor UAVs with different battery charge levels." loading="lazy" decoding="async">
       </a>
       <figcaption>Cooperative control with battery constraints</figcaption>
     </figure>
