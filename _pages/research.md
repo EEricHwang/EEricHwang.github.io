@@ -119,7 +119,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 
 <div align="center">
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="450" height="340" controls playsinline preload="none">
+    <video width="450" height="340" autoplay loop muted controls playsinline preload="metadata">
       <source src="/images/FDI_Off_Nominal.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px;">
@@ -128,7 +128,7 @@ In this research topic, we aim to design <strong> resilient control </strong> an
   </figure>
 
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="450" height="340" controls playsinline preload="none">
+    <video width="450" height="340" autoplay loop muted controls playsinline preload="metadata">
       <source src="/images/FDI_Resilient.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px;">
@@ -153,10 +153,10 @@ In this research topic, we aim to design <strong> resilient control </strong> an
 In this research topic, we focus on developing <strong> security metrics </strong> for multi-AVs that can measure the potential risk (e.g., collisions) by stealthy attacks. We specifically utilize an over-approximated ellipsoidal reachable set through the Lyapunov stability criterion. This reachable set (red-shaded ellipsoids) indicates the level of performance degradation (e.g., trajectory deviation) posed by attacks at certain future time steps. If there are overlaps between reachable sets, we can identify that associated AVs may have <strong> potential risks </strong> in terms of collisions during operation.</p>
 
 <div align="center">
-  <video width="470" height="360" controls playsinline preload="none">
+  <video width="470" height="360" autoplay loop muted controls playsinline preload="metadata">
   <source src ="/images/Risk_Assessment1.mp4" type="video/mp4">
   </video>
-  <video width="470" height="360" controls playsinline preload="none">
+  <video width="470" height="360" autoplay loop muted controls playsinline preload="metadata">
   <source src ="/images/Risk_Assessment2.mp4" type="video/mp4">
   </video>
 </div>
@@ -244,7 +244,7 @@ This research propose a safety-critical controller for nonlinear affine systems 
 </div>
 
 <div align="center">
-  <video width="600" height="400" controls playsinline preload="none">
+  <video width="600" height="400" autoplay loop muted controls playsinline preload="metadata">
   <source src ="/images/PX4.mp4" type="video/mp4">
   </video>
 </div>
@@ -295,7 +295,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 <div align="center">
   <!-- 왼쪽 비디오 -->
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="470" height="360" controls playsinline preload="none">
+    <video width="470" height="360" autoplay loop muted controls playsinline preload="metadata">
       <source src="/images/drone_sim.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px; margin-top:6px;">
@@ -305,7 +305,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 
   <!-- 오른쪽 비디오 -->
   <figure style="display:inline-block; text-align:center; margin:10px;">
-    <video width="470" height="360" controls playsinline preload="none">
+    <video width="470" height="360" autoplay loop muted controls playsinline preload="metadata">
       <source src="/images/drone_sim2.mp4" type="video/mp4">
     </video>
     <figcaption style="font-family:'Times New Roman'; font-size:14px; margin-top:6px;">
@@ -337,7 +337,7 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
       <p class="research-index">Research area 04</p>
       <h2 class="research-title" id="battery-estimation-title">Battery Modeling &amp; State Estimation</h2>
       <p class="research-summary">I develop Koopman-based models and LMI-based observers to estimate the state of charge of lithium-ion batteries. My work connects data-driven representations of nonlinear battery dynamics with control-theoretic observer design.</p>
-      <p class="research-tags">Koopman operators · Data-driven modeling · SOC estimation</p>
+      <p class="research-tags">Koopman operators · Data-driven modeling · SOC estimation · System identification</p>
       <div class="research-paper">
         <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer" aria-label="Selected paper on Battery Modeling &amp; State Estimation (new tab)">Selected paper <span aria-hidden="true">↗</span></a>
         <span>ASME ALDSC, 2026</span>
@@ -411,3 +411,22 @@ Multi-agent systems, such as UAM fleets and multi-robot teams, are typically pow
   </details>
 </article>
 </div>
+<script data-research-autoplay>
+// Start demonstrations when their research section opens; pause when it closes.
+document.querySelectorAll('.research-page .research-expand').forEach(function (section) {
+  var videos = section.querySelectorAll('video');
+  function syncPlayback() {
+    videos.forEach(function (video) {
+      if (section.open) {
+        video.muted = true;
+        var playback = video.play();
+        if (playback) playback.catch(function () { /* Keep manual controls available. */ });
+      } else {
+        video.pause();
+      }
+    });
+  }
+  section.addEventListener('toggle', syncPlayback);
+  syncPlayback();
+});
+</script>
