@@ -225,7 +225,7 @@ author_profile: true
     <div class="project-highlights">
       <div class="project-outcome">
         <span class="project-outcome-label">Validated result</span>
-        <strong>5–7% improvement in fuel economy</strong>
+        <strong>2–5% improvement in fuel economy</strong>
         <p>Compared with an existing PID-based method in TruckMaker software-in-the-loop (SIL) simulations.</p>
       </div>
       <h4 class="project-contributions-title">Key contributions</h4>
