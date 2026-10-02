@@ -80,8 +80,8 @@ author_profile: true
 <article class="research-topic" id="secure-autonomy" aria-labelledby="secure-autonomy-title">
   <div class="research-topic-top">
     <figure class="research-figure">
-      <a href="/images/MAS.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Resilient Multi-Agent Autonomy (new tab)">
-        <img src="/images/MAS.png" alt="Sensor attacks and their propagation through a network of cooperating UAVs." loading="eager" decoding="async">
+      <a href="/images/resilient-multi-agent-autonomy.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Resilient Multi-Agent Autonomy (new tab)">
+        <img src="/images/resilient-multi-agent-autonomy.png" alt="Conceptual illustration of red cyberattack signals corrupting one UAV sensor channel, with resilient control mitigating the attack within a cooperating four-UAV network." loading="eager" decoding="async">
       </a>
       <figcaption>Cyberattack resilience in networked systems</figcaption>
     </figure>
@@ -180,10 +180,10 @@ In this research topic, we focus on developing <strong> security metrics </stron
 <article class="research-topic" id="uav-safety" aria-labelledby="uav-safety-title">
   <div class="research-topic-top">
     <figure class="research-figure">
-      <a href="/images/UAV_Controller.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Safety-Critical UAV Control (new tab)">
-        <img src="/images/UAV_Controller.png" alt="Quadrotor control architecture showing GPS spoofing attack channels." loading="lazy" decoding="async">
+      <a href="/images/safety-critical-uav-control.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Safety-Critical UAV Control (new tab)">
+        <img src="/images/safety-critical-uav-control.png" alt="Conceptual illustration of cyberattack-induced red ellipsoidal reachable sets predicting a possible collision with an obstacle, and a teal UAV trajectory proactively avoiding the hazard." loading="lazy" decoding="async">
       </a>
-      <figcaption>UAV safety under adversarial conditions</figcaption>
+      <figcaption>Reachability-based proactive collision avoidance</figcaption>
     </figure>
     <div class="research-copy">
       <p class="research-index">Research area 02</p>
@@ -263,8 +263,8 @@ This research propose a safety-critical controller for nonlinear affine systems 
 <article class="research-topic" id="nonlinear-control" aria-labelledby="nonlinear-control-title">
   <div class="research-topic-top">
     <figure class="research-figure">
-      <a href="/images/ts_fuzzy.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Nonlinear UAV Tracking Control (new tab)">
-        <img src="/images/ts_fuzzy.png" alt="Fuzzy model representation of quadrotor dynamics connected to LMI-based controller design." loading="lazy" decoding="async">
+      <a href="/images/nonlinear-uav-tracking-control.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Nonlinear UAV Tracking Control (new tab)">
+        <img src="/images/nonlinear-uav-tracking-control.png" alt="Conceptual illustration of a quadrotor tracking a curved reference trajectory, with overlapping fuzzy membership functions." loading="lazy" decoding="async">
       </a>
       <figcaption>From nonlinear dynamics to controller synthesis</figcaption>
     </figure>
@@ -328,8 +328,8 @@ Unmanned Aerial Vehicles (UAVs) exhibit <strong> highly nonlinear </strong> and 
 <article class="research-topic" id="battery-estimation" aria-labelledby="battery-estimation-title">
   <div class="research-topic-top">
     <figure class="research-figure">
-      <a href="/images/Koopman_SOC_Estimation.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Battery Modeling &amp; State Estimation (new tab)">
-        <img src="/images/Koopman_SOC_Estimation.png" alt="Battery data transformed into a Koopman model and an LMI-based observer for state-of-charge estimation." loading="lazy" decoding="async">
+      <a href="/images/battery-modeling-state-estimation.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Battery Modeling &amp; State Estimation (new tab)">
+        <img src="/images/battery-modeling-state-estimation.png" alt="Conceptual illustration of lithium-ion battery measurements mapped from nonlinear dynamics to a lifted model and a charge-state estimate." loading="lazy" decoding="async">
       </a>
       <figcaption>Koopman-based battery state estimation</figcaption>
     </figure>
