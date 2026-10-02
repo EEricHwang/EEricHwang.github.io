@@ -120,7 +120,7 @@ redirect_from:
     <ul class="about-highlights" role="list">
       <li class="about-highlight"><span class="about-highlight-label">Research recognition</span><p>Recipient of Purdue University's <a href="https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&amp;show_sub_groups=1" target="_blank" rel="noopener noreferrer">Magoon Award for Research Excellence</a> (2026).</p></li>
       <li class="about-highlight"><span class="about-highlight-label">Industry experience</span><p>Controls research at <a href="/project/#cummins-eco-acc">Cummins</a> and servo-control development at <a href="/project/#pangolin-servo">Pangolin Laser Systems</a>.</p></li>
-      <li class="about-highlight"><span class="about-highlight-label">NASA-supported research</span><p>Cyberattack resilience and risk assessment for urban air mobility through the <a href="/project/#nasa-uam">NASA S2A2 ULI project</a>.</p></li>
+      <li class="about-highlight"><span class="about-highlight-label">NASA-supported research</span><p>Cyberattack resilience and risk assessment for urban air mobility through the <a href="/project/#nasa-uam">NASA Secure and Safe Assured Autonomy (S2A2) University Leadership Initiative (ULI) project</a>.</p></li>
     </ul>
   </section>
 
