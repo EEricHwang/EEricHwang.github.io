@@ -22,6 +22,20 @@ author_profile: true
 .project-entry { border-bottom: 1px solid #dce3e2; padding: 1.75rem 0 2rem; scroll-margin-top: 1.5rem; }
 .project-meta { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .45rem 1rem; margin-bottom: .6rem; font-size: .72em; color: var(--project-muted); }
 .project-category { color: var(--project-accent); font-weight: 700; letter-spacing: .045em; text-transform: uppercase; }
+.project-heading { display: grid; grid-template-columns: minmax(0, 1fr) 132px; align-items: center; gap: 1.4rem; }
+.project-heading-copy { min-width: 0; }
+.project-heading-without-logo { grid-template-columns: minmax(0, 1fr); }
+.project-brand { display: flex; align-items: center; justify-content: center; width: 132px; min-height: 92px; padding: .35rem; }
+.projects-page .project-brand img { display: block; max-width: 100%; height: auto; margin: 0; border: 0; box-shadow: none; }
+.project-brand-nasa img { width: 88px; }
+.project-brand-cummins img { width: 65px; }
+.project-brand-scannermax img { width: 132px; }
+.project-organization-logos { display: flex; align-items: center; flex-wrap: wrap; gap: .8rem 1.8rem; margin: 1rem 0 .15rem; }
+.project-organization-logo { display: flex; align-items: center; justify-content: center; min-height: 86px; }
+.projects-page .project-organization-logo img { display: block; max-width: 100%; height: auto; margin: 0; border: 0; box-shadow: none; }
+.project-organization-logo-kencoa { width: 180px; }
+.project-organization-logo-kai { width: 95px; }
+.project-organization-logo-motie { width: 230px; }
 .projects-page .project-title { color: var(--project-ink); font-size: 1.28em; line-height: 1.35; margin: 0 0 .65rem; }
 .project-organization, .project-role { font-size: .78em; line-height: 1.6; margin: .3rem 0; overflow-wrap: anywhere; }
 .project-organization strong, .project-role strong { color: var(--project-ink); }
@@ -54,6 +68,19 @@ author_profile: true
 .projects-page .project-demo figcaption { font-family: inherit; font-size: .78em; line-height: 1.5; margin-top: .6rem; }
 .projects-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 @media (max-width: 760px) {
+  .project-organization-logos { gap: .6rem 1.5rem; margin-top: .7rem; }
+  .project-organization-logo { min-height: 0; }
+  .project-organization-logo-kencoa { width: 150px; }
+  .project-organization-logo-kai { width: 82px; }
+  .project-organization-logo-motie { width: 215px; }
+  .project-heading { grid-template-columns: minmax(0, 1fr); gap: .9rem; }
+  .project-heading-copy { display: contents; }
+  .project-heading .project-title { grid-row: 1; margin-bottom: 0; }
+  .project-heading .project-brand { grid-row: 2; justify-content: flex-start; min-height: 0; width: 132px; padding: 0; }
+  .project-brand-nasa img { width: 72px; }
+  .project-brand-cummins img { width: 52px; }
+  .project-heading .project-organization, .project-heading .project-role { margin: 0; }
+  .project-heading { gap: .65rem; }
   .project-body { grid-template-columns: minmax(0, 1fr); gap: 1.15rem; }
   .project-figure { grid-row: 1; }
   .project-figure img { height: 210px; }
@@ -81,9 +108,17 @@ author_profile: true
 <article class="project-entry" id="nasa-uam" aria-labelledby="nasa-uam-title">
   <header>
     <div class="project-meta"><span class="project-category">Aerial autonomy</span><span>Aug 2021 – Aug 2025</span></div>
-    <h3 class="project-title" id="nasa-uam-title">Secure Autonomy for Urban Air Mobility</h3>
-    <p class="project-organization"><strong>Sponsor:</strong> National Aeronautics and Space Administration (NASA)</p>
-    <p class="project-role"><strong>My focus:</strong> Cyber threat management for cooperating aerial vehicles</p>
+    <div class="project-heading">
+      <div class="project-heading-copy">
+        <h3 class="project-title" id="nasa-uam-title">Secure Autonomy for Urban Air Mobility</h3>
+        <p class="project-organization"><strong>Research sponsor:</strong> National Aeronautics and Space Administration (NASA)</p>
+        <p class="project-role"><strong>My focus:</strong> Cyber threat management for cooperating aerial vehicles</p>
+      </div>
+      <div class="project-brand project-brand-nasa">
+        <img src="/images/logo-nasa.png" alt="NASA" loading="eager" decoding="async">
+      </div>
+    </div>
+
   </header>
   <div class="project-body">
     <div class="project-highlights">
@@ -126,9 +161,25 @@ author_profile: true
 <article class="project-entry" id="evtol-battery" aria-labelledby="evtol-battery-title">
   <header>
     <div class="project-meta"><span class="project-category">Electrified flight</span><span>Oct 2024 – Dec 2026</span></div>
-    <h3 class="project-title" id="evtol-battery-title">Battery-Aware eVTOL Modeling &amp; Simulation</h3>
-    <p class="project-organization"><strong>Sponsor:</strong> Ministry of Trade, Industry and Energy, Republic of Korea</p>
-    <p class="project-role"><strong>My focus:</strong> Tilt-rotor modeling, flight control, and power-system simulation</p>
+    <div class="project-heading project-heading-without-logo">
+      <div class="project-heading-copy">
+        <h3 class="project-title" id="evtol-battery-title">Battery-Aware eVTOL Modeling &amp; Simulation</h3>
+        <p class="project-organization"><strong>Research sponsor:</strong> Ministry of Trade, Industry and Energy, Republic of Korea</p>
+        <p class="project-role"><strong>My focus:</strong> Tilt-rotor modeling, flight control, and power-system simulation</p>
+      </div>
+
+    </div>
+    <div class="project-organization-logos" role="group" aria-label="Project organizations">
+      <div class="project-organization-logo project-organization-logo-kencoa">
+        <img src="/images/logo-kencoa-enertech.png" alt="KENCOA ENERTECH" loading="lazy" decoding="async">
+      </div>
+      <div class="project-organization-logo project-organization-logo-kai">
+        <img src="/images/logo-kai.png" alt="Korea Aerospace Industries (KAI)" loading="lazy" decoding="async">
+      </div>
+      <div class="project-organization-logo project-organization-logo-motie">
+        <img src="/images/logo-motie.jpg" alt="산업통상자원부 — Ministry of Trade, Industry and Energy" loading="lazy" decoding="async">
+      </div>
+    </div>
   </header>
   <div class="project-body">
     <div class="project-highlights">
@@ -179,9 +230,17 @@ author_profile: true
 <article class="project-entry" id="cummins-eco-acc" aria-labelledby="cummins-eco-acc-title">
   <header>
     <div class="project-meta"><span class="project-category">Heavy-duty vehicles</span><span>May 2025 – Aug 2025</span></div>
-    <h3 class="project-title" id="cummins-eco-acc-title">Predictive Eco-ACC for Heavy-Duty Trucks</h3>
-    <p class="project-organization"><strong>Company:</strong> Cummins Inc. · Cummins Technical Center</p>
-    <p class="project-role"><strong>My role:</strong> Ph.D. Research Intern · Connected and Intelligent Systems</p>
+    <div class="project-heading">
+      <div class="project-heading-copy">
+        <h3 class="project-title" id="cummins-eco-acc-title">Predictive Eco-ACC for Heavy-Duty Trucks</h3>
+        <p class="project-organization"><strong>Company:</strong> Cummins Inc. · Cummins Technical Center</p>
+        <p class="project-role"><strong>My role:</strong> Ph.D. Research Intern · Connected and Intelligent Systems</p>
+      </div>
+      <div class="project-brand project-brand-cummins">
+        <img src="/images/logo-cummins.png" alt="Cummins" loading="lazy" decoding="async">
+      </div>
+    </div>
+
   </header>
   <div class="project-body">
     <div class="project-highlights">
@@ -223,9 +282,17 @@ author_profile: true
 <article class="project-entry" id="pangolin-servo" aria-labelledby="pangolin-servo-title">
   <header>
     <div class="project-meta"><span class="project-category">Precision motion control</span><span>Jun 2026 – Aug 2026</span></div>
-    <h3 class="project-title" id="pangolin-servo-title">Actuator-Aware Control for Laser Scanners</h3>
-    <p class="project-organization"><strong>Company:</strong> Pangolin Laser Systems · ScannerMAX Division</p>
-    <p class="project-role"><strong>My role:</strong> Ph.D. Research Intern · Servo Control Group</p>
+    <div class="project-heading">
+      <div class="project-heading-copy">
+        <h3 class="project-title" id="pangolin-servo-title">Actuator-Aware Control for Laser Scanners</h3>
+        <p class="project-organization"><strong>Company:</strong> Pangolin Laser Systems · ScannerMAX Division</p>
+        <p class="project-role"><strong>My role:</strong> Ph.D. Research Intern · Servo Control Group</p>
+      </div>
+      <div class="project-brand project-brand-scannermax">
+        <img src="/images/logo-scannermax.jpg" alt="ScannerMAX, a division of Pangolin Laser Systems" loading="lazy" decoding="async">
+      </div>
+    </div>
+
   </header>
   <div class="project-body">
     <div class="project-highlights">
