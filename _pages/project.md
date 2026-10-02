@@ -214,7 +214,7 @@ author_profile: true
       <div class="project-heading-copy">
         <h3 class="project-title" id="cummins-eco-acc-title">Predictive Eco-ACC for Heavy-Duty Trucks</h3>
         <p class="project-organization"><strong>Company:</strong> Cummins Inc. · Cummins Technical Center</p>
-        <p class="project-role"><strong>My role:</strong> Ph.D. Research Intern · Connected and Intelligent Systems</p>
+        <p class="project-role"><strong>My role:</strong> Controls Research Engineer Intern · Connected and Intelligent Systems</p>
       </div>
       <div class="project-brand project-brand-cummins">
         <img src="/images/logo-cummins.png" alt="Cummins" loading="lazy" decoding="async">
@@ -265,7 +265,7 @@ author_profile: true
       <div class="project-heading-copy">
         <h3 class="project-title" id="pangolin-servo-title">Actuator-Aware Control for Laser Scanners</h3>
         <p class="project-organization"><strong>Company:</strong> Pangolin Laser Systems · ScannerMAX Division</p>
-        <p class="project-role"><strong>My role:</strong> Ph.D. Research Intern · Servo Control Group</p>
+        <p class="project-role"><strong>My role:</strong> Control Systems Servo R&D Intern · Servo Control Group</p>
       </div>
       <div class="project-brand project-brand-scannermax">
         <img src="/images/logo-scannermax.jpg" alt="ScannerMAX, a division of Pangolin Laser Systems" loading="lazy" decoding="async">
