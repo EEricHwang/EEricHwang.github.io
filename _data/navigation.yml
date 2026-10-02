@@ -1,8 +1,8 @@
-# main links links
+# Main navigation
 main:
   - title: "Research"
     url: /research/
-    
+
   - title: "Project"
     url: /project/
 
@@ -11,3 +11,6 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: "https://drive.google.com/file/d/1KfoiL3WSCRDaNayPMSjwQfOM4LnIjxmh/view?usp=drive_link"
