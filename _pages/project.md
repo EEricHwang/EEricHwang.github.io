@@ -30,12 +30,7 @@ author_profile: true
 .project-brand-nasa img { width: 88px; }
 .project-brand-cummins img { width: 65px; }
 .project-brand-scannermax img { width: 132px; }
-.project-organization-logos { display: flex; align-items: center; flex-wrap: wrap; gap: .8rem 1.8rem; margin: 1rem 0 .15rem; }
-.project-organization-logo { display: flex; align-items: center; justify-content: center; min-height: 86px; }
-.projects-page .project-organization-logo img { display: block; max-width: 100%; height: auto; margin: 0; border: 0; box-shadow: none; }
-.project-organization-logo-kencoa { width: 180px; }
-.project-organization-logo-kai { width: 95px; }
-.project-organization-logo-motie { width: 230px; }
+.project-brand-kencoa img { width: 132px; }
 .projects-page .project-title { color: var(--project-ink); font-size: 1.28em; line-height: 1.35; margin: 0 0 .65rem; }
 .project-organization, .project-role { font-size: .78em; line-height: 1.6; margin: .3rem 0; overflow-wrap: anywhere; }
 .project-organization strong, .project-role strong { color: var(--project-ink); }
@@ -68,11 +63,6 @@ author_profile: true
 .projects-page .project-demo figcaption { font-family: inherit; font-size: .78em; line-height: 1.5; margin-top: .6rem; }
 .projects-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 @media (max-width: 760px) {
-  .project-organization-logos { gap: .6rem 1.5rem; margin-top: .7rem; }
-  .project-organization-logo { min-height: 0; }
-  .project-organization-logo-kencoa { width: 150px; }
-  .project-organization-logo-kai { width: 82px; }
-  .project-organization-logo-motie { width: 215px; }
   .project-heading { grid-template-columns: minmax(0, 1fr); gap: .9rem; }
   .project-heading-copy { display: contents; }
   .project-heading .project-title { grid-row: 1; margin-bottom: 0; }
@@ -118,7 +108,6 @@ author_profile: true
         <img src="/images/logo-nasa.png" alt="NASA" loading="eager" decoding="async">
       </div>
     </div>
-
   </header>
   <div class="project-body">
     <div class="project-highlights">
@@ -161,23 +150,14 @@ author_profile: true
 <article class="project-entry" id="evtol-battery" aria-labelledby="evtol-battery-title">
   <header>
     <div class="project-meta"><span class="project-category">Electrified flight</span><span>Oct 2024 – Dec 2026</span></div>
-    <div class="project-heading project-heading-without-logo">
+    <div class="project-heading">
       <div class="project-heading-copy">
         <h3 class="project-title" id="evtol-battery-title">Battery-Aware eVTOL Modeling &amp; Simulation</h3>
         <p class="project-organization"><strong>Research sponsor:</strong> Ministry of Trade, Industry and Energy, Republic of Korea</p>
         <p class="project-role"><strong>My focus:</strong> Tilt-rotor modeling, flight control, and power-system simulation</p>
       </div>
-
-    </div>
-    <div class="project-organization-logos" role="group" aria-label="Project organizations">
-      <div class="project-organization-logo project-organization-logo-kencoa">
+      <div class="project-brand project-brand-kencoa">
         <img src="/images/logo-kencoa-enertech.png" alt="KENCOA ENERTECH" loading="lazy" decoding="async">
-      </div>
-      <div class="project-organization-logo project-organization-logo-kai">
-        <img src="/images/logo-kai.png" alt="Korea Aerospace Industries (KAI)" loading="lazy" decoding="async">
-      </div>
-      <div class="project-organization-logo project-organization-logo-motie">
-        <img src="/images/logo-motie.jpg" alt="산업통상자원부 — Ministry of Trade, Industry and Energy" loading="lazy" decoding="async">
       </div>
     </div>
   </header>
@@ -240,7 +220,6 @@ author_profile: true
         <img src="/images/logo-cummins.png" alt="Cummins" loading="lazy" decoding="async">
       </div>
     </div>
-
   </header>
   <div class="project-body">
     <div class="project-highlights">
@@ -292,7 +271,6 @@ author_profile: true
         <img src="/images/logo-scannermax.jpg" alt="ScannerMAX, a division of Pangolin Laser Systems" loading="lazy" decoding="async">
       </div>
     </div>
-
   </header>
   <div class="project-body">
     <div class="project-highlights">
