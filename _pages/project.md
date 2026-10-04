@@ -212,7 +212,7 @@ author_profile: true
     <div class="project-meta"><span class="project-category">Heavy-duty vehicles</span><span>May 2025 – Aug 2025</span></div>
     <div class="project-heading">
       <div class="project-heading-copy">
-        <h3 class="project-title" id="cummins-eco-acc-title">Predictive Eco-ACC for Heavy-Duty Trucks</h3>
+        <h3 class="project-title" id="cummins-eco-acc-title">Predictive Eco-ACC for Class 8 Heavy-Duty Trucks</h3>
         <p class="project-organization"><strong>Company:</strong> Cummins Inc. · Cummins Technical Center</p>
         <p class="project-role"><strong>My role:</strong> Controls Research Engineer Intern · Connected and Intelligent Systems</p>
       </div>
@@ -236,7 +236,7 @@ author_profile: true
       <p class="project-methods">Model predictive control (MPC) · Road-grade preview · Safe following distance SIL</p>
     </div>
     <figure class="project-figure">
-      <a href="/images/Cummins.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Predictive Eco-ACC for Heavy-Duty Trucks (new tab)">
+      <a href="/images/Cummins.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Predictive Eco-ACC for Class 8 Heavy-Duty Trucks (new tab)">
         <img src="/images/Cummins.png" alt="Eco-Adaptive Cruise Control for a Class 8 truck using road-grade preview and preceding-vehicle information." loading="lazy" decoding="async">
       </a>
       <figcaption>Predictive speed control with road and traffic information.</figcaption>
