@@ -226,7 +226,7 @@ author_profile: true
       <div class="project-outcome">
         <span class="project-outcome-label">Validated result</span>
         <strong>2–5% improvement in fuel economy</strong>
-        <p>Compared with an existing PID-based method in TruckMaker software-in-the-loop (SIL) simulations.</p>
+        <p>Compared with an existing PID-based method that relies only on instantaneous information.</p>
       </div>
       <h4 class="project-contributions-title">Key contributions</h4>
       <ul class="project-contributions">
@@ -247,7 +247,7 @@ author_profile: true
     <div class="project-details">
       <p class="project-official-title"><strong>Full project title:</strong> Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks</p>
       <p>As a Ph.D. Research Intern in Cummins’ Connected and Intelligent Systems group, I led the development of an Eco-Adaptive Cruise Control (Eco-ACC) system for Class 8 semi-trucks powered by Cummins power systems. The controller used model predictive control (MPC) to account for upcoming road grade and interactions with preceding vehicles.</p>
-      <p><strong>Evaluation:</strong> TruckMaker software-in-the-loop (SIL) simulations, using an existing PID-based method as the comparison baseline. The evaluated scenarios showed a <strong>2–5% improvement in fuel economy</strong> while maintaining the specified safety margins.</p>
+      <p><strong>Evaluation:</strong> MATLAB/Simulink-based simulations, using an existing PID-based method as the comparison baseline. The evaluated scenarios showed a <strong>2–5% improvement in fuel economy</strong> while maintaining the specified safety margins.</p>
       <figure class="project-large-figure">
         <img src="/images/Cummins.png" alt="Eco-Adaptive Cruise Control for a Class 8 truck using road-grade preview and preceding-vehicle information." loading="lazy" decoding="async">
         <figcaption>Predictive speed control with road and traffic information.</figcaption>
