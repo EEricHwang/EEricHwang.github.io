@@ -233,7 +233,7 @@ author_profile: true
         <li>Led the design and implementation of real-time, MPC-based Eco-Adaptive Cruise Control for Class 8 semi-trucks.</li>
         <li>Incorporated road-grade preview and preceding-vehicle interactions to balance fuel efficiency with safety margins.</li>
       </ul>
-      <p class="project-methods">Model predictive control · Road-grade preview · TruckMaker SIL</p>
+      <p class="project-methods">Model predictive control (MPC) · Road-grade preview · Safe following distance SIL</p>
     </div>
     <figure class="project-figure">
       <a href="/images/Cummins.png" target="_blank" rel="noopener noreferrer" aria-label="Open full-size figure: Predictive Eco-ACC for Heavy-Duty Trucks (new tab)">
