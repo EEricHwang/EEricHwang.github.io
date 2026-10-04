@@ -246,7 +246,7 @@ author_profile: true
     <summary>Project details &amp; evaluation<span class="projects-sr-only">: Predictive Eco-ACC for Heavy-Duty Trucks</span></summary>
     <div class="project-details">
       <p class="project-official-title"><strong>Full project title:</strong> Design and Implementation of Eco-Adaptive Cruise Control for Class 8 Semi-Trucks</p>
-      <p>As a Ph.D. Research Intern in Cummins’ Connected and Intelligent Systems group, I led the development of an Eco-Adaptive Cruise Control (Eco-ACC) system for Class 8 semi-trucks powered by Cummins power systems. The controller used model predictive control (MPC) to account for upcoming road grade and interactions with preceding vehicles.</p>
+      <p>As a Controls Research Engineer Intern in Cummins’ Connected and Intelligent Systems group, I led the development of an Eco-Adaptive Cruise Control (Eco-ACC) system for Class 8 semi-trucks powered by Cummins power systems. The controller used model predictive control (MPC) to account for upcoming road grade and interactions with preceding vehicles.</p>
       <p><strong>Evaluation:</strong> MATLAB/Simulink-based simulations, using an existing PID-based method as the comparison baseline. The evaluated scenarios showed a <strong>2–5% improvement in fuel economy</strong> while maintaining the specified safety margins.</p>
       <figure class="project-large-figure">
         <img src="/images/Cummins.png" alt="Eco-Adaptive Cruise Control for a Class 8 truck using road-grade preview and preceding-vehicle information." loading="lazy" decoding="async">
