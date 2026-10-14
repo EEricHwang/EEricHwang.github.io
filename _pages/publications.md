@@ -92,7 +92,6 @@ author_profile: true
     <p class="pub-authors"><strong class="pub-self">S. Hwang</strong>, G. Wu, M. Cho, and I. Hwang</p>
     <p class="pub-citation"><em>ASME Letters in Dynamic Systems and Control (ALDSC)</em>, vol. 6, no. 4, Oct. 2026.</p>
     <div class="pub-actions">
-      <span class="pub-status">Accepted</span>
       <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer" aria-label="Publication page for Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework (new tab)">Publication <span aria-hidden="true">↗</span></a>
     </div>
 
