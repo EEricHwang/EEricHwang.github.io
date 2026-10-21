@@ -82,6 +82,51 @@ author_profile: true
 }
 @media print { .project-entry { break-inside: avoid; } .projects-jump { display: none; } }
 
+
+/* K-UAM demonstration: video above the geographic route. */
+.project-mission { margin: 1.8rem 0 1.5rem; border: 1px solid #dce5e2; border-radius: 8px; overflow: hidden; background: #fff; }
+.project-mission-header { padding: 1.1rem 1.25rem 1rem; background: #f1f7f5; }
+.projects-page .project-mission-kicker { margin: 0 0 .35rem; font-size: .62em; line-height: 1.5; letter-spacing: .08em; font-weight: 700; text-transform: uppercase; color: var(--project-accent); }
+.projects-page .project-mission-title { margin: 0 0 .45rem; font-size: 1.1em; line-height: 1.4; color: var(--project-ink); }
+.projects-page .project-mission-description { margin: 0; font-size: .76em; line-height: 1.6; color: var(--project-muted); }
+.projects-page .project-mission-video { display: block; margin: 0; }
+.project-mission-video video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: #17292f; }
+.projects-page .project-mission-video figcaption { margin: 0; padding: .7rem 1.25rem; font-family: inherit; font-size: .68em; line-height: 1.6; color: var(--project-muted); }
+.projects-page .project-route { display: block; margin: 0; border-top: 1px solid #dce5e2; }
+.project-route-heading { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .5rem; padding: 1rem 1.25rem .8rem; }
+.projects-page .project-route-title { margin: 0; padding: 0; font-size: .85em; line-height: 1.5; color: var(--project-ink); }
+.project-route-distance { font-size: .63em; color: var(--project-accent); background: #edf5f2; border-radius: 20px; padding: .35rem .65rem; white-space: nowrap; }
+.project-route-map { height: 390px; width: 100%; isolation: isolate; background: #e9eeeb; font-family: inherit; }
+.projects-page .project-route-map img { max-width: none !important; max-height: none !important; margin: 0; border: 0; border-radius: 0; box-shadow: none; }
+.project-route-map .leaflet-tooltip { font-family: inherit; font-size: 12px; line-height: 1.5; padding: 6px 10px; color: #253b40; box-shadow: 0 2px 8px #253b4015; border: 1px solid #dce5e2; }
+.project-route-map .leaflet-tooltip strong { display: block; }
+.project-route-map .leaflet-tooltip small { color: #58666a; font-size: 10px; }
+.project-route-map .leaflet-control-attribution { font-size: 10px; }
+.project-route-map a.leaflet-control-zoom-in, .project-route-map a.leaflet-control-zoom-out { color: #253b40; text-decoration: none; }
+.project-route-arrow { display: flex; align-items: center; justify-content: center; border: 2px solid white; border-radius: 50%; background: #17675f; color: #fff; font: 700 19px/1 sans-serif; box-shadow: 0 2px 6px #253b4030; }
+.project-route-fallback { padding: 1.4rem 1.25rem; background: #f4f7f5; font-size: .76em; line-height: 1.7; color: var(--project-ink); }
+.project-route-fallback p { margin: .4rem 0; }
+.project-route-fallback small { color: var(--project-muted); }
+.projects-page .project-route-status { margin: 0; padding: .55rem 1.25rem; color: var(--project-muted); font-size: .7em; }
+.project-route-points { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; padding: 1rem 1.25rem .8rem; }
+.project-route-point { border-left: 2px solid #82b3a9; padding-left: .65rem; min-width: 0; }
+.project-route-point span { display: block; font-size: .58em; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--project-accent); }
+.project-route-point a { display: inline-block; margin: .3rem 0 .2rem; font-size: .73em; font-weight: 600; line-height: 1.4; }
+.project-route-point small { display: block; font-size: .58em; line-height: 1.6; color: var(--project-muted); }
+.projects-page .project-route figcaption { margin: 0; padding: 0 1.25rem 1rem; font-family: inherit; font-size: .64em; line-height: 1.6; color: var(--project-muted); }
+.project-mission [hidden] { display: none !important; }
+@media (max-width: 600px) {
+  .project-mission-header, .project-route-heading { padding-left: .9rem; padding-right: .9rem; }
+  .projects-page .project-mission-title { font-size: 1em; }
+  .project-route-map { height: 360px; }
+  .project-route-map .leaflet-tooltip { font-size: 11px; padding: 5px 7px; }
+  .project-route-points { grid-template-columns: 1fr; gap: .8rem; padding: .9rem; }
+  .project-route-point a { font-size: .82em; }
+  .project-route-point small { font-size: .7em; }
+  .projects-page .project-route figcaption, .projects-page .project-mission-video figcaption { padding-left: .9rem; padding-right: .9rem; font-size: .74em; }
+}
+@media print { .project-route-map { display: none; } }
+
 </style>
 
 <div class="projects-page">
@@ -182,8 +227,62 @@ author_profile: true
       <figcaption>Integrated eVTOL flight and powertrain simulation.</figcaption>
     </figure>
   </div>
+  <section class="project-mission" aria-labelledby="evtol-dynamics-demo-title">
+    <div class="project-mission-header">
+      <p class="project-mission-kicker">Integrated flight &amp; powertrain simulation</p>
+      <h4 class="project-mission-title" id="evtol-dynamics-demo-title">Flight Motion &amp; Battery Performance</h4>
+      <p class="project-mission-description">Simulation of tilt-rotor eVTOL flight motion and the corresponding battery response.</p>
+    </div>
+    <figure class="project-mission-video">
+      <video id="evtol-dynamics-video" width="1920" height="1080" controls muted loop playsinline preload="metadata" aria-label="Tilt-rotor eVTOL flight motion and battery performance simulation" aria-describedby="evtol-dynamics-caption">
+        <source src="/images/ABMS_Video.mp4" type="video/mp4">
+        <a href="/images/ABMS_Video.mp4">Open the flight and battery simulation video</a>
+      </video>
+      <figcaption id="evtol-dynamics-caption">Flight motion and battery electrical response across a simulated flight profile.</figcaption>
+    </figure>
+  </section>
+  <section class="project-mission" aria-labelledby="kuam-demo-title">
+    <div class="project-mission-header">
+      <p class="project-mission-kicker">Example application · Unreal Engine visualization</p>
+      <h4 class="project-mission-title" id="kuam-demo-title">K-UAM Mission Example</h4>
+      <p class="project-mission-description">As one example application of the simulator, flight-simulator outputs are integrated with Unreal Engine to visualize an eVTOL mission from Seoul Olympic Park to Bundang Central Park.</p>
+    </div>
+    <figure class="project-mission-video">
+      <video id="kuam-demo-video" width="1920" height="1080" controls muted loop playsinline preload="none" poster="/images/k-uam-demo-poster.jpg" aria-label="K-UAM eVTOL flight simulation from Seoul Olympic Park to Bundang Central Park" aria-describedby="kuam-video-caption">
+        <source src="/images/k-uam-demo.mp4" type="video/mp4">
+        <a href="/images/k-uam-demo.mp4">Open the K-UAM simulation video</a>
+      </video>
+      <figcaption id="kuam-video-caption">A 70-second visualization of this example mission. Use the player controls to pause or view full-screen.</figcaption>
+    </figure>
+    <figure class="project-route" aria-labelledby="kuam-route-title">
+      <div class="project-route-heading">
+        <h5 class="project-route-title" id="kuam-route-title">Flight route</h5>
+        <span class="project-route-distance">≈ 16.0 km · straight line</span>
+      </div>
+      <div id="kuam-route-fallback" class="project-route-fallback">
+        <p><strong>Seoul Olympic Park</strong><br>↓ Straight-line simulation route<br><strong>Bundang Central Park</strong></p>
+        <small>The interactive map loads here. You can also open either location using the links below.</small>
+      </div>
+      <div id="kuam-route-map" class="project-route-map" role="region" aria-label="Interactive map: straight flight route from Seoul Olympic Park to Bundang Central Park" hidden></div>
+      <p id="kuam-route-status" class="project-route-status" role="status" hidden></p>
+      <div class="project-route-points">
+        <div class="project-route-point">
+          <span>01 · Departure</span>
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=37.52070%2C127.12270" target="_blank" rel="noopener noreferrer">Seoul Olympic Park ↗</a>
+          <small>37.52070° N, 127.12270° E</small>
+        </div>
+        <div class="project-route-point">
+          <span>02 · Arrival</span>
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=37.37706%2C127.12442" target="_blank" rel="noopener noreferrer">Bundang Central Park ↗</a>
+          <small>37.37706° N, 127.12442° E</small>
+        </div>
+      </div>
+      <figcaption>Straight-line route between the simulation’s departure and arrival coordinates. Map: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>.</figcaption>
+    </figure>
+  </section>
+
   <details class="project-expand">
-    <summary>Project details &amp; flight simulation<span class="projects-sr-only">: Battery-Aware eVTOL Modeling &amp; Simulation</span></summary>
+    <summary>Project details &amp; simulation framework<span class="projects-sr-only">: Battery-Aware eVTOL Modeling &amp; Simulation</span></summary>
     <div class="project-details">
       <p class="project-official-title"><strong>Full project title:</strong> Development of Advanced Air Mobility Battery Management System</p>
       <p>Within the advanced air mobility battery management project, my work centers on the design and analysis of tilt-rotor eVTOL aircraft. I combine aerodynamic modeling, power-system simulation, and control design to study flight from vertical takeoff through forward cruise and the return to hover.</p>
@@ -193,13 +292,7 @@ author_profile: true
         <img src="/images/Simulink.png" alt="Integrated tilt-rotor eVTOL simulation linking aerodynamic analysis, flight control, motors, battery, and aircraft motion." loading="lazy" decoding="async">
         <figcaption>Integrated eVTOL flight and powertrain simulation.</figcaption>
       </figure>
-      <figure class="project-demo">
-        <video width="900" height="550" autoplay loop muted controls playsinline preload="metadata" aria-label="Tilt-rotor eVTOL flight and electrical performance simulation">
-          <source src="/images/ABMS_Video.mp4" type="video/mp4">
-          <a href="/images/ABMS_Video.mp4">Open the flight simulation video</a>
-        </video>
-        <figcaption>Electrical performance of a tilt-rotor eVTOL over a flight profile.</figcaption>
-      </figure>
+
     </div>
   </details>
 </article>
@@ -327,4 +420,113 @@ document.querySelectorAll('.projects-page .project-expand').forEach(function (se
   section.addEventListener('toggle', syncPlayback);
   syncPlayback();
 });
+</script>
+
+<script data-kuam-showcase>
+(function () {
+  'use strict';
+  var section = document.querySelector('.project-mission');
+  if (!section) return;
+  var videos = document.querySelectorAll('.project-mission-video video');
+  // Start each demonstration once when visible. Manual pause remains respected.
+  var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function startVideo(video) {
+    if (reducedMotion || (navigator.connection && navigator.connection.saveData)) return;
+    video.muted = true;
+    var play = video.play();
+    if (play) play.catch(function () { /* Native controls remain available. */ });
+  }
+  if ('IntersectionObserver' in window) {
+    var videoObserver = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          videoObserver.unobserve(entry.target);
+          startVideo(entry.target);
+        }
+      });
+    }, { threshold: 0.3 });
+    videos.forEach(function (video) { videoObserver.observe(video); });
+  }
+
+  var container = document.getElementById('kuam-route-map');
+  var fallback = document.getElementById('kuam-route-fallback');
+  var status = document.getElementById('kuam-route-status');
+  // Coordinates supplied for this simulation. No road-routing service is used.
+  var departure = [37.52070, 127.12270];
+  var arrival = [37.37706, 127.12442];
+  function showMapError() {
+    status.textContent = 'The interactive map is unavailable. Open the departure or arrival location using the links below.';
+    status.hidden = false;
+  }
+  function initializeMap() {
+    if (!window.L) return showMapError();
+    container.hidden = false;
+    var map = L.map(container, { scrollWheelZoom: false, zoomControl: false, zoomSnap: 0.25 });
+    L.control.zoom({ position: 'topright' }).addTo(map);
+    var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+    tiles.on('tileerror', function () {
+      status.textContent = 'Some map tiles could not load. The route and location links remain available.';
+      status.hidden = false;
+    });
+    tiles.on('tileload', function () { status.hidden = true; });
+    L.polyline([departure, arrival], { color: '#fff', weight: 8, opacity: 0.95, interactive: false }).addTo(map);
+    var route = L.polyline([departure, arrival], { color: '#17675f', weight: 4, opacity: 1, interactive: false }).addTo(map);
+    var midpoint = [(departure[0] + arrival[0]) / 2, (departure[1] + arrival[1]) / 2];
+    L.marker(midpoint, {
+      icon: L.divIcon({ className: 'project-route-arrow', html: '<span aria-hidden="true">↓</span>', iconSize: [28, 28], iconAnchor: [14, 14] }),
+      interactive: false, keyboard: false
+    }).addTo(map);
+    function endpoint(coords, title, subtitle, direction) {
+      return L.circleMarker(coords, { radius: 7, color: '#fff', weight: 3, fillColor: '#17675f', fillOpacity: 1 })
+        .addTo(map).bindTooltip('<strong>' + title + '</strong><small>' + subtitle + '</small>', {
+          permanent: true, direction: direction, offset: [0, 0]
+        });
+    }
+    endpoint(departure, 'Seoul Olympic Park', '01 · Departure', 'top');
+    endpoint(arrival, 'Bundang Central Park', '02 · Arrival', 'bottom');
+    function fitRoute() {
+      map.invalidateSize();
+      map.fitBounds(route.getBounds(), { padding: [40, 70], maxZoom: 13, animate: false });
+    }
+    fitRoute();
+    fallback.hidden = true;
+    if ('ResizeObserver' in window) new ResizeObserver(fitRoute).observe(container);
+  }
+  function loadMap() {
+    if (window.L) return initializeMap();
+    // Pin Leaflet and verify CDN files. No API key is needed.
+    var css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+    css.integrity = 'sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=';
+    css.crossOrigin = '';
+    var js = document.createElement('script');
+    js.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+    js.integrity = 'sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=';
+    js.crossOrigin = '';
+    var cssReady = false;
+    var jsReady = false;
+    function ready() { if (cssReady && jsReady) initializeMap(); }
+    css.onload = function () { cssReady = true; ready(); };
+    js.onload = function () { jsReady = true; ready(); };
+    css.onerror = js.onerror = showMapError;
+    document.head.appendChild(css);
+    document.head.appendChild(js);
+  }
+  if ('IntersectionObserver' in window) {
+    var mapObserver = new IntersectionObserver(function (entries) {
+      if (entries.some(function (entry) { return entry.isIntersecting; })) {
+        mapObserver.disconnect();
+        loadMap();
+      }
+    }, { rootMargin: '250px' });
+    mapObserver.observe(fallback);
+  } else {
+    loadMap();
+  }
+}());
+
 </script>
