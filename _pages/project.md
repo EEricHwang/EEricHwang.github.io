@@ -428,7 +428,7 @@ document.querySelectorAll('.projects-page .project-expand').forEach(function (se
   var section = document.querySelector('.project-mission');
   if (!section) return;
   var videos = document.querySelectorAll('.project-mission-video video');
-  // Start each demonstration once when visible. Manual pause remains respected.
+  /* Start each demonstration once when visible. Manual pause remains respected. */
   var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   function startVideo(video) {
     if (reducedMotion || (navigator.connection && navigator.connection.saveData)) return;
@@ -451,7 +451,7 @@ document.querySelectorAll('.projects-page .project-expand').forEach(function (se
   var container = document.getElementById('kuam-route-map');
   var fallback = document.getElementById('kuam-route-fallback');
   var status = document.getElementById('kuam-route-status');
-  // Coordinates supplied for this simulation. No road-routing service is used.
+  /* Coordinates supplied for this simulation. No road-routing service is used. */
   var departure = [37.52070, 127.12270];
   var arrival = [37.37706, 127.12442];
   function showMapError() {
@@ -497,7 +497,7 @@ document.querySelectorAll('.projects-page .project-expand').forEach(function (se
   }
   function loadMap() {
     if (window.L) return initializeMap();
-    // Pin Leaflet and verify CDN files. No API key is needed.
+    /* Pin Leaflet and verify CDN files. No API key is needed. */
     var css = document.createElement('link');
     css.rel = 'stylesheet';
     css.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
