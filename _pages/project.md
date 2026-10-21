@@ -198,7 +198,7 @@ author_profile: true
     <div class="project-heading">
       <div class="project-heading-copy">
         <h3 class="project-title" id="evtol-battery-title">Battery-Aware eVTOL Modeling &amp; Simulation</h3>
-        <p class="project-organization"><strong>Research sponsor:</strong> Ministry of Trade, Industry and Energy, Republic of Korea</p>
+        <p class="project-organization"><strong>Research sponsor:</strong> Ministry of Trade, Industry and Energy (MOTIE), Republic of Korea</p>
         <p class="project-role"><strong>My focus:</strong> Tilt-rotor modeling, flight control, and power-system simulation</p>
       </div>
       <div class="project-brand project-brand-kencoa">
