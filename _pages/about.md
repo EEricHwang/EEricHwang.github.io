@@ -24,10 +24,10 @@ redirect_from:
 .about-page .about-cv-note { margin: .5rem 0 0; color: var(--about-muted); font-size: .67em; line-height: 1.5; }
 .about-section { margin-top: 1.75rem; padding-top: 1.3rem; border-top: 1px solid #dce3e2; }
 .about-page .about-section-title { margin: 0 0 1rem; padding: 0; border: 0; color: var(--about-ink); font-size: 1.1em; line-height: 1.4; }
-.about-themes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.about-themes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
 .about-page .about-theme { display: block; min-width: 0; color: var(--about-ink); text-decoration: none; border: 1px solid #e1e8e5; border-radius: 5px; padding: .7rem .65rem .75rem; background: #fff; }
 .about-page .about-theme:hover { border-color: var(--about-accent); }
-.about-page .about-theme img { display: block; width: 100%; height: 115px; object-fit: contain; margin: 0 0 .6rem; border: 0; border-radius: 0; box-shadow: none; }
+.about-page .about-theme img { display: block; width: 100%; height: 160px; object-fit: contain; margin: 0 0 .6rem; border: 0; border-radius: 0; box-shadow: none; }
 .about-page .about-theme:hover img { box-shadow: none; }
 .about-theme-title { display: block; color: var(--about-accent); font-size: .78em; line-height: 1.5; font-weight: 700; }
 .about-theme-detail { display: block; margin-top: .2rem; color: var(--about-muted); font-size: .66em; line-height: 1.5; }
@@ -107,6 +107,10 @@ redirect_from:
       <a class="about-theme" href="/research/#energy-aware-control" aria-label="Explore energy-aware systems research">
         <img src="/images/energy-aware-uav-network.png" alt="Concept illustration of networked UAVs with different battery charge levels." loading="eager" decoding="async">
         <span><span class="about-theme-title">Energy-aware systems</span><span class="about-theme-detail">Coordination with battery constraints</span></span>
+      </a>
+      <a class="about-theme" href="/project/#evtol-battery" aria-label="Explore battery-aware eVTOL modeling and simulation">
+        <img src="/images/battery-aware-evtol-simulation.png" alt="Concept illustration of a winged tilt-rotor eVTOL, its flight profile, and a connected battery pack." loading="eager" decoding="async">
+        <span><span class="about-theme-title">Battery-aware eVTOL</span><span class="about-theme-detail">Flight dynamics &amp; powertrain simulation</span></span>
       </a>
     </div>
     <details class="about-research-map">
