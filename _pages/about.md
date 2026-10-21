@@ -110,7 +110,7 @@ redirect_from:
       </a>
       <a class="about-theme" href="/project/#evtol-battery" aria-label="Explore battery-aware eVTOL modeling and simulation">
         <img src="/images/battery-aware-evtol-simulation.png" alt="Concept illustration of a winged tilt-rotor eVTOL, its flight profile, and a connected battery pack." loading="eager" decoding="async">
-        <span><span class="about-theme-title">Battery-aware eVTOL</span><span class="about-theme-detail">Flight dynamics &amp; powertrain simulation</span></span>
+        <span><span class="about-theme-title">Battery-aware eVTOL Simulator Development</span><span class="about-theme-detail">Flight dynamics &amp; powertrain simulation</span></span>
       </a>
     </div>
     <details class="about-research-map">
