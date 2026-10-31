@@ -27,6 +27,7 @@ author_profile: true
 .talk-page .talk-event { margin: 0 0 .2rem; color: var(--talk-ink); font-size: .8em; font-weight: 600; line-height: 1.65; }
 .talk-page .talk-location { margin: 0; color: var(--talk-muted); font-size: .76em; line-height: 1.6; }
 .talk-page .talk-summary { margin: .85rem 0 .9rem; color: var(--talk-muted); font-size: .81em; line-height: 1.7; }
+.talk-resources { display: flex; flex-wrap: wrap; gap: .55rem; }
 .talk-page .talk-resource { display: inline-flex; align-items: center; gap: .65rem; min-height: 42px; padding: .35rem .85rem; border: 1px solid #bfd3ce; border-radius: 4px; background: #f5f9f8; font-size: .74em; font-weight: 600; line-height: 1.4; text-decoration: none; }
 .talk-page .talk-resource:hover { color: #fff; background: var(--talk-accent); border-color: var(--talk-accent); }
 .talk-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
@@ -51,7 +52,27 @@ author_profile: true
 </style>
 
 <div class="talk-page">
-  <p class="talk-intro">Talks, posters, and seminars from my Ph.D. research on resilient autonomy, safety-critical control, and cyberattack risk assessment.</p>
+  <p class="talk-intro">Talks, posters, and seminars from my Ph.D. research on resilient autonomy, safety-critical control, cyberattack risk assessment, and battery state estimation.</p>
+  <section class="talk-year-group" aria-labelledby="talk-year-2026">
+    <h2 class="talk-year" id="talk-year-2026">2026</h2>
+    <div class="talk-year-entries">
+    <article class="talk-entry" id="mecc-2026" aria-labelledby="mecc-2026-title">
+      <div class="talk-entry-header">
+        <span class="talk-type">Conference presentation</span>
+        <time class="talk-date" datetime="2026-10-27">October 27<span class="talk-sr-only">, 2026</span></time>
+      </div>
+      <h3 class="talk-title" id="mecc-2026-title">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</h3>
+      <p class="talk-event">Modeling, Estimation and Control Conference (MECC 2026)</p>
+      <p class="talk-location">Phoenix, Arizona</p>
+      <p class="talk-summary">Koopman-based modeling and LMI-based observer design for estimating the state of charge of lithium-ion batteries.</p>
+      <div class="talk-resources">
+        <a class="talk-resource" href="https://drive.google.com/file/d/1DnfN_YQkiByuGSD86d333C7yquOOVCbo/view?usp=sharing" target="_blank" rel="noopener noreferrer" aria-label="Slides: Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework (new tab)">View slides <span aria-hidden="true">↗</span></a>
+        <a class="talk-resource" href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer" aria-label="Paper: Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework (new tab)">Read paper <span aria-hidden="true">↗</span></a>
+      </div>
+    </article>
+    </div>
+  </section>
+
   <section class="talk-year-group" aria-labelledby="talk-year-2025">
     <h2 class="talk-year" id="talk-year-2025">2025</h2>
     <div class="talk-year-entries">
