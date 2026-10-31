@@ -98,19 +98,19 @@ redirect_from:
     <div class="about-themes">
       <a class="about-theme" href="/research/#secure-autonomy" aria-label="Explore resilient autonomy research">
         <img src="/images/resilient-multi-agent-autonomy.png" alt="Concept illustration of cooperating UAVs and cyberattack mitigation." loading="eager" decoding="async">
-        <span><span class="about-theme-title">Resilient autonomy</span><span class="about-theme-detail">Cooperation under cyberattacks</span></span>
+        <span><span class="about-theme-title">Resilient Autonomy</span><span class="about-theme-detail">Cooperation under cyberattacks</span></span>
       </a>
       <a class="about-theme" href="/research/#uav-safety" aria-label="Explore safety-critical control research">
         <img src="/images/safety-critical-uav-control.png" alt="Concept illustration of red reachable sets and a proactive collision-avoidance path." loading="eager" decoding="async">
-        <span><span class="about-theme-title">Safety-critical control</span><span class="about-theme-detail">Anticipating and avoiding risk</span></span>
+        <span><span class="about-theme-title">Safety-Critical Control</span><span class="about-theme-detail">Anticipating and avoiding risk</span></span>
       </a>
       <a class="about-theme" href="/research/#energy-aware-control" aria-label="Explore energy-aware systems research">
         <img src="/images/energy-aware-uav-network.png" alt="Concept illustration of networked UAVs with different battery charge levels." loading="eager" decoding="async">
-        <span><span class="about-theme-title">Energy-aware systems</span><span class="about-theme-detail">Coordination with battery constraints</span></span>
+        <span><span class="about-theme-title">Energy-Aware Systems</span><span class="about-theme-detail">Coordination with battery constraints</span></span>
       </a>
       <a class="about-theme" href="/project/#evtol-battery" aria-label="Explore battery-aware eVTOL modeling and simulation">
         <img src="/images/battery-aware-evtol-simulation.png" alt="Concept illustration of a winged tilt-rotor eVTOL, its flight profile, and a connected battery pack." loading="eager" decoding="async">
-        <span><span class="about-theme-title">Battery-aware eVTOL Simulator Development</span><span class="about-theme-detail">Flight dynamics &amp; powertrain simulation</span></span>
+        <span><span class="about-theme-title">Battery-Aware eVTOL Simulator Development</span><span class="about-theme-detail">Flight dynamics &amp; powertrain simulation</span></span>
       </a>
     </div>
     <details class="about-research-map">
