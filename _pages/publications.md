@@ -75,12 +75,11 @@ author_profile: true
 <li class="publication-entry" id="pub-j1">
   <span class="pub-number">[J1]</span>
   <div class="pub-content">
-    <h3 class="pub-title"><a href="https://ieeexplore.ieee.org/document/11663187" target="_blank" rel="noopener noreferrer">Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design</a></h3>
+    <h3 class="pub-title"><a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</a></h3>
     <p class="pub-authors"><strong class="pub-self">S. Hwang</strong>, G. Wu, M. Cho, and I. Hwang</p>
-    <p class="pub-citation"><em>IEEE Control Systems Letters (L-CSS)</em>, vol. 10, pp. 2293-2298, Aug. 2026.</p>
+    <p class="pub-citation"><em>ASME Letters in Dynamic Systems and Control (ALDSC)</em>, vol. 6, no. 4, Oct. 2026.</p>
     <div class="pub-actions">
-
-      <a href="https://ieeexplore.ieee.org/document/11663187" target="_blank" rel="noopener noreferrer" aria-label="Publication page for Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design (new tab)">Publication <span aria-hidden="true">↗</span></a>
+      <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer" aria-label="Publication page for Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework (new tab)">Publication <span aria-hidden="true">↗</span></a>
     </div>
 
   </div>
@@ -88,11 +87,12 @@ author_profile: true
 <li class="publication-entry" id="pub-j2">
   <span class="pub-number">[J2]</span>
   <div class="pub-content">
-    <h3 class="pub-title"><a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</a></h3>
+    <h3 class="pub-title"><a href="https://ieeexplore.ieee.org/document/11663187" target="_blank" rel="noopener noreferrer">Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design</a></h3>
     <p class="pub-authors"><strong class="pub-self">S. Hwang</strong>, G. Wu, M. Cho, and I. Hwang</p>
-    <p class="pub-citation"><em>ASME Letters in Dynamic Systems and Control (ALDSC)</em>, vol. 6, no. 4, Oct. 2026.</p>
+    <p class="pub-citation"><em>IEEE Control Systems Letters (L-CSS)</em>, vol. 10, pp. 2293-2298, Aug. 2026.</p>
     <div class="pub-actions">
-      <a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer" aria-label="Publication page for Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework (new tab)">Publication <span aria-hidden="true">↗</span></a>
+
+      <a href="https://ieeexplore.ieee.org/document/11663187" target="_blank" rel="noopener noreferrer" aria-label="Publication page for Energy-Aware Consensus Control for Multi-Agent Systems with Guaranteed Battery Safety via H-Infinity LMI Design (new tab)">Publication <span aria-hidden="true">↗</span></a>
     </div>
 
   </div>
