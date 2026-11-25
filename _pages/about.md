@@ -131,6 +131,10 @@ redirect_from:
   <section class="about-section" aria-labelledby="about-news-title">
     <h2 class="about-section-title" id="about-news-title">Recent news</h2>
     <ul class="about-news-list" role="list">
+    <li class="about-news-item" id="news-phd-defense-2026">
+      <div class="about-news-meta"><time class="about-news-date" datetime="2026-11-23">November 23, 2026</time><span class="about-news-category">Milestone</span></div>
+      <p class="about-news-body">I <strong>successfully defended my Ph.D. dissertation</strong> at Purdue University! <span style="display: block; margin: .4rem 0;"><strong><em>Toward Secure, Safe, and Resilient Multi Agent Cyber-Physical Systems: A Control-Theoretical Approach</em></strong></span>My dissertation brings together cyberattack-resilient and safety-critical control, energy-aware multi-agent coordination, and data-driven battery state-of-charge (SOC) estimation.</p>
+    </li>
     <li class="about-news-item" id="news-mecc-2026">
       <div class="about-news-meta"><time class="about-news-date" datetime="2026-10">October 2026</time><span class="about-news-category">Conference</span></div>
       <p class="about-news-body">I presented <strong><a href="/talk/#mecc-2026">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</a></strong> at the <a href="https://mecc2026.a2c2.org/" target="_blank" rel="noopener noreferrer">2026 Modeling, Estimation and Control Conference (MECC 2026)</a> in Phoenix, Arizona. <a href="https://drive.google.com/file/d/1DnfN_YQkiByuGSD86d333C7yquOOVCbo/view?usp=sharing" target="_blank" rel="noopener noreferrer" aria-label="View MECC 2026 presentation slides (new tab)">View slides <span aria-hidden="true">↗</span></a></p>
@@ -143,14 +147,14 @@ redirect_from:
       <div class="about-news-meta"><time class="about-news-date" datetime="2026-06">June 2026</time><span class="about-news-category">Publication</span></div>
       <p class="about-news-body">Our paper <strong><a href="https://asmedigitalcollection.asme.org/lettersdynsys/article-abstract/doi/10.1115/1.4072730/1235540/Koopman-Based-State-of-Charge-Observer-Design-for?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer">Koopman-Based State-of-Charge Observer Design for Lithium-Ion Batteries: An LMI-Based Framework</a></strong> was accepted for publication in ASME Letters in Dynamic Systems and Control!</p>
     </li>
+    </ul>
+    <details class="about-news-archive">
+      <summary>Earlier news <span aria-hidden="true">(10)</span></summary>
+      <ul class="about-news-list" role="list">
     <li class="about-news-item" id="news-3">
       <div class="about-news-meta"><time class="about-news-date" datetime="2026-04">April 2026</time><span class="about-news-category">Industry</span></div>
       <p class="about-news-body">Summer internship: <strong>Control Systems Servo R&amp;D Intern</strong> at Pangolin Laser Systems, focusing on motion planning and precision control for optical scanning systems.</p>
     </li>
-    </ul>
-    <details class="about-news-archive">
-      <summary>Earlier news <span aria-hidden="true">(9)</span></summary>
-      <ul class="about-news-list" role="list">
     <li class="about-news-item" id="news-4">
       <div class="about-news-meta"><time class="about-news-date" datetime="2026-03">March 2026</time><span class="about-news-category">Award</span></div>
       <p class="about-news-body">I received the <strong> <a href="https://engineering.purdue.edu/Engr/People/Awards/Graduate/ptRecipientListing?group_id=237384&show_sub_groups=1" target="_blank" rel="noopener noreferrer"> Estus H. and Vashti L. Magoon Award for Research Excellence </a> </strong> from the Purdue University College of Engineering in recognition of my Ph.D. graduate research!</p>
